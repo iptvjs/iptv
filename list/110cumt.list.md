@@ -10,7 +10,7 @@
 | 4 | 金色频道 | IPv4 直链 | <http://180.167.104.105:9901/tsfile/live/1029_1.m3u8?key=txiptv> |
 | 5 | 2024-03-21 19:48:11 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 07:10:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 08:26:24 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
