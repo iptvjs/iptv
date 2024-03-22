@@ -143,4 +143,4 @@
 | 137 | [HD]龙华经典 | epg.pw | <https://epg.pw/stream/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 138 | [HD]龙华电影 | epg.pw | <https://epg.pw/stream/d931f1d4cba13e312f36fd0bd28da90c383ecea35a55457fc0067c871585587b.m3u8> |
 
-Updated at **Fri Mar 22 2024 00:29:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**

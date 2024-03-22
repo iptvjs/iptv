@@ -59,4 +59,4 @@
 | 53 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 54 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **Fri Mar 22 2024 00:29:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**

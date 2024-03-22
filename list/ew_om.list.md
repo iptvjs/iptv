@@ -19,4 +19,4 @@
 | 13 | [BD]澳门莲花 | epg.pw | <https://epg.pw/stream/07600e6d5693914a7ef6931ae6394ded0d536f1928f926c4924f38ba34a9a916.ctv> |
 | 14 | [HD]澳门资讯 | epg.pw | <https://epg.pw/stream/df07814fabb1663ac92b3f84ece74ca5a524a5a3a6af19435ff064633fa59197.m3u8> |
 
-Updated at **Fri Mar 22 2024 00:29:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**
