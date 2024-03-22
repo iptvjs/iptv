@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import type { TREADMESources, TREADMEEPGSources } from "../types"
-import { handle_m3u, get_from_info } from "../utils"
+import { handle_m3u, get_from_info, RAW_URL } from "../utils"
 
 export const updateChannelList = (
   name: string,
@@ -28,7 +28,7 @@ export const updateChannelList = (
     .replace(
       "<!-- list_title_here -->",
       `# List for **${name}**${rollback ? "(Rollback)" : ""
-      }\n\n> M3U: [${f_name}.m3u](/${f_name}.m3u), TXT: [${f_name}.txt](/txt/${f_name}.txt)`
+      }\n\n> M3U: [${f_name}.m3u](${RAW_URL}/${f_name}.m3u), TXT: [${f_name}.txt](${RAW_URL}/txt/${f_name}.txt)`
     )
     .replace(
       "<!-- channels_here -->",
@@ -62,9 +62,9 @@ export const updateReadme = (
       `${sources
         ?.map(
           (s, idx) =>
-            `| ${s.name} | [${s.f_name}.m3u](/${s.f_name
-            }.m3u) <br> [${s.f_name}.txt](/txt/${s.f_name
-            }.txt) | [List for ${s.name}](/list/${s.f_name
+            `| ${s.name} | [${s.f_name}.m3u](${RAW_URL}/${s.f_name
+            }.m3u) <br> [${s.f_name}.txt](${RAW_URL}/txt/${s.f_name
+            }.txt) | [List for ${s.name}](${RAW_URL}/list/${s.f_name
             }.list) | ${sources_res?.[idx]?.[1] === undefined
               ? "update failed"
               : sources_res[idx][1]

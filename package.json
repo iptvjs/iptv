@@ -4,7 +4,7 @@
   "type": "module",
   "main": "main.js",
   "types": "src/types/index.d.ts",
-  "repository": "git@github.com:vodtv/vodtv.cn.git",
+  "repository": "git@github.com:iptvjs/iptv.git",
   "author": "vodtv <viptvx@gmail.com>",
   "license": "MIT",
   "scripts": {

@@ -1,4 +1,4 @@
-<div align="center"><h1> <a href="https://vodtv.cn">主站</a> | <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> | <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> | <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a></h1></div>
+<div align="center"><h1> <a href="https://iptvjs.github.io">主站</a> | <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> | <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> | <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a></h1></div>
 
 ## 目录
 
@@ -20,8 +20,9 @@
 
 ## CDN加速
 
-### 本站 (vodtv.cn) - (主站)
+### 主站RAW (raw.vodtv.cn || raw.viptv.work) - (主站)
 
+<details>
 <table>
   <thead>
     <tr>
@@ -32,22 +33,23 @@
   <tbody>
     <tr>
       <td>M3U</td>
-      <td>https://vodtv.cn/cn.m3u</td>
+      <td>https://raw.vodtv.cn/cn.m3u</td>
     </tr>
      <tr>
       <td>TXT</td>
-      <td>https://vodtv.cn/txt/cn.txt</td>
+      <td>https://raw.vodtv.cn/txt/cn.txt</td>
     </tr>
     <tr>
       <td>XML</td>
-      <td>https://vodtv.cn/epg/51zmt.xml</td>
+      <td>https://raw.vodtv.cn/epg/51zmt.xml</td>
     </tr>
     <tr>
       <td>JSON</td>
-      <td>https://vodtv.cn/sources/cn.json</td>
+      <td>https://raw.vodtv.cn/sources/cn.json</td>
     </tr>
   </tbody>
 </table>
+</details>
 
 ### 镜像站(vodtv.netlify.app) -（国内访问快）
 

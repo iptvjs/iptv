@@ -3,7 +3,7 @@
 <h1 > 收集来自世界各地IPTV </h1> 
 <h4>Collection of resources dedicated to IPTV</h4>  
 <h3 >
-<a href="https://vodtv.cn">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> - <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a>
+<a href="https://iptvjs.github.io">主站</a> - <a href="https://gitcode.com/iptv/iptv/overview">CDN1</a> - <a href="https://gitlink.org.cn/iptv/iptv/about">CDN2</a> - <a href="https://cdn.jsdelivr.net/gh/vodtv/vodtv.cn@gh-pages/">CDN3</a>
 </h3> 
 </div>
 
