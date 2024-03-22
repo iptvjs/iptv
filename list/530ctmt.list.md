@@ -37,7 +37,7 @@
 | 31 | 楚雄综合 | IPv4 直链 | <http://106.57.1.95:55555/rtp/239.200.200.116:8708> |
 | 32 | 2024-03-21 08:00:27 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 08:26:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
