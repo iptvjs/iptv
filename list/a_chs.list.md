@@ -1,6 +1,6 @@
 # List for **成人IPTV**
 
-> M3U: [a_chs.m3u](https://raw.vodtv.cn/a_chs.m3u), TXT: [a_chs.txt](https://raw.vodtv.cn/txt/a_chs.txt)
+> M3U: [a_chs.m3u](/a_chs.m3u), TXT: [a_chs.txt](/txt/a_chs.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -30,7 +30,7 @@
 | 24 | AdultIPTV.net Gay | live.adultiptv.net | <http://live.adultiptv.net/gay.m3u8> |
 | 25 | AdultIPTV.net Asian | live.adultiptv.net | <http://live.adultiptv.net/asian.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:29 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

@@ -1,6 +1,6 @@
 # List for **福建省 电信组播源**
 
-> M3U: [350ctmt.m3u](https://raw.vodtv.cn/350ctmt.m3u), TXT: [350ctmt.txt](https://raw.vodtv.cn/txt/350ctmt.txt)
+> M3U: [350ctmt.m3u](/350ctmt.m3u), TXT: [350ctmt.txt](/txt/350ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -221,7 +221,7 @@
 | 215 | 金鹰纪实 | IPv4 直链 | <http://27.154.214.56:8888/rtp/239.61.3.7:9560> |
 | 216 | 2024-03-21 19:48:42 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

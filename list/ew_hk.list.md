@@ -1,6 +1,6 @@
 # List for **epg.pw 香港**
 
-> M3U: [ew_hk.m3u](https://raw.vodtv.cn/ew_hk.m3u), TXT: [ew_hk.txt](https://raw.vodtv.cn/txt/ew_hk.txt)
+> M3U: [ew_hk.m3u](/ew_hk.m3u), TXT: [ew_hk.txt](/txt/ew_hk.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -59,7 +59,7 @@
 | 53 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 54 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

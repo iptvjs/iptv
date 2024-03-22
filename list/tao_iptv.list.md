@@ -1,6 +1,6 @@
 # List for **全国 酒店组播源**
 
-> M3U: [tao_iptv.m3u](https://raw.vodtv.cn/tao_iptv.m3u), TXT: [tao_iptv.txt](https://raw.vodtv.cn/txt/tao_iptv.txt)
+> M3U: [tao_iptv.m3u](/tao_iptv.m3u), TXT: [tao_iptv.txt](/txt/tao_iptv.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -126,7 +126,7 @@
 | 120 | 2024-03-22 06:52:22 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 | 121 | Q群:881229313 | fashiontv-fashiontv-1-eu.rakuten.wurl.tv | <https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/f711df33773d2dc83a1be49b8e841b00.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

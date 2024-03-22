@@ -1,6 +1,6 @@
 # List for **广东省 电信组播源**
 
-> M3U: [440ctmt.m3u](https://raw.vodtv.cn/440ctmt.m3u), TXT: [440ctmt.txt](https://raw.vodtv.cn/txt/440ctmt.txt)
+> M3U: [440ctmt.m3u](/440ctmt.m3u), TXT: [440ctmt.txt](/txt/440ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -11,7 +11,7 @@
 | 5 | 汕头经济生活 | IPv4 直链 | <http://61.140.124.156:8888/rtp/239.77.1.131:5146> |
 | 6 | 2024-03-21 19:49:23 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

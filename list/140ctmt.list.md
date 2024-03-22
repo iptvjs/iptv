@@ -1,6 +1,6 @@
 # List for **山西省 电信组播源**
 
-> M3U: [140ctmt.m3u](https://raw.vodtv.cn/140ctmt.m3u), TXT: [140ctmt.txt](https://raw.vodtv.cn/txt/140ctmt.txt)
+> M3U: [140ctmt.m3u](/140ctmt.m3u), TXT: [140ctmt.txt](/txt/140ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -24,7 +24,7 @@
 | 18 | 山西文体生活 | IPv4 直链 | <http://113.24.136.82:8086/rtp/239.1.1.6:8006> |
 | 19 | 2024-03-22 06:52:54 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:31 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

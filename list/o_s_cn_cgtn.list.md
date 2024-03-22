@@ -1,6 +1,6 @@
 # List for **iptv.org stream China CGTN**
 
-> M3U: [o_s_cn_cgtn.m3u](https://raw.vodtv.cn/o_s_cn_cgtn.m3u), TXT: [o_s_cn_cgtn.txt](https://raw.vodtv.cn/txt/o_s_cn_cgtn.txt)
+> M3U: [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u), TXT: [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -11,7 +11,7 @@
 | 5 | CGTN Français (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/french/cgtn-f.m3u8> |
 | 6 | CGTN Русский (576p) | CGTN | <https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

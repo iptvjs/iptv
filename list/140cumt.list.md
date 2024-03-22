@@ -1,6 +1,6 @@
 # List for **山西省 联通组播源**
 
-> M3U: [140cumt.m3u](https://raw.vodtv.cn/140cumt.m3u), TXT: [140cumt.txt](https://raw.vodtv.cn/txt/140cumt.txt)
+> M3U: [140cumt.m3u](/140cumt.m3u), TXT: [140cumt.txt](/txt/140cumt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -133,7 +133,7 @@
 | 127 | 金鹰纪实 | IPv4 直链 | <http://171.116.71.69:8085/rtp/226.0.2.194:9464> |
 | 128 | 2024-03-22 06:52:54 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

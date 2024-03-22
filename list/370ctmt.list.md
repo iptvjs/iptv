@@ -1,6 +1,6 @@
 # List for **山东省 电信组播源**
 
-> M3U: [370ctmt.m3u](https://raw.vodtv.cn/370ctmt.m3u), TXT: [370ctmt.txt](https://raw.vodtv.cn/txt/370ctmt.txt)
+> M3U: [370ctmt.m3u](/370ctmt.m3u), TXT: [370ctmt.txt](/txt/370ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -503,7 +503,7 @@
 | 497 | 齐河新闻 | IPv4 直链 | <http://144.52.199.223:18888/rtp/239.21.1.230:5002> |
 | 498 | 2024-03-21 19:48:58 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:31 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

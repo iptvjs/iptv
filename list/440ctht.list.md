@@ -1,6 +1,6 @@
 # List for **广东省 电信酒店源**
 
-> M3U: [440ctht.m3u](https://raw.vodtv.cn/440ctht.m3u), TXT: [440ctht.txt](https://raw.vodtv.cn/txt/440ctht.txt)
+> M3U: [440ctht.m3u](/440ctht.m3u), TXT: [440ctht.txt](/txt/440ctht.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -58,7 +58,7 @@
 | 52 | 嘉佳卡通 | IPv4 直链 | <http://183.62.74.202:9901/tsfile/live/1001_1.m3u8?key=txiptv> |
 | 53 | 2024-03-21 19:49:23 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

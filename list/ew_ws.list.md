@@ -1,6 +1,6 @@
 # List for **epg.pw 卫视**
 
-> M3U: [ew_ws.m3u](https://raw.vodtv.cn/ew_ws.m3u), TXT: [ew_ws.txt](https://raw.vodtv.cn/txt/ew_ws.txt)
+> M3U: [ew_ws.m3u](/ew_ws.m3u), TXT: [ew_ws.txt](/txt/ew_ws.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -39,7 +39,7 @@
 | 33 | [BD]青海卫视 | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv> |
 | 34 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

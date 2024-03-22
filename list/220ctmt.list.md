@@ -1,6 +1,6 @@
 # List for **吉林省 电信组播源**
 
-> M3U: [220ctmt.m3u](https://raw.vodtv.cn/220ctmt.m3u), TXT: [220ctmt.txt](https://raw.vodtv.cn/txt/220ctmt.txt)
+> M3U: [220ctmt.m3u](/220ctmt.m3u), TXT: [220ctmt.txt](/txt/220ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -45,7 +45,7 @@
 | 39 | 北京卫视 | IPv4 直链 | <http://36.49.53.197:8800/rtp/239.37.0.9:5540> |
 | 40 | 东方卫视 | IPv4 直链 | <http://36.49.53.197:8800/rtp/239.37.0.123:5540> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:31 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

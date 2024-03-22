@@ -1,6 +1,6 @@
 # List for **YanG-1989 Gather**
 
-> M3U: [y_g.m3u](https://raw.vodtv.cn/y_g.m3u), TXT: [y_g.txt](https://raw.vodtv.cn/txt/y_g.txt)
+> M3U: [y_g.m3u](/y_g.m3u), TXT: [y_g.txt](/txt/y_g.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -2199,7 +2199,7 @@
 | 2193 | 足球超级猎食者(上) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8> |
 | 2194 | 足球超级猎食者(下) | hls.cntv.kcdnvip.com | <https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

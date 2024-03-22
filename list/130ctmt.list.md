@@ -1,6 +1,6 @@
 # List for **河北省 电信组播源**
 
-> M3U: [130ctmt.m3u](https://raw.vodtv.cn/130ctmt.m3u), TXT: [130ctmt.txt](https://raw.vodtv.cn/txt/130ctmt.txt)
+> M3U: [130ctmt.m3u](/130ctmt.m3u), TXT: [130ctmt.txt](/txt/130ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -204,7 +204,7 @@
 | 198 | 黄骅电视 | IPv4 直链 | <http://111.227.41.129:7000/rtp/239.254.201.36:5325> |
 | 199 | 2024-03-22 06:52:40 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

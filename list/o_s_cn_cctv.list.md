@@ -1,6 +1,6 @@
 # List for **iptv.org stream China CCTV**
 
-> M3U: [o_s_cn_cctv.m3u](https://raw.vodtv.cn/o_s_cn_cctv.m3u), TXT: [o_s_cn_cctv.txt](https://raw.vodtv.cn/txt/o_s_cn_cctv.txt)
+> M3U: [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u), TXT: [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -19,7 +19,7 @@
 | 13 | CCTV-10科教 (1080p) | 欧乐影院 | <https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8> |
 | 14 | CCTV-13新闻 (1080p) | CCTV | <https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

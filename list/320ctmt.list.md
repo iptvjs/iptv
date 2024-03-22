@@ -1,6 +1,6 @@
 # List for **江苏省 电信组播源**
 
-> M3U: [320ctmt.m3u](https://raw.vodtv.cn/320ctmt.m3u), TXT: [320ctmt.txt](https://raw.vodtv.cn/txt/320ctmt.txt)
+> M3U: [320ctmt.m3u](/320ctmt.m3u), TXT: [320ctmt.txt](/txt/320ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -216,7 +216,7 @@
 | 210 | 金鹰纪实 | IPv4 直链 | <http://49.67.190.193:6665/rtp/239.49.8.203:6000> |
 | 211 | 2024-03-21 19:48:19 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

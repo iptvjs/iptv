@@ -1,6 +1,6 @@
 # List for **fanmingming/live ipv6**
 
-> M3U: [fmml_ipv6.m3u](https://raw.vodtv.cn/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](https://raw.vodtv.cn/txt/fmml_ipv6.txt)
+> M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -171,7 +171,7 @@
 | 165 | CGTN西语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 166 | CGTN阿语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:29 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

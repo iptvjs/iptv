@@ -1,6 +1,6 @@
 # List for **安徽省 电信组播源**
 
-> M3U: [340ctmt.m3u](https://raw.vodtv.cn/340ctmt.m3u), TXT: [340ctmt.txt](https://raw.vodtv.cn/txt/340ctmt.txt)
+> M3U: [340ctmt.m3u](/340ctmt.m3u), TXT: [340ctmt.txt](/txt/340ctmt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -216,7 +216,7 @@
 | 210 | 黄山新闻综合 | IPv4 直链 | <http://60.167.2.173:4000/rtp/238.1.78.130:6912> |
 | 211 | 2024-03-21 19:48:33 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

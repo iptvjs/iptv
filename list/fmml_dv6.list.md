@@ -1,6 +1,6 @@
 # List for **fanmingming/live domainv6(Invalid)**
 
-> M3U: [fmml_dv6.m3u](https://raw.vodtv.cn/fmml_dv6.m3u), TXT: [fmml_dv6.txt](https://raw.vodtv.cn/txt/fmml_dv6.txt)
+> M3U: [fmml_dv6.m3u](/fmml_dv6.m3u), TXT: [fmml_dv6.txt](/txt/fmml_dv6.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -105,7 +105,7 @@
 | 99 | 家有购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8> |
 | 100 | 快乐购 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8> |
 
-Updated at **Fri Mar 22 2024 09:24:47 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:17:29 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
