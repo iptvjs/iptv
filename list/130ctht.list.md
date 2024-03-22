@@ -101,7 +101,7 @@
 | 95 | 高碑店-1 | IPv4 直链 | <http://111.225.112.65:808/tsfile/live/1039_1.m3u8?key=txiptv> |
 | 96 | 2024-03-22 06:52:40 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 10:17:30 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:59:41 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

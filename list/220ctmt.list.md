@@ -45,7 +45,7 @@
 | 39 | 北京卫视 | IPv4 直链 | <http://36.49.53.197:8800/rtp/239.37.0.9:5540> |
 | 40 | 东方卫视 | IPv4 直链 | <http://36.49.53.197:8800/rtp/239.37.0.123:5540> |
 
-Updated at **Fri Mar 22 2024 10:17:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 10:59:42 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
