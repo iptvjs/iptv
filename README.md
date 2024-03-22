@@ -46,26 +46,26 @@
 | 全国 酒店组播源 | [tao_iptv.m3u](/tao_iptv.m3u) <br> [tao_iptv.txt](/txt/tao_iptv.txt) | [List for 全国 酒店组播源](/list/tao_iptv.list) | 121 | - |
 | 河北省 联通组播源 | [130cumt.m3u](/130cumt.m3u) <br> [130cumt.txt](/txt/130cumt.txt) | [List for 河北省 联通组播源](/list/130cumt.list) | 181 | - |
 | 河北省 电信组播源 | [130ctmt.m3u](/130ctmt.m3u) <br> [130ctmt.txt](/txt/130ctmt.txt) | [List for 河北省 电信组播源](/list/130ctmt.list) | 199 | - |
-| 河北省 电信组播源 | [130ctht.m3u](/130ctht.m3u) <br> [130ctht.txt](/txt/130ctht.txt) | [List for 河北省 电信组播源](/list/130ctht.list) | 96 | - |
-| 山西省 联通组播源 | [140cumt.m3u](/140cumt.m3u) <br> [140cumt.txt](/txt/140cumt.txt) | [List for 山西省 联通组播源](/list/140cumt.list) | update failed | ✅ |
+| 河北省 电信组播源 | [130ctht.m3u](/130ctht.m3u) <br> [130ctht.txt](/txt/130ctht.txt) | [List for 河北省 电信组播源](/list/130ctht.list) | update failed | - |
+| 山西省 联通组播源 | [140cumt.m3u](/140cumt.m3u) <br> [140cumt.txt](/txt/140cumt.txt) | [List for 山西省 联通组播源](/list/140cumt.list) | 128 | - |
 | 山西省 电信组播源 | [140ctmt.m3u](/140ctmt.m3u) <br> [140ctmt.txt](/txt/140ctmt.txt) | [List for 山西省 电信组播源](/list/140ctmt.list) | 19 | - |
 | 吉林省 电信组播源 | [220ctmt.m3u](/220ctmt.m3u) <br> [220ctmt.txt](/txt/220ctmt.txt) | [List for 吉林省 电信组播源](/list/220ctmt.list) | update failed | - |
-| 江苏省 电信组播源 | [320ctmt.m3u](/320ctmt.m3u) <br> [320ctmt.txt](/txt/320ctmt.txt) | [List for 江苏省 电信组播源](/list/320ctmt.list) | update failed | - |
-| 江苏省 电信酒店源 | [320ctht.m3u](/320ctht.m3u) <br> [320ctht.txt](/txt/320ctht.txt) | [List for 江苏省 电信酒店源](/list/320ctht.list) | 105 | - |
-| 浙江省 电信组播源 | [330ctmt.m3u](/330ctmt.m3u) <br> [330ctmt.txt](/txt/330ctmt.txt) | [List for 浙江省 电信组播源](/list/330ctmt.list) | 362 | - |
-| 浙江省 电信酒店源 | [330ctht.m3u](/330ctht.m3u) <br> [330ctht.txt](/txt/330ctht.txt) | [List for 浙江省 电信酒店源](/list/330ctht.list) | 22 | - |
+| 江苏省 电信组播源 | [320ctmt.m3u](/320ctmt.m3u) <br> [320ctmt.txt](/txt/320ctmt.txt) | [List for 江苏省 电信组播源](/list/320ctmt.list) | 211 | - |
+| 江苏省 电信酒店源 | [320ctht.m3u](/320ctht.m3u) <br> [320ctht.txt](/txt/320ctht.txt) | [List for 江苏省 电信酒店源](/list/320ctht.list) | update failed | - |
+| 浙江省 电信组播源 | [330ctmt.m3u](/330ctmt.m3u) <br> [330ctmt.txt](/txt/330ctmt.txt) | [List for 浙江省 电信组播源](/list/330ctmt.list) | update failed | - |
+| 浙江省 电信酒店源 | [330ctht.m3u](/330ctht.m3u) <br> [330ctht.txt](/txt/330ctht.txt) | [List for 浙江省 电信酒店源](/list/330ctht.list) | update failed | - |
 | 安徽省 电信组播源 | [340ctmt.m3u](/340ctmt.m3u) <br> [340ctmt.txt](/txt/340ctmt.txt) | [List for 安徽省 电信组播源](/list/340ctmt.list) | 211 | - |
-| 福建省 电信组播源 | [350ctmt.m3u](/350ctmt.m3u) <br> [350ctmt.txt](/txt/350ctmt.txt) | [List for 福建省 电信组播源](/list/350ctmt.list) | 216 | - |
-| 福建省 联通酒店源 | [350cuht.m3u](/350cuht.m3u) <br> [350cuht.txt](/txt/350cuht.txt) | [List for 福建省 联通酒店源](/list/350cuht.list) | update failed | - |
+| 福建省 电信组播源 | [350ctmt.m3u](/350ctmt.m3u) <br> [350ctmt.txt](/txt/350ctmt.txt) | [List for 福建省 电信组播源](/list/350ctmt.list) | update failed | - |
+| 福建省 联通酒店源 | [350cuht.m3u](/350cuht.m3u) <br> [350cuht.txt](/txt/350cuht.txt) | [List for 福建省 联通酒店源](/list/350cuht.list) | 51 | - |
 | 福建省 电信酒店源 | [350ctht.m3u](/350ctht.m3u) <br> [350ctht.txt](/txt/350ctht.txt) | [List for 福建省 电信酒店源](/list/350ctht.list) | update failed | - |
 | 江西省 电信组播源 | [360ctmt.m3u](/360ctmt.m3u) <br> [360ctmt.txt](/txt/360ctmt.txt) | [List for 江西省 电信组播源](/list/360ctmt.list) | 110 | - |
-| 山东省 电信组播源 | [370ctmt.m3u](/370ctmt.m3u) <br> [370ctmt.txt](/txt/370ctmt.txt) | [List for 山东省 电信组播源](/list/370ctmt.list) | 498 | - |
+| 山东省 电信组播源 | [370ctmt.m3u](/370ctmt.m3u) <br> [370ctmt.txt](/txt/370ctmt.txt) | [List for 山东省 电信组播源](/list/370ctmt.list) | update failed | - |
 | 河南省 联通组播源 | [410cumt.m3u](/410cumt.m3u) <br> [410cumt.txt](/txt/410cumt.txt) | [List for 河南省 联通组播源](/list/410cumt.list) | 93 | - |
 | 湖北省 电信组播源 | [420ctm.m3u](/420ctm.m3u) <br> [420ctm.txt](/txt/420ctm.txt) | [List for 湖北省 电信组播源](/list/420ctm.list) | update failed | - |
-| 广东省 电信组播源 | [440ctmt.m3u](/440ctmt.m3u) <br> [440ctmt.txt](/txt/440ctmt.txt) | [List for 广东省 电信组播源](/list/440ctmt.list) | update failed | - |
+| 广东省 电信组播源 | [440ctmt.m3u](/440ctmt.m3u) <br> [440ctmt.txt](/txt/440ctmt.txt) | [List for 广东省 电信组播源](/list/440ctmt.list) | 6 | - |
 | 广东省 电信酒店源 | [440ctht.m3u](/440ctht.m3u) <br> [440ctht.txt](/txt/440ctht.txt) | [List for 广东省 电信酒店源](/list/440ctht.list) | update failed | - |
 | 四川省 电信组播源 | [510ctmt.m3u](/510ctmt.m3u) <br> [510ctmt.txt](/txt/510ctmt.txt) | [List for 四川省 电信组播源](/list/510ctmt.list) | update failed | - |
-| 云南省 电信组播源 | [530ctmt.m3u](/530ctmt.m3u) <br> [530ctmt.txt](/txt/530ctmt.txt) | [List for 云南省 电信组播源](/list/530ctmt.list) | update failed | - |
+| 云南省 电信组播源 | [530ctmt.m3u](/530ctmt.m3u) <br> [530ctmt.txt](/txt/530ctmt.txt) | [List for 云南省 电信组播源](/list/530ctmt.list) | 32 | - |
 | 陕西省 电信组播源 | [610ctmt.m3u](/610ctmt.m3u) <br> [610ctmt.txt](/txt/610ctmt.txt) | [List for 陕西省 电信组播源](/list/610ctmt.list) | update failed | - |
 | 陕西省 电信酒店源 | [610ctht.m3u](/610ctht.m3u) <br> [610ctht.txt](/txt/610ctht.txt) | [List for 陕西省 电信酒店源](/list/610ctht.list) | update failed | - |
 | 甘肃省 电信组播源 | [130cumt.m3u](/130cumt.m3u) <br> [130cumt.txt](/txt/130cumt.txt) | [List for 甘肃省 电信组播源](/list/130cumt.list) | update failed | - |
@@ -75,12 +75,12 @@
 | 上海市 电信酒店源 | [110cumt.m3u](/110cumt.m3u) <br> [110cumt.txt](/txt/110cumt.txt) | [List for 上海市 电信酒店源](/list/110cumt.list) | update failed | - |
 | 天津市 联通组播源 | [120cumt.m3u](/120cumt.m3u) <br> [120cumt.txt](/txt/120cumt.txt) | [List for 天津市 联通组播源](/list/120cumt.list) | 236 | - |
 | 重庆市 联通组播源 | [500cmmt.m3u](/500cmmt.m3u) <br> [500cmmt.txt](/txt/500cmmt.txt) | [List for 重庆市 联通组播源](/list/500cmmt.list) | update failed | - |
-| 广西壮族自治区 电信组播源 | [450ctmt.m3u](/450ctmt.m3u) <br> [450ctmt.txt](/txt/450ctmt.txt) | [List for 广西壮族自治区 电信组播源](/list/450ctmt.list) | 100 | - |
-| 广西壮族自治区 移动酒店源 | [450cmht.m3u](/450cmht.m3u) <br> [450cmht.txt](/txt/450cmht.txt) | [List for 广西壮族自治区 移动酒店源](/list/450cmht.list) | 56 | - |
-| 广西壮族自治区 电信酒店源 | [450ctht.m3u](/450ctht.m3u) <br> [450ctht.txt](/txt/450ctht.txt) | [List for 广西壮族自治区 电信酒店源](/list/450ctht.list) | 7 | - |
+| 广西壮族自治区 电信组播源 | [450ctmt.m3u](/450ctmt.m3u) <br> [450ctmt.txt](/txt/450ctmt.txt) | [List for 广西壮族自治区 电信组播源](/list/450ctmt.list) | update failed | - |
+| 广西壮族自治区 移动酒店源 | [450cmht.m3u](/450cmht.m3u) <br> [450cmht.txt](/txt/450cmht.txt) | [List for 广西壮族自治区 移动酒店源](/list/450cmht.list) | update failed | - |
+| 广西壮族自治区 电信酒店源 | [450ctht.m3u](/450ctht.m3u) <br> [450ctht.txt](/txt/450ctht.txt) | [List for 广西壮族自治区 电信酒店源](/list/450ctht.list) | update failed | ✅ |
 | 新疆维吾尔自治区 电信组播源 | [650ctmt.m3u](/650ctmt.m3u) <br> [650ctmt.txt](/txt/650ctmt.txt) | [List for 新疆维吾尔自治区 电信组播源](/list/650ctmt.list) | 332 | - |
 | 内蒙古自治区 电信组播源 | [150ctmt.m3u](/150ctmt.m3u) <br> [150ctmt.txt](/txt/150ctmt.txt) | [List for 内蒙古自治区 电信组播源](/list/150ctmt.list) | update failed | - |
-| 宁夏回族自治区 电信组播源 | [640ctmt.m3u](/640ctmt.m3u) <br> [640ctmt.txt](/txt/640ctmt.txt) | [List for 宁夏回族自治区 电信组播源](/list/640ctmt.list) | update failed | - |
+| 宁夏回族自治区 电信组播源 | [640ctmt.m3u](/640ctmt.m3u) <br> [640ctmt.txt](/txt/640ctmt.txt) | [List for 宁夏回族自治区 电信组播源](/list/640ctmt.list) | 74 | - |
 
 ## CDN加速
 

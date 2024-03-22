@@ -98,7 +98,7 @@
 | 92 | 金鹰纪实 | IPv4 直链 | <http://61.53.173.195:18888/rtp/225.1.4.172:1711> |
 | 93 | 2024-03-21 19:49:07 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 01:19:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:57:24 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
