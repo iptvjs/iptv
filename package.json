@@ -1,6 +1,6 @@
 {
-  "name": "vodtv.cn",
-  "version": "1.0.5",
+  "name": "iptv",
+  "version": "1.2.5",
   "type": "module",
   "main": "main.js",
   "types": "src/types/index.d.ts",
