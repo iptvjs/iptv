@@ -1,0 +1,242 @@
+import { filter } from "../utils"
+import type { TSources } from "../types"
+
+export const ss_sources: TSources = [
+  {
+    name: "全国 酒店组播源",
+    f_name: "ss_itv",
+    url: "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+    filter: filter,
+  },
+]
+export const tao_sources: TSources = [
+  {
+    name: "全国 酒店组播源",
+    f_name: "tao_iptv",
+    url: "https://taoiptv.com/source/iptv.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "河北省 联通组播源",
+    f_name: "130cumt",
+    url: "https://taoiptv.com/source/release/130cumt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "河北省 电信组播源",
+    f_name: "130ctmt",
+    url: "https://taoiptv.com/source/release/130ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "河北省 电信组播源",
+    f_name: "130ctht",
+    url: "https://taoiptv.com/source/release/130ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+
+  {
+    name: "山西省 联通组播源",
+    f_name: "140cumt",
+    url: "https://taoiptv.com/source/release/140cumt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "山西省 电信组播源",
+    f_name: "140ctmt",
+    url: "https://taoiptv.com/source/release/140ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "吉林省 电信组播源",
+    f_name: "220ctmt",
+    url: "https://taoiptv.com/source/release/220ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "江苏省 电信组播源",
+    f_name: "320ctmt",
+    url: "https://taoiptv.com/source/release/320ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "江苏省 电信酒店源",
+    f_name: "320ctht",
+    url: "https://taoiptv.com/source/release/320ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "浙江省 电信组播源",
+    f_name: "330ctmt",
+    url: "https://taoiptv.com/source/release/330ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "浙江省 电信酒店源",
+    f_name: "330ctht",
+    url: "https://taoiptv.com/source/release/330ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "安徽省 电信组播源",
+    f_name: "340ctmt",
+    url: "https://taoiptv.com/source/release/340ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "福建省 电信组播源",
+    f_name: "350ctmt",
+    url: "https://taoiptv.com/source/release/350ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "福建省 联通酒店源",
+    f_name: "350cuht",
+    url: "https://taoiptv.com/source/release/350cuht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "福建省 电信酒店源",
+    f_name: "350ctht",
+    url: "https://taoiptv.com/source/release/350ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "江西省 电信组播源",
+    f_name: "360ctmt",
+    url: "https://taoiptv.com/source/release/360ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "山东省 电信组播源",
+    f_name: "370ctmt",
+    url: "https://taoiptv.com/source/release/370ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "河南省 联通组播源",
+    f_name: "410cumt",
+    url: "https://taoiptv.com/source/release/410cumt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "湖北省 电信组播源",
+    f_name: "420ctm",
+    url: "https://taoiptv.com/source/release/420ctm.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "广东省 电信组播源",
+    f_name: "440ctmt",
+    url: "https://taoiptv.com/source/release/440ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "广东省 电信酒店源",
+    f_name: "440ctht",
+    url: "https://taoiptv.com/source/release/440ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "四川省 电信组播源",
+    f_name: "510ctmt",
+    url: "https://taoiptv.com/source/release/510ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "云南省 电信组播源",
+    f_name: "530ctmt",
+    url: "https://taoiptv.com/source/release/530ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "陕西省 电信组播源",
+    f_name: "610ctmt",
+    url: "https://taoiptv.com/source/release/610ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "陕西省 电信酒店源",
+    f_name: "610ctht",
+    url: "https://taoiptv.com/source/release/610ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "甘肃省 电信组播源",
+    f_name: "130cumt",
+    url: "https://taoiptv.com/source/release/620ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "北京市 移动组播源",
+    f_name: "110cmmt",
+    url: "https://taoiptv.com/source/release/110cmmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "北京市 联通组播源",
+    f_name: "110cumt",
+    url: "https://taoiptv.com/source/release/110cumt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "上海市 电信组播源",
+    f_name: "310ctmt",
+    url: "https://taoiptv.com/source/release/110cmmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "上海市 电信酒店源",
+    f_name: "110cumt",
+    url: "https://taoiptv.com/source/release/310ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "天津市 联通组播源",
+    f_name: "120cumt",
+    url: "https://taoiptv.com/source/release/120cumt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "重庆市 联通组播源",
+    f_name: "500cmmt",
+    url: "https://taoiptv.com/source/release/500cumt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "广西壮族自治区 电信组播源",
+    f_name: "450ctmt",
+    url: "https://taoiptv.com/source/release/450ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "广西壮族自治区 移动酒店源",
+    f_name: "450cmht",
+    url: "https://taoiptv.com/source/release/450cmht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "广西壮族自治区 电信酒店源",
+    f_name: "450ctht",
+    url: "https://taoiptv.com/source/release/450ctht.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "新疆维吾尔自治区 电信组播源",
+    f_name: "650ctmt",
+    url: "https://taoiptv.com/source/release/650ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "内蒙古自治区 电信组播源",
+    f_name: "150ctmt",
+    url: "https://taoiptv.com/source/release/150ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+  {
+    name: "宁夏回族自治区 电信组播源",
+    f_name: "640ctmt",
+    url: "https://taoiptv.com/source/release/640ctmt.m3u?token=8zlxhttq9h01ahww",
+    filter: filter,
+  },
+]
