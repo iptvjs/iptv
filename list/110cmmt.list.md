@@ -78,7 +78,7 @@
 | 72 | 金鹰纪实 | IPv4 直链 | <http://117.133.95.38:8887/rtp/228.1.1.34:8156> |
 | 73 | 2024-03-22 06:52:27 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 01:17:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:19:28 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

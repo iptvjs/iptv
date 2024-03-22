@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://live.fanmingming.com/tv/广西影视.png" group-title="影视频道",广西影视
+http://116.9.204.242:9901/tsfile/live/0124_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西公共" tvg-logo="https://live.fanmingming.com/tv/广西公共.png" group-title="其他频道",广西公共
+http://116.9.204.242:9901/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://live.fanmingming.com/tv/广西新闻.png" group-title="其他频道",广西新闻
+http://116.9.204.242:9901/tsfile/live/1001_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西旅游" tvg-logo="https://live.fanmingming.com/tv/广西旅游.png" group-title="其他频道",广西旅游
+http://116.9.204.242:9901/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://live.fanmingming.com/tv/广西都市.png" group-title="其他频道",广西都市
+http://116.9.204.242:9901/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="2024-03-21 19:49:31" tvg-logo="https://live.fanmingming.com/tv/2024-03-21 19:49:31.png" group-title="更新时间",2024-03-21 19:49:31
+https://taoiptv.com/time.mp4

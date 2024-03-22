@@ -61,7 +61,7 @@
 | 55 | 广西都市 | IPv4 直链 | <http://117.141.149.101:4431/tsfile/live/faacts/1005_1.m3u8?key=txiptv> |
 | 56 | 2024-03-21 19:49:31 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 01:17:29 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:19:28 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
