@@ -1,6 +1,6 @@
 # List for **fanmingming/live ipv6**
 
-> M3U: [fmml_ipv6.m3u](/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](/txt/fmml_ipv6.txt)
+> M3U: [fmml_ipv6.m3u](https://raw.vodtv.cn/fmml_ipv6.m3u), TXT: [fmml_ipv6.txt](https://raw.vodtv.cn/txt/fmml_ipv6.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -171,13 +171,13 @@
 | 165 | CGTN西语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 | 166 | CGTN阿语 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com> |
 
-Updated at **Fri Mar 22 2024 01:57:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:43 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

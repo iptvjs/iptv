@@ -1,6 +1,6 @@
 # List for **iptv.org China**
 
-> M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
+> M3U: [o_cn.m3u](https://raw.vodtv.cn/o_cn.m3u), TXT: [o_cn.txt](https://raw.vodtv.cn/txt/o_cn.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -543,13 +543,13 @@
 | 537 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 538 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Fri Mar 22 2024 01:57:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:44 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

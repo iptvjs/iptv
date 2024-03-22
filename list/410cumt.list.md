@@ -1,6 +1,6 @@
 # List for **河南省 联通组播源**
 
-> M3U: [410cumt.m3u](/410cumt.m3u), TXT: [410cumt.txt](/txt/410cumt.txt)
+> M3U: [410cumt.m3u](https://raw.vodtv.cn/410cumt.m3u), TXT: [410cumt.txt](https://raw.vodtv.cn/txt/410cumt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -98,13 +98,13 @@
 | 92 | 金鹰纪实 | IPv4 直链 | <http://61.53.173.195:18888/rtp/225.1.4.172:1711> |
 | 93 | 2024-03-21 19:49:07 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 01:57:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:46 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

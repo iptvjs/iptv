@@ -1,6 +1,6 @@
 # List for **iptv.org stream China CGTN**
 
-> M3U: [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u), TXT: [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt)
+> M3U: [o_s_cn_cgtn.m3u](https://raw.vodtv.cn/o_s_cn_cgtn.m3u), TXT: [o_s_cn_cgtn.txt](https://raw.vodtv.cn/txt/o_s_cn_cgtn.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -11,13 +11,13 @@
 | 5 | CGTN Français (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/french/cgtn-f.m3u8> |
 | 6 | CGTN Русский (576p) | CGTN | <https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8> |
 
-Updated at **Fri Mar 22 2024 01:57:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:44 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

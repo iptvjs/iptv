@@ -1,6 +1,6 @@
 # List for **全国 酒店组播源**
 
-> M3U: [tao_iptv.m3u](/tao_iptv.m3u), TXT: [tao_iptv.txt](/txt/tao_iptv.txt)
+> M3U: [tao_iptv.m3u](https://raw.vodtv.cn/tao_iptv.m3u), TXT: [tao_iptv.txt](https://raw.vodtv.cn/txt/tao_iptv.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -126,13 +126,13 @@
 | 120 | 2024-03-22 06:52:22 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 | 121 | Q群:881229313 | fashiontv-fashiontv-1-eu.rakuten.wurl.tv | <https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/f711df33773d2dc83a1be49b8e841b00.m3u8> |
 
-Updated at **Fri Mar 22 2024 01:57:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:46 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

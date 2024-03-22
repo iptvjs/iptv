@@ -1,6 +1,6 @@
 # List for **河北省 联通组播源**
 
-> M3U: [130cumt.m3u](/130cumt.m3u), TXT: [130cumt.txt](/txt/130cumt.txt)
+> M3U: [130cumt.m3u](https://raw.vodtv.cn/130cumt.m3u), TXT: [130cumt.txt](https://raw.vodtv.cn/txt/130cumt.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -186,13 +186,13 @@
 | 180 | 网络求索纪录 | IPv4 直链 | <http://120.6.2.34:4000/rtp/239.253.93.236:6414> |
 | 181 | 2024-03-22 06:52:40 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Fri Mar 22 2024 01:57:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:46 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

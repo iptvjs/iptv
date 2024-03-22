@@ -1,6 +1,6 @@
 # List for **epg.pw 央视**
 
-> M3U: [ew_cc.m3u](/ew_cc.m3u), TXT: [ew_cc.txt](/txt/ew_cc.txt)
+> M3U: [ew_cc.m3u](https://raw.vodtv.cn/ew_cc.m3u), TXT: [ew_cc.txt](https://raw.vodtv.cn/txt/ew_cc.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -13,13 +13,13 @@
 | 7 | [BD]发现之旅 | epg.pw | <https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv> |
 | 8 | [BD]风云足球[ipv6] | epg.pw | <https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8> |
 
-Updated at **Fri Mar 22 2024 01:57:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:44 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

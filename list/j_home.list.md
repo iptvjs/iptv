@@ -1,6 +1,6 @@
 # List for **joevess/IPTV home**
 
-> M3U: [j_home.m3u](/j_home.m3u), TXT: [j_home.txt](/txt/j_home.txt)
+> M3U: [j_home.m3u](https://raw.vodtv.cn/j_home.m3u), TXT: [j_home.txt](https://raw.vodtv.cn/txt/j_home.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -56,13 +56,13 @@
 | 50 | 中国天气 | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
 | 51 | CETV3中国教育电视台三套 | iptv.luas.edu.cn | <https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/063125215c-0-0-7677012e61c4b04f692f5f8e49d953c9/index.m3u8> |
 
-Updated at **Fri Mar 22 2024 01:57:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:43 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

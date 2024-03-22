@@ -1,6 +1,6 @@
 # List for **epg.pw 香港**
 
-> M3U: [ew_hk.m3u](/ew_hk.m3u), TXT: [ew_hk.txt](/txt/ew_hk.txt)
+> M3U: [ew_hk.m3u](https://raw.vodtv.cn/ew_hk.m3u), TXT: [ew_hk.txt](https://raw.vodtv.cn/txt/ew_hk.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -27,7 +27,7 @@
 | 21 | [SD]tvb翡翠台 | epg.pw | <https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8> |
 | 22 | [BD]viutv6 | epg.pw | <https://epg.pw/stream/99dbfbe84ef235c3c86d47212bdbbb4ddf6f633d3baae1ba4f32c6fbda1e588a.m3u8> |
 | 23 | [BD]viutv | epg.pw | <https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.m3u8> |
-| 24 | [BD]viutv six | epg.pw | <https://epg.pw/stream/06cdeebb6b06932f9d82de99cb2b51eb3e7f30c846b73a8d85d6c52c604f0554.ctv> |
+| 24 | [VGA]viutv six | epg.pw | <https://epg.pw/stream/06cdeebb6b06932f9d82de99cb2b51eb3e7f30c846b73a8d85d6c52c604f0554.ctv> |
 | 25 | [HD]c channel | epg.pw | <https://epg.pw/stream/48676c7be0315ec2b5814591a62aa61cfe581479231b66c64fb6d485b5c7d358.m3u8> |
 | 26 | [VGA]discovery id | epg.pw | <https://epg.pw/stream/8dac86825af17958c13e5eabee0168f6a409f591cd827b886394ecd9b2237d2c.ctv> |
 | 27 | [HD]ptv granada | epg.pw | <https://epg.pw/stream/063e0efb004c2bf1bd5c101466186d8ab3911e3f0fc4946c12e2e31213470fe5.m3u8> |
@@ -59,13 +59,13 @@
 | 53 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 54 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **Fri Mar 22 2024 01:57:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:44 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

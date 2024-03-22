@@ -1,6 +1,6 @@
 # List for **全国 酒店组播源**
 
-> M3U: [ss_itv.m3u](/ss_itv.m3u), TXT: [ss_itv.txt](/txt/ss_itv.txt)
+> M3U: [ss_itv.m3u](https://raw.vodtv.cn/ss_itv.m3u), TXT: [ss_itv.txt](https://raw.vodtv.cn/txt/ss_itv.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -538,13 +538,13 @@
 | 532 | 风云足球 | IPv4 直链 | <http://123.189.36.56:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 533 | 齐鲁 | IPv4 直链 | <http://144.52.162.231:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Fri Mar 22 2024 01:57:24 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:44 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

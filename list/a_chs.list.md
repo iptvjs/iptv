@@ -1,6 +1,6 @@
 # List for **成人IPTV**
 
-> M3U: [a_chs.m3u](/a_chs.m3u), TXT: [a_chs.txt](/txt/a_chs.txt)
+> M3U: [a_chs.m3u](https://raw.vodtv.cn/a_chs.m3u), TXT: [a_chs.txt](https://raw.vodtv.cn/txt/a_chs.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -30,13 +30,13 @@
 | 24 | AdultIPTV.net Gay | live.adultiptv.net | <http://live.adultiptv.net/gay.m3u8> |
 | 25 | AdultIPTV.net Asian | live.adultiptv.net | <http://live.adultiptv.net/asian.m3u8> |
 
-Updated at **Fri Mar 22 2024 01:57:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:43 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 

@@ -1,6 +1,6 @@
 # List for **qwerttvv/Beijing-IPTV IPTV Mobile Multicast**
 
-> M3U: [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u), TXT: [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt)
+> M3U: [q_bj_iptv_mobile_m.m3u](https://raw.vodtv.cn/q_bj_iptv_mobile_m.m3u), TXT: [q_bj_iptv_mobile_m.txt](https://raw.vodtv.cn/txt/q_bj_iptv_mobile_m.txt)
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -135,13 +135,13 @@
 | 129 | 高网 | IPv4 直链 | <rtp://228.1.1.169:4120> |
 | 130 | 魅力时尚 | IPv4 直链 | <rtp://228.1.1.86:9012> |
 
-Updated at **Fri Mar 22 2024 01:57:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 07:10:44 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
 . 推荐适配派大星、DIYP空壳等手机或TV软件安装.
 
-. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+. 捐赠打赏地址 https://vodtv.cn/about/contribute！
 
 . 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
 
