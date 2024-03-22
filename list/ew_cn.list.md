@@ -463,4 +463,14 @@
 | 457 | [VGA]黑龙江影 | epg.pw | <https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8> |
 | 458 | [HD]点掌财经 | epg.pw | <https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8> |
 
-Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:17:28 GMT+0000 (Coordinated Universal Time)**
+
+## 使用说明：
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

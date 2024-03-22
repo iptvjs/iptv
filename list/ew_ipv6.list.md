@@ -2485,4 +2485,14 @@
 | 2479 | [BD]연합뉴스tv | epg.pw | <https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8> |
 | 2480 | [HD]현대홈쇼핑+샵 • hyundai mall+ | epg.pw | <https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv> |
 
-Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:17:29 GMT+0000 (Coordinated Universal Time)**
+
+## 使用说明：
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

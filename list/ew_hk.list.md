@@ -59,4 +59,14 @@
 | 53 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 54 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:17:28 GMT+0000 (Coordinated Universal Time)**
+
+## 使用说明：
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

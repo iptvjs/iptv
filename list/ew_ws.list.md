@@ -39,4 +39,14 @@
 | 33 | [BD]青海卫视 | epg.pw | <https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.ctv> |
 | 34 | [BD]黑龙江卫视 | epg.pw | <https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8> |
 
-Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:17:28 GMT+0000 (Coordinated Universal Time)**
+
+## 使用说明：
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！

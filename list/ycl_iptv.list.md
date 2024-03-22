@@ -165,4 +165,14 @@
 | 159 | 欢乐剧场 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8> |
 | 160 | 精品萌宠 | IPv6 直链 | <http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3> |
 
-Updated at **Fri Mar 22 2024 00:33:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 22 2024 01:17:28 GMT+0000 (Coordinated Universal Time)**
+
+## 使用说明：
+
+. 推荐适配派大星、DIYP空壳等手机或TV软件安装.
+
+. 捐赠打赏地址 https://iptv.vodtv.cn/a/iptvjs，捐赠后站内私信查看token，为16位字符串密钥，使用方法：替换订阅地址中token参数即可！
+
+. 本站IPTV动态资源，全网自动搜集，自动检测，每天更新一次，发布最新的有效源.
+
+. 非常感谢您的大力支持和理解！
