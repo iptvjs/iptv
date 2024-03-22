@@ -19,30 +19,30 @@
 | 成人IPTV | [a_chs.m3u](/a_chs.m3u) <br> [a_chs.txt](/txt/a_chs.txt) | [List for 成人IPTV](/list/a_chs.list) | 25 | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 166 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6(Invalid)](/list/fmml_dv6.list) | 100 | - |
-| YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 175 | - |
+| YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 160 | - |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 2194 | - |
 | YanG_1989 Adult | [y_a.m3u](/y_a.m3u) <br> [y_a.txt](/txt/y_a.txt) | [List for YanG_1989 Adult](/list/y_a.list) | 1210 | - |
 | joevess/IPTV home | [j_home.m3u](/j_home.m3u) <br> [j_home.txt](/txt/j_home.txt) | [List for joevess/IPTV home](/list/j_home.list) | 51 | - |
 | joevess/IPTV iptv | [j_iptv.m3u](/j_iptv.m3u) <br> [j_iptv.txt](/txt/j_iptv.txt) | [List for joevess/IPTV iptv](/list/j_iptv.list) | 503 | - |
-| iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 9961 | - |
-| iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 537 | - |
+| iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | 9964 | - |
+| iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | 538 | - |
 | iptv.org stream China | [o_s_cn.m3u](/o_s_cn.m3u) <br> [o_s_cn.txt](/txt/o_s_cn.txt) | [List for iptv.org stream China](/list/o_s_cn.list) | 504 | - |
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](/o_s_cn_112114.m3u) <br> [o_s_cn_112114.txt](/txt/o_s_cn_112114.txt) | [List for iptv.org stream China 112114](/list/o_s_cn_112114.list) | 18 | - |
 | iptv.org stream China CCTV | [o_s_cn_cctv.m3u](/o_s_cn_cctv.m3u) <br> [o_s_cn_cctv.txt](/txt/o_s_cn_cctv.txt) | [List for iptv.org stream China CCTV](/list/o_s_cn_cctv.list) | 14 | - |
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u) <br> [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt) | [List for iptv.org stream China CGTN](/list/o_s_cn_cgtn.list) | 6 | - |
-| epg.pw China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for epg.pw China](/list/cn.list) | 459 | - |
+| epg.pw China | [cn.m3u](/cn.m3u) <br> [cn.txt](/txt/cn.txt) | [List for epg.pw China](/list/cn.list) | 458 | - |
 | epg.pw 央视 | [ew_cc.m3u](/ew_cc.m3u) <br> [ew_cc.txt](/txt/ew_cc.txt) | [List for epg.pw 央视](/list/ew_cc.list) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](/ew_ws.m3u) <br> [ew_ws.txt](/txt/ew_ws.txt) | [List for epg.pw 卫视](/list/ew_ws.list) | 34 | - |
-| epg.pw 国内 | [ew_cn.m3u](/ew_cn.m3u) <br> [ew_cn.txt](/txt/ew_cn.txt) | [List for epg.pw 国内](/list/ew_cn.list) | 459 | - |
-| epg.pw 香港 | [ew_hk.m3u](/ew_hk.m3u) <br> [ew_hk.txt](/txt/ew_hk.txt) | [List for epg.pw 香港](/list/ew_hk.list) | 58 | - |
+| epg.pw 国内 | [ew_cn.m3u](/ew_cn.m3u) <br> [ew_cn.txt](/txt/ew_cn.txt) | [List for epg.pw 国内](/list/ew_cn.list) | 458 | - |
+| epg.pw 香港 | [ew_hk.m3u](/ew_hk.m3u) <br> [ew_hk.txt](/txt/ew_hk.txt) | [List for epg.pw 香港](/list/ew_hk.list) | 54 | - |
 | epg.pw 澳門 | [ew_om.m3u](/ew_om.m3u) <br> [ew_om.txt](/txt/ew_om.txt) | [List for epg.pw 澳門](/list/ew_om.list) | 14 | - |
-| epg.pw 台灣 | [ew_tw.m3u](/ew_tw.m3u) <br> [ew_tw.txt](/txt/ew_tw.txt) | [List for epg.pw 台灣](/list/ew_tw.list) | 146 | - |
-| epg.pw ipv6 | [ew_ipv6.m3u](/ew_ipv6.m3u) <br> [ew_ipv6.txt](/txt/ew_ipv6.txt) | [List for epg.pw ipv6](/list/ew_ipv6.list) | 2543 | - |
+| epg.pw 台灣 | [ew_tw.m3u](/ew_tw.m3u) <br> [ew_tw.txt](/txt/ew_tw.txt) | [List for epg.pw 台灣](/list/ew_tw.list) | 138 | - |
+| epg.pw ipv6 | [ew_ipv6.m3u](/ew_ipv6.m3u) <br> [ew_ipv6.txt](/txt/ew_ipv6.txt) | [List for epg.pw ipv6](/list/ew_ipv6.list) | 2480 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom | [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u) <br> [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom](/list/q_bj_iptv_unicom.list) | 133 | - |
 | qwerttvv/Beijing-IPTV IPTV Unicom Multicast | [q_bj_iptv_unicom_m.m3u](/q_bj_iptv_unicom_m.m3u) <br> [q_bj_iptv_unicom_m.txt](/txt/q_bj_iptv_unicom_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Unicom Multicast](/list/q_bj_iptv_unicom_m.list) | 133 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile | [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u) <br> [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile](/list/q_bj_iptv_mobile.list) | 147 | - |
 | qwerttvv/Beijing-IPTV IPTV Mobile Multicast | [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u) <br> [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt) | [List for qwerttvv/Beijing-IPTV IPTV Mobile Multicast](/list/q_bj_iptv_mobile_m.list) | 130 | - |
-| 自动获取酒店源 | [ss_itv.m3u](/ss_itv.m3u) <br> [ss_itv.txt](/txt/ss_itv.txt) | [List for 自动获取酒店源](/list/ss_itv.list) | 567 | - |
+| 自动获取酒店源 | [ss_itv.m3u](/ss_itv.m3u) <br> [ss_itv.txt](/txt/ss_itv.txt) | [List for 自动获取酒店源](/list/ss_itv.list) | 533 | - |
 
 ## CDN加速
 
