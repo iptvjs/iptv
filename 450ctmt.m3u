@@ -60,21 +60,29 @@ http://124.227.201.79:8888/rtp/239.81.0.110:4056
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://222.218.213.47:10000/rtp/239.81.0.110:4056
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://124.227.201.79:8888/rtp/239.81.0.109:4056
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://222.218.213.47:10000/rtp/239.81.0.109:4056
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://116.8.92.19:33000/rtp/239.81.0.104:4056
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://124.227.201.79:8888/rtp/239.81.0.104:4056
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://222.218.213.47:10000/rtp/239.81.0.104:4056
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://116.8.92.19:33000/rtp/239.81.0.103:4056
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://124.227.201.79:8888/rtp/239.81.0.103:4056
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://222.218.213.47:10000/rtp/239.81.0.103:4056
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://116.8.92.19:33000/rtp/239.81.0.210:4056
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://124.227.201.79:8888/rtp/239.81.0.210:4056
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://222.218.213.47:10000/rtp/239.81.0.210:4056
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://116.8.92.19:33000/rtp/239.81.0.114:4056
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://124.227.201.79:8888/rtp/239.81.0.114:4056
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://222.218.213.47:10000/rtp/239.81.0.114:4056
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
@@ -114,6 +122,8 @@ http://222.218.213.47:10000/rtp/239.81.0.94:4056
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://116.8.92.19:33000/rtp/239.81.0.105:4056
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://124.227.201.79:8888/rtp/239.81.0.105:4056
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://222.218.213.47:10000/rtp/239.81.0.105:4056
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://116.8.92.19:33000/rtp/239.81.0.112:4056
@@ -146,15 +156,15 @@ http://124.227.201.79:8888/rtp/239.81.0.241:4056
 #EXTINF:-1 tvg-name="南宁新闻" tvg-logo="https://live.fanmingming.com/tv/南宁新闻.png" group-title="其他频道",南宁新闻
 http://222.218.213.47:10000/rtp/239.81.0.241:4056
 #EXTINF:-1 tvg-name="广西IPTV12" tvg-logo="https://live.fanmingming.com/tv/广西IPTV12.png" group-title="其他频道",广西IPTV12
-http://116.8.92.19:33000/rtp/239.81.0.124:4056
+http://124.227.201.79:8888/rtp/239.81.0.124:4056
 #EXTINF:-1 tvg-name="广西IPTV12" tvg-logo="https://live.fanmingming.com/tv/广西IPTV12.png" group-title="其他频道",广西IPTV12
 http://222.218.213.47:10000/rtp/239.81.0.124:4056
 #EXTINF:-1 tvg-name="广西IPTV8" tvg-logo="https://live.fanmingming.com/tv/广西IPTV8.png" group-title="其他频道",广西IPTV8
-http://116.8.92.19:33000/rtp/239.81.0.208:4056
+http://124.227.201.79:8888/rtp/239.81.0.208:4056
 #EXTINF:-1 tvg-name="广西IPTV8" tvg-logo="https://live.fanmingming.com/tv/广西IPTV8.png" group-title="其他频道",广西IPTV8
 http://222.218.213.47:10000/rtp/239.81.0.208:4056
 #EXTINF:-1 tvg-name="广西IPTV影院" tvg-logo="https://live.fanmingming.com/tv/广西IPTV影院.png" group-title="其他频道",广西IPTV影院
-http://116.8.92.19:33000/rtp/239.81.0.100:4056
+http://124.227.201.79:8888/rtp/239.81.0.100:4056
 #EXTINF:-1 tvg-name="广西IPTV影院" tvg-logo="https://live.fanmingming.com/tv/广西IPTV影院.png" group-title="其他频道",广西IPTV影院
 http://222.218.213.47:10000/rtp/239.81.0.100:4056
 #EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://live.fanmingming.com/tv/广西新闻.png" group-title="其他频道",广西新闻
@@ -184,6 +194,8 @@ http://222.218.213.47:10000/rtp/239.81.0.202:4056
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="其他频道",爱上4K
 http://116.8.92.19:33000/rtp/239.81.0.123:4056
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="其他频道",爱上4K
+http://124.227.201.79:8888/rtp/239.81.0.123:4056
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="其他频道",爱上4K
 http://222.218.213.47:10000/rtp/239.81.0.123:4056
 #EXTINF:-1 tvg-name="电竞游戏1" tvg-logo="https://live.fanmingming.com/tv/电竞游戏1.png" group-title="其他频道",电竞游戏1
 http://116.8.92.19:33000/rtp/239.81.0.203:4056
@@ -197,5 +209,5 @@ http://116.8.92.19:33000/rtp/239.81.0.201:4056
 http://124.227.201.79:8888/rtp/239.81.0.201:4056
 #EXTINF:-1 tvg-name="电竞游戏2" tvg-logo="https://live.fanmingming.com/tv/电竞游戏2.png" group-title="其他频道",电竞游戏2
 http://222.218.213.47:10000/rtp/239.81.0.201:4056
-#EXTINF:-1 tvg-name="2024-03-21 19:49:31" tvg-logo="https://live.fanmingming.com/tv/2024-03-21 19:49:31.png" group-title="更新时间",2024-03-21 19:49:31
+#EXTINF:-1 tvg-name="2024-03-22 19:06:13" tvg-logo="https://live.fanmingming.com/tv/2024-03-22 19:06:13.png" group-title="更新时间",2024-03-22 19:06:13
 https://taoiptv.com/time.mp4

@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://111.225.112.65:808/tsfile/live/0002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://111.225.113.130:808/tsfile/live/0002_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
 http://111.225.112.65:808/tsfile/live/0004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV4
 http://111.225.113.130:808/tsfile/live/0004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K
+http://111.225.113.130:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://111.225.112.65:808/tsfile/live/0018_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
@@ -189,5 +187,5 @@ http://111.225.112.65:808/tsfile/live/1028_1.m3u8?key=txiptv
 http://111.225.113.130:808/tsfile/live/1036_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="高碑店-1" tvg-logo="https://live.fanmingming.com/tv/高碑店-1.png" group-title="其他频道",高碑店-1
 http://111.225.112.65:808/tsfile/live/1039_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="2024-03-22 06:52:40" tvg-logo="https://live.fanmingming.com/tv/2024-03-22 06:52:40.png" group-title="更新时间",2024-03-22 06:52:40
+#EXTINF:-1 tvg-name="2024-03-22 19:03:52" tvg-logo="https://live.fanmingming.com/tv/2024-03-22 19:03:52.png" group-title="更新时间",2024-03-22 19:03:52
 https://taoiptv.com/time.mp4
