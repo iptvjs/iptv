@@ -42,7 +42,7 @@
 | 36 | 福建旅游 | IPv4 直链 | <http://110.80.17.38:9901/tsfile/live/0138_1.m3u8?key=txiptv> |
 | 37 | 2024-03-22 19:05:05 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Sat Mar 23 2024 01:57:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 23 2024 08:23:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

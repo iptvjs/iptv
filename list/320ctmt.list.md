@@ -82,7 +82,7 @@
 | 76 | 金鹰纪实 | IPv4 直链 | <http://222.95.96.123:8001/rtp/239.49.8.203:6000> |
 | 77 | 2024-03-22 19:04:38 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Sat Mar 23 2024 01:57:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 23 2024 08:23:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

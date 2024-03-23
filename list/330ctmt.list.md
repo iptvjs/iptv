@@ -412,7 +412,7 @@
 | 406 | 金色学堂 | IPv4 直链 | <http://125.125.199.56:8888/rtp/233.50.201.186:5140> |
 | 407 | 2024-03-22 19:04:47 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Sat Mar 23 2024 01:57:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 23 2024 08:23:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

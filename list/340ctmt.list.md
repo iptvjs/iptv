@@ -253,7 +253,7 @@
 | 247 | 黄山新闻综合 | IPv4 直链 | <http://60.166.114.144:8888/rtp/238.1.78.130:6912> |
 | 248 | 2024-03-22 19:04:55 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Sat Mar 23 2024 01:57:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 23 2024 08:23:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

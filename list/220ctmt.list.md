@@ -53,7 +53,7 @@
 | 47 | 长春经济 | IPv4 直链 | <http://36.49.53.197:8800/rtp/239.37.0.99:5540> |
 | 48 | 2024-03-22 19:04:18 | taoiptv.com | <https://taoiptv.com/time.mp4> |
 
-Updated at **Sat Mar 23 2024 01:57:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 23 2024 08:23:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 

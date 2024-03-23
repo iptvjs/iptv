@@ -6,7 +6,7 @@
 | --- | ------------ | --- |
 | 1 | [HD]Astro华丽台(翡MAS) | epg.pw | <https://epg.pw/stream/710b4f39ca480891c939fb920c7f231827336eedb69d51c0c87a64df59edfc16.ctv> |
 | 2 | [HD]tvri world | epg.pw | <https://epg.pw/stream/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
-| 3 | [BD]hot tv (720p) [not 24/7] | epg.pw | <https://epg.pw/stream/bf0acd8724462a199c75f1bcd7b6088bbbe9080e425b8d88c012344b08c57cca.m3u8> |
+| 3 | [BD]hot tv | epg.pw | <https://epg.pw/stream/8363d78f0961a217b8391a528607c0907d0396c40d1bdf828b30aa9aa0358fea.m3u8> |
 | 4 | [BD]hoy资讯台 | epg.pw | <https://epg.pw/stream/e28850f2f99282aa83bdbf4afe4859fd85cbcd496aacd646046e511f0252539a.m3u8> |
 | 5 | [BD]j2 | epg.pw | <https://epg.pw/stream/35be49526efe9576baa6ecdfacd7c7b7a91e12d4991a5c65bebfe97313d8aa81.ctv> |
 | 6 | [HD]now新闻 | epg.pw | <https://epg.pw/stream/35f4a0894d42d981a53a0d1ca5602e98b6b4b3e7f6a683da29156a0ce0af4788.m3u8> |
@@ -57,7 +57,7 @@
 | 51 | [HD]凤凰电影 | epg.pw | <https://epg.pw/stream/ccd9565f371366d9c27a04061882c25514f974a0109d57ed0fd9f5199a4987f7.m3u8> |
 | 52 | [BD]凤凰香港 | epg.pw | <https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8> |
 
-Updated at **Sat Mar 23 2024 01:57:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 23 2024 08:23:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 使用说明：
 
