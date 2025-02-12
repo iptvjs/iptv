@@ -340,7 +340,7 @@
 | 332 | 金鹰卡通 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 333 | 金鹰卡通 | IPv4 直链 | <http://1.197.249.81:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/13/2025 12:28:22 AM**
+Updated at **2/13/2025 12:31:09 AM**
 
 ## 使用说明
 
