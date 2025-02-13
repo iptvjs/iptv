@@ -248,7 +248,7 @@
 | 240 | 高尔夫网球 | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 241 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/14/2025 12:28:43 AM**
+Updated at **2/14/2025 12:31:22 AM**
 
 ## 使用说明
 
