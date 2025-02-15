@@ -55,7 +55,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 271 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 72 | - |
 
- > Updated at **2/16/2025 12:23:58 AM**
+ > Updated at **2/16/2025 12:26:38 AM**
 
 ## 📚 EPG 节目单
 
@@ -63,11 +63,11 @@
 | --- | --- | ---------- |
 
 | EPG接口1 | [fmml.xml](./epg/fmml.xml ) | - |
-| EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | ✅ |
+| EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | - |
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
-| EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | ✅ |
+| EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **2/16/2025 12:23:58 AM**
+ > Updated at **2/16/2025 12:26:38 AM**
 
 ## 🚀Github 文件加速
 
