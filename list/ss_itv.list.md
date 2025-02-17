@@ -330,7 +330,7 @@
 | 322 | 风云足球 | IPv4 直链 | <http://113.195.13.72:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 323 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/18/2025 12:27:12 AM**
+Updated at **2/18/2025 12:29:50 AM**
 
 ## 使用说明
 
