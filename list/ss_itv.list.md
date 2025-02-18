@@ -386,7 +386,7 @@
 | 378 | 风云剧场 | IPv4 直链 | <http://113.195.13.72:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 379 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/19/2025 12:28:47 AM**
+Updated at **2/19/2025 12:31:41 AM**
 
 ## 使用说明
 

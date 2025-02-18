@@ -149,7 +149,7 @@
 | 141 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 142 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **2/19/2025 12:28:47 AM**
+Updated at **2/19/2025 12:31:41 AM**
 
 ## 使用说明
 
