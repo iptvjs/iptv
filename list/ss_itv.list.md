@@ -409,7 +409,7 @@
 | 401 | 风云足球 | IPv4 直链 | <http://113.195.45.35:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 402 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/21/2025 12:29:19 AM**
+Updated at **2/21/2025 12:32:06 AM**
 
 ## 使用说明
 
