@@ -318,7 +318,7 @@
 | 310 | 陕西银铃 | IPv4 直链 | <http://36.40.236.91:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 311 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/22/2025 12:27:22 AM**
+Updated at **2/22/2025 12:30:03 AM**
 
 ## 使用说明
 
