@@ -197,7 +197,7 @@
 | 189 | 金鹰卡通 | IPv4 直链 | <http://113.57.20.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 190 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/24/2025 12:24:13 AM**
+Updated at **2/24/2025 12:26:53 AM**
 
 ## 使用说明
 
