@@ -228,7 +228,7 @@
 | 220 | 陕西银铃 | IPv4 直链 | <http://36.40.236.94:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 221 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/1/2025 12:28:22 AM**
+Updated at **3/1/2025 12:30:59 AM**
 
 ## 使用说明
 
