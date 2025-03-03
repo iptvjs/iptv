@@ -131,7 +131,7 @@
 | 123 | 百视通体育6 | pi.0472.org | <https://pi.0472.org/hls/sport6.m3u8> |
 | 124 | 百视通体育7 | pi.0472.org | <https://pi.0472.org/hls/sport7.m3u8> |
 
-Updated at **3/3/2025 12:28:30 AM**
+Updated at **3/4/2025 12:27:47 AM**
 
 ## 使用说明
 
