@@ -108,7 +108,7 @@
 | 100 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/458429f81d1a14007fd3d6f5a8ec3cdd04e16d2237f1f1647eaf3c027cc96505.ctv> |
 | 101 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 
-Updated at **3/4/2025 12:27:47 AM**
+Updated at **3/4/2025 12:30:25 AM**
 
 ## 使用说明
 
