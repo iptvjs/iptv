@@ -117,7 +117,7 @@
 | 109 | 湖南金鹰纪实 | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 110 | 金鹰卡通 | IPv4 直链 | <http://113.57.20.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/5/2025 12:29:29 AM**
+Updated at **3/5/2025 12:32:08 AM**
 
 ## 使用说明
 
