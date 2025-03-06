@@ -16,6 +16,9 @@ CCTV_TV_Guide_(576p),http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHI
 CCTV_央视精品,http://117.161.133.51:81/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV
 CCTV_第一剧场,http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
 CCTV_高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
+Channel_Max,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+Channel_Tea,http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC_Home_Theater,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 Documentary_Humanities_Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
 douyu8,http://epg.112114.xyz/douyu/4332
 douyu9,http://epg.112114.xyz/douyu/6140589
@@ -26,6 +29,9 @@ douyu24,http://epg.112114.xyz/douyu/36337
 douyu25,http://epg.112114.xyz/douyu/8814650
 douyu28,http://epg.112114.xyz/douyu/263824
 douyu44,http://epg.112114.xyz/douyu/323876
+DOX_Surround,http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+DOX_Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+DOX_Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 Fengtai_Culture_&_Life_TV,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
 Fengtai_News_TV,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 Foochow_Children_TV,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
@@ -450,6 +456,11 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 龙口生活_(576p),http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 龙岩综合_(540p),http://stream.lytv.net.cn/2/sd/live.m3u8
 
+Animation;Kids,#genre#
+Animation_Show_Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+金鹰卡通_(576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+
 News,#genre#
 BBC_News_Asia_Pacific_(720p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 CCTV13_(1080p),http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040
@@ -526,6 +537,7 @@ SMG_Football_Channel,http://49.113.179.174:4022/udp/238.125.2.142:5140
 Movies,#genre#
 CCTV6_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.124:10382
 CCTV_风云剧场,http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
+CHC_Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 
 Education,#genre#
@@ -577,10 +589,6 @@ STV_News_and_General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0
 
 Shop,#genre#
 Ugo_Shop_TV,http://49.113.179.174:4022/udp/238.125.4.184:5140
-
-Animation;Kids,#genre#
-优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
-金鹰卡通_(576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 
 Family,#genre#
 四川妇女儿童_(720p)_[Not_24/7],http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8

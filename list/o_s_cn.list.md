@@ -514,8 +514,16 @@
 | 506 | 龙口新闻综合 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
 | 507 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 508 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
+| 509 | Animation Show Channel | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 510 | Channel Tea | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 511 | Channel Max | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 512 | DOX Surround | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 513 | DOX Yaqu | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 514 | DOX Yijia | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 515 | CHC Action | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 516 | CHC Home Theater | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/6/2025 12:37:45 AM**
+Updated at **3/7/2025 12:28:43 AM**
 
 ## 使用说明
 
