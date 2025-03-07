@@ -3,9 +3,9 @@
 https://stream1.freetv.fun/4cedee3372130b21deaebdb343a74b3e07ed4c34e07680a6561b5727c37ff0cd.ctv
 #EXTINF:-1 tvg-name="澳视澳门" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="综合",[BD]澳视澳门
 https://stream1.freetv.fun/761b2498f1ab07bec8396c9522c7a99ea7a578c385a305e8f5b11206e635de26.m3u8
-#EXTINF:-1 tvg-name="澳视综艺" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="综艺",[BD]澳视综艺
-https://stream1.freetv.fun/070b0810e3c9d77923e6fa19a72fa9df9c7fca37cf6ced9d2b1ff6c6930480e8.m3u8
-#EXTINF:-1 tvg-name="澳视葡文" tvg-id="" tvg-country="澳门" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="综艺",[BD]澳视葡文
+#EXTINF:-1 tvg-name="澳视综艺" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="综艺",[HD]澳门综艺
+https://stream1.freetv.fun/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8
+#EXTINF:-1 tvg-name="澳视葡文" tvg-id="" tvg-country="澳门" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="综艺",[HD]澳视葡文
 https://stream1.freetv.fun/470cc9f6910f54f75c4800037462a15e29c9a5e1239b8481209a25a18865d21f.m3u8
 #EXTINF:-1 tvg-name="澳视体育" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="运动",[HD]澳门体育
 https://stream1.freetv.fun/9aef8e8f1c01b226c1f385bd2dc68af304041a908154aa383914763a3634011a.m3u8
