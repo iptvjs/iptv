@@ -65,7 +65,7 @@
 | 57 | 武术世界 | IPv6 直链 | <http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8> |
 | 58 | 2025-03-07 18:57:16 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rbb18g16a1r303r6/sc/cae_h264/1739321657475632500/mda-rbb18g16a1r303r6.mp4> |
 
-Updated at **3/8/2025 12:28:12 AM**
+Updated at **3/8/2025 12:30:46 AM**
 
 ## 使用说明
 
