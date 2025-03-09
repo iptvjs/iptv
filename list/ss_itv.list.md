@@ -398,7 +398,7 @@
 | 390 | 风云剧场 | IPv4 直链 | <http://113.195.13.61:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 391 | 风云足球 | IPv4 直链 | <http://113.195.13.61:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **3/10/2025 12:21:37 AM**
+Updated at **3/10/2025 12:24:11 AM**
 
 ## 使用说明
 
