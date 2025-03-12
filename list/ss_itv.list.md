@@ -292,7 +292,7 @@
 | 284 | 陕西都市青春 | IPv4 直链 | <http://36.40.236.234:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 285 | 陕西银铃 | IPv4 直链 | <http://36.40.236.234:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **3/13/2025 12:29:48 AM**
+Updated at **3/13/2025 12:32:26 AM**
 
 ## 使用说明
 
