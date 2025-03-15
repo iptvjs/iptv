@@ -523,7 +523,7 @@
 | 515 | CHC Action | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 516 | CHC Home Theater | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/15/2025 12:30:38 AM**
+Updated at **3/16/2025 12:25:30 AM**
 
 ## 使用说明
 
