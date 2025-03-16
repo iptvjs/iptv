@@ -209,7 +209,7 @@
 | 201 | 陕西银铃 | IPv4 直链 | <http://36.40.236.194:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 202 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/17/2025 12:25:57 AM**
+Updated at **3/17/2025 12:28:25 AM**
 
 ## 使用说明
 
