@@ -344,7 +344,7 @@
 | 336 | 金鹰卡通 | IPv4 直链 | <http://58.243.224.244:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 337 | 风云音乐 | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/19/2025 12:30:06 AM**
+Updated at **3/19/2025 12:32:48 AM**
 
 ## 使用说明
 
