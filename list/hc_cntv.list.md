@@ -79,7 +79,7 @@
 | 71 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=ace92c831742407357> |
 | 72 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=88db7dc31742395729> |
 
-Updated at **3/20/2025 12:29:57 AM**
+Updated at **3/20/2025 12:32:37 AM**
 
 ## 使用说明
 
