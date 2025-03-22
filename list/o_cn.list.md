@@ -9,7 +9,7 @@
 | 1 | ABN China (720p) | mediaserver.abnvideos.com | <https://mediaserver.abnvideos.com/streams/abnchina.m3u8> |
 | 2 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 | 3 | Angel TV Chinese (720p) | cdn3.wowza.com | <https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8> |
-| 4 | Animation Show Channel | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 4 | Animation Show Channel | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1> |
 | 5 | BBC News Asia Pacific (720p) | cdn4.skygo.mn | <https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8> |
 | 6 | Beijing Traffic Radio TV | IPv4 直链 | <http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8> |
 | 7 | Beijing Youth Radio | audiolive.rbc.cn:1935 | <http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8> |
@@ -19,12 +19,12 @@
 | 11 | Bread TV面包台 (720p) | video.bread-tv.com:8091 | <https://video.bread-tv.com:8091/hls-live24/online/index.m3u8> |
 | 12 | BRTV Kaku Childrens Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.216:5140> |
 | 13 | BRTV Science & Education Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.121:5140> |
-| 14 | CCTV1 (1080p) | 咪咕 | <http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3> |
-| 15 | CCTV2 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250> |
+| 14 | CCTV1 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8> |
+| 15 | CCTV2 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8> |
 | 16 | CCTV3 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370> |
 | 17 | CCTV4 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.138:10466> |
 | 18 | CCTV5 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.123:10376> |
-| 19 | CCTV5+ | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv> |
+| 19 | CCTV5+ (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.254.96.234:9484> |
 | 20 | CCTV6 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.124:10382> |
 | 21 | CCTV7 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.103:10256> |
 | 22 | CCTV8 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.125:10388> |
@@ -34,7 +34,7 @@
 | 26 | CCTV12 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.106:10274> |
 | 27 | CCTV13 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040> |
 | 28 | CCTV14 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280> |
-| 29 | CCTV15音乐 | hwrr.jx.chinamobile.com:8080 | <http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8> |
+| 29 | CCTV15 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566> |
 | 30 | CCTV16 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.247:11124> |
 | 31 | CCTV16-4K (2160p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.249:11136> |
 | 32 | CCTV17 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548> |
@@ -55,10 +55,10 @@
 | 47 | CETV2 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV> |
 | 48 | CETV-4 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.92:5140> |
 | 49 | Channel Law | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.201:5140> |
-| 50 | Channel Max | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 51 | Channel Tea | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 52 | CHC Action | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 53 | CHC Home Theater | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 50 | Channel Max | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 51 | Channel Tea | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 52 | CHC Action | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 53 | CHC Home Theater | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?authid=0&key=txiptv&playlive=1> |
 | 54 | City Theater Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.1.60:5140> |
 | 55 | CNBC Asia HD (720p) | cdn09jtedge.indihometv.com | <https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8> |
 | 56 | Documentary Humanities Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.135:5140> |
@@ -71,9 +71,9 @@
 | 63 | douyu25 | epg.112114.xyz | <http://epg.112114.xyz/douyu/8814650> |
 | 64 | douyu28 | epg.112114.xyz | <http://epg.112114.xyz/douyu/263824> |
 | 65 | douyu44 | epg.112114.xyz | <http://epg.112114.xyz/douyu/323876> |
-| 66 | DOX Surround | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 67 | DOX Yaqu | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 68 | DOX Yijia | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 66 | DOX Surround | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 67 | DOX Yaqu | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 68 | DOX Yijia | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1> |
 | 69 | Dragon TV International (360p) | IPv4 直链 | <http://210.210.155.37/x6bnqe/s/s29/index.m3u8> |
 | 70 | Ecology & Environment TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.175:5140> |
 | 71 | EWTN Africa Asia (720p) | cdn3.wowza.com | <https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8> |
@@ -185,7 +185,7 @@
 | 177 | 前郭综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/qg/sd/live.m3u8> |
 | 178 | 动作电影 (1080p) | 中国移动陕西 | <http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8> |
 | 179 | 动画王国 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/donghuawg/donghuawg> |
-| 180 | 北京卫视 (1080p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/bjwshd/4000000/mnf.m3u8> |
+| 180 | 北京卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_BEIJING/G_BEIJING> |
 | 181 | 北京纪实 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8> |
 | 182 | 北京财经 [Not 24/7] | ivi.bupt.edu.cn | <http://ivi.bupt.edu.cn/hls/btv5.m3u8> |
 | 183 | 北京青年 [Not 24/7] | ivi.bupt.edu.cn | <http://ivi.bupt.edu.cn/hls/btv8.m3u8> |
@@ -230,14 +230,14 @@
 | 222 | 四川 Ⅰ 达州公共台 (720p) [Not 24/7] | m3u8.channellive.dzxw.net | <http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8> |
 | 223 | 四川 Ⅰ 达州综合台 (720p) [Not 24/7] | m3u8.channellive.dzxw.net | <http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8> |
 | 224 | 四川公共 (720p) | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8> |
-| 225 | 四川卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8> |
+| 225 | 四川卫视 (360p) | IPv4 直链 | <http://125.210.152.18:9090/live/SCWSHD_H265.m3u8> |
 | 226 | 四川妇女儿童 (720p) [Not 24/7] | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8> |
 | 227 | 四平新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/sptv/sd/live.m3u8> |
 | 228 | 大冶一套 | dayeyun.live.tempsource.cjyun.org | <http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8> |
 | 229 | 大冶二套 | dayeyun.live.tempsource.cjyun.org | <http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8> |
 | 230 | 大悟综合 | yunshangdawu.live.tempsource.cjyun.org | <http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8> |
 | 231 | 大爱海外 (720p) | pulltv3.wanfudaluye.com | <https://pulltv3.wanfudaluye.com/live/tv3.m3u8> |
-| 232 | 天津卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8> |
+| 232 | 天津卫视 (576p) | IPv4 直链 | <http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8> |
 | 233 | 奇妙电视 (720p) | media.fantv.hk | <http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8> |
 | 234 | 女性时尚 (576p) | IPv4 直链 | <http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8> |
 | 235 | 如东新闻综合 (480p) [Not 24/7] | live.rdxmt.com | <http://live.rdxmt.com/channels/rudong/news/flv:sd/live> |
@@ -250,7 +250,7 @@
 | 242 | 安徽 Ⅰ 郎溪综合台 (1080p) | IPv4 直链 | <http://117.70.93.210:1935/live/xinwen/playlist.m3u8> |
 | 243 | 安徽 Ⅰ 铜陵公共 (720p) | dstpush1.retalltech.com | <http://dstpush1.retalltech.com/app/stream2.m3u8> |
 | 244 | 安徽 Ⅰ 铜陵综合 (720p) | dstpush1.retalltech.com | <http://dstpush1.retalltech.com/app/stream1.m3u8> |
-| 245 | 安徽卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8> |
+| 245 | 安徽卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/AHWS/AHWS> |
 | 246 | 安徽小说评书广播 | stream1.ahrtv.cn | <http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8> |
 | 247 | 安徽戏曲广播 | stream2.ahrtv.cn | <http://stream2.ahrtv.cn/xnxq/sd/live.m3u8> |
 | 248 | 安徽新闻综合广播 | stream2.ahrtv.cn | <http://stream2.ahrtv.cn/xnxw/sd/live.m3u8> |
@@ -267,7 +267,7 @@
 | 259 | 少儿科教 | IPv4 直链 | <http://121.19.134.246:808/hls/23/index.m3u8> |
 | 260 | 山东体育 (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/typd.m3u8> |
 | 261 | 山东农科 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/nkpd.m3u8> |
-| 262 | 山东卫视 (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/SDWSHD_H265.m3u8> |
+| 262 | 山东卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/SDWS/SDWS> |
 | 263 | 山东少儿 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/sepd.m3u8> |
 | 264 | 山东居家购物 (360p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/gwpd.m3u8> |
 | 265 | 山东影视 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/yspd.m3u8> |
@@ -293,7 +293,7 @@
 | 285 | 广东卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8> |
 | 286 | 广水新闻综合 | guangshui.live.tempsource.cjyun.org | <http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8> |
 | 287 | 广西卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8> |
-| 288 | 延边卫视 (720p) | 延边广播电视台 | <http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8> |
+| 288 | 康巴卫视 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8> |
 | 289 | 延边新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/jlyb/sd/live.m3u8> |
 | 290 | 建安电视台 (1080p) [Not 24/7] | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11003-1.m3u8> |
 | 291 | 弈坛春秋 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227031/index.m3u8> |
@@ -351,21 +351,21 @@
 | 343 | 江苏 Ⅰ 连云港综合 (480p) [Not 24/7] | live.lyg1.com | <https://live.lyg1.com/zhpd/sd/live.m3u8> |
 | 344 | 江苏体育 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY> |
 | 345 | 江苏公共 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG> |
-| 346 | 江苏卫视 (1080p) | 中国移动陕西 | <http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8> |
+| 346 | 江苏卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/JSWS-HD/JSWS-HD> |
 | 347 | 江苏城市 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS> |
 | 348 | 江苏影视 (576p) | IPv4 直链 | <http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8> |
 | 349 | 江苏教育 (576p) | 中国移动江苏 | <http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8> |
 | 350 | 江苏综艺 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY> |
-| 351 | 江西卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8> |
+| 351 | 江西卫视 (360p) | IPv4 直链 | <http://125.210.152.18:9090/live/JXWSHD_H265.m3u8> |
 | 352 | 沧县电视二套 (576p) | 千城云科 | <http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8> |
 | 353 | 沧县电视综合 (576p) | 千城云科 | <http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8> |
 | 354 | 河北公共 | IPv4 直链 | <http://121.19.134.246:808/hls/24/index.m3u8> |
 | 355 | 河北农民 | IPv4 直链 | <http://121.19.134.246:808/hls/25/index.m3u8> |
-| 356 | 河北卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8> |
+| 356 | 河北卫视 (360p) | IPv4 直链 | <http://125.210.152.18:9090/live/HBWSHD_H265.m3u8> |
 | 357 | 河北影视 | IPv4 直链 | <http://121.19.134.246:808/hls/22/index.m3u8> |
 | 358 | 河北经济 | IPv4 直链 | <http://121.19.134.246:808/hls/20/index.m3u8> |
 | 359 | 河北都市 | IPv4 直链 | <http://121.19.134.246:808/hls/21/index.m3u8> |
-| 360 | 河南卫视 (576p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/henanstv/henanstv> |
+| 360 | 河南卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/hnws/1300000/mnf.m3u8> |
 | 361 | 河源公共 (540p) | tmpstream.hyrtv.cn | <https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8> |
 | 362 | 河源综合 (540p) | tmpstream.hyrtv.cn | <https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8> |
 | 363 | 洪雅新闻综合 (1080p) | IPv4 直链 | <http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8> |
@@ -381,7 +381,7 @@
 | 373 | 浙江 Ⅰ 绍兴影视 (720p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8> |
 | 374 | 浙江 Ⅰ 绍兴综合 (576p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8> |
 | 375 | 浙江公共 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
-| 376 | 浙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
+| 376 | 浙江卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_ZHEJIANG/G_ZHEJIANG> |
 | 377 | 浙江影视 (720p) | 浙江广播电视集团 | <https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8> |
 | 378 | 浙江教科 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
 | 379 | 浙江教科影视 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
@@ -390,23 +390,23 @@
 | 382 | 浙江民生休闲 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
 | 383 | 浙江经济生活 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
 | 384 | 浙江钱江 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
-| 385 | 海南卫视 (720p) [Not 24/7] | livelyws.chinamcache.com | <http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e> |
+| 385 | 海南卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/lyws/1300000/mnf.m3u8> |
 | 386 | 海南州藏语频道 (480p) | live.hnzzzzzdst.com | <http://live.hnzzzzzdst.com/channel1/sd/live.m3u8> |
 | 387 | 海盐新闻 (720p) | haiyan.liveyun.hoge.cn | <http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8> |
 | 388 | 海西州综合 (576p) | stream.haixitv.cn | <http://stream.haixitv.cn/1/sd/live.m3u8> |
 | 389 | 涡阳新闻综合 (360p) | IPv4 直链 | <http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8> |
-| 390 | 深圳卫视 (1080p) | 中国移动陕西 | <http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8> |
+| 390 | 深圳卫视 (1080p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv> |
 | 391 | 湖北 Ⅰ 荆门公共台 (1080p) | jingmen.live.cjyun.org | <http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8> |
-| 392 | 湖北卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8> |
-| 393 | 湖南卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8> |
+| 392 | 湖北卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_HUBEI/G_HUBEI> |
+| 393 | 湖南卫视 (360p) | IPv4 直链 | <http://125.210.152.18:9090/live/HNWSHD_H265.m3u8> |
 | 394 | 湖南都市 (576p) | 千城云科 | <http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8> |
 | 395 | 湘潭公共 (576p) | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8> |
 | 396 | 湘潭新闻综合 (720p) | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8> |
 | 397 | 滁州公共 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvgg/playlist.m3u8> |
 | 398 | 滁州市广播电视台 公共频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
 | 399 | 滁州市广播电视台 新闻综合频道 (1080p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
-| 400 | 滁州新闻综合 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvzh/playlist.m3u8> |
-| 401 | 滁州科教 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvkj/playlist.m3u8> |
+| 400 | 滁州市广播电视台 科教频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/sjpd.m3u8> |
+| 401 | 滁州新闻综合 (450p) | IPv4 直链 | <http://183.167.193.45:1935/live/cztvzh/playlist.m3u8> |
 | 402 | 滦县综合 (576p) | 千城云科 | <http://hblxx.chinashadt.com:2036/live/stream:lx1.stream/playlist.m3u8> |
 | 403 | 滦县综艺 (576p) | 千城云科 | <http://hblxx.chinashadt.com:2036/live/stream:lx2.stream/playlist.m3u8> |
 | 404 | 滨州公共电视剧 (576p) | stream.bzcm.net | <http://stream.bzcm.net/1/sd/live.m3u8> |
@@ -421,7 +421,7 @@
 | 413 | 无线新闻台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8> |
 | 414 | 无线财经·体育·资讯台 | pull-f5-spe.ixigua.com | <https://pull-f5-spe.ixigua.com/yeslivetv.com/944048695-106799677/index.m3u8> |
 | 415 | 甘肃公共 (540p) [Not 24/7] | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/3t5xyc.m3u8> |
-| 416 | 甘肃卫视 (1080p) | IPv4 直链 | <http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888> |
+| 416 | 甘肃卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/gsws/1300000/mnf.m3u8> |
 | 417 | 甘肃移动 (540p) [Not 24/7] | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/y72q36.m3u8> |
 | 418 | 生活 (576p) | 中国移动江苏 | <http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8> |
 | 419 | 电白视窗 (360p) [Not 24/7] | 千城云科 | <http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8> |
@@ -489,12 +489,12 @@
 | 481 | 西藏藏语 (576p) | media.vtibet.com | <http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8> |
 | 482 | 西青新闻综合 (1080p) [Not 24/7] | IPv4 直链 | <http://221.238.209.44:81/hls/live1.m3u8> |
 | 483 | 贝爷影厅 | epg.112114.xyz | <http://epg.112114.xyz/douyu/252802> |
-| 484 | 贵州卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8> |
+| 484 | 贵州卫视 (360p) | IPv4 直链 | <http://125.210.152.18:9090/live/GZWSHD_H265.m3u8> |
 | 485 | 赵县电视一套 (360p) | 千城云科 | <http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8> |
 | 486 | 赵县电视二套 (360p) | 千城云科 | <http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8> |
 | 487 | 辛集新闻频道 (480p) [Not 24/7] | 千城云科 | <http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8> |
 | 488 | 辛集生活频道 (480p) [Not 24/7] | 千城云科 | <http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8> |
-| 489 | 辽宁卫视 (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
+| 489 | 辽宁卫视 (576p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv> |
 | 490 | 辽源新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8> |
 | 491 | 迪庆综合 (1080p) | stream01.dqtv123.com:1935 | <http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8> |
 | 492 | 迪庆藏语 (576p) | stream01.dqtv123.com:1935 | <http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8> |
@@ -508,10 +508,10 @@
 | 500 | 邯郸科教 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8> |
 | 501 | 邵东综合 (576p) | 千城云科 | <http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8> |
 | 502 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
-| 503 | 重庆卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8> |
+| 503 | 重庆卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/cqws/1300000/mnf.m3u8> |
 | 504 | 金昌公共频道 (240p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8> |
 | 505 | 金昌综合频道 (720p) | stream4.liveyun.hoge.cn | <http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8> |
-| 506 | 金鹰卡通 (576p) | 中国移动江苏 | <http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8> |
+| 506 | 金鹰卡通 (湖南) (540p) [Not 24/7] | IPv4 直链 | <http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8> |
 | 507 | 长乐综合 | 奥点云 | <http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8> |
 | 508 | 长春综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/jlcc/sd/live.m3u8> |
 | 509 | 长沙地铁移动 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8> |
@@ -534,7 +534,7 @@
 | 526 | 青州文化旅游 (576p) | 千城云科 | <http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8> |
 | 527 | 青州生活 (576p) | 千城云科 | <http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8> |
 | 528 | 青州综合 (576p) | 千城云科 | <http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8> |
-| 529 | 青海卫视 (1080p) | live.geermurmt.com | <http://live.geermurmt.com/qhws/sd/live.m3u8> |
+| 529 | 青海卫视 (540p) | IPv4 直链 | <http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8> |
 | 530 | 靖江新闻综合 (480p) [Not 24/7] | visit.jjbctv.com:1935 | <http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8> |
 | 531 | 静宁综合 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000147/index.m3u8> |
 | 532 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
@@ -546,7 +546,7 @@
 | 538 | 鹿泉一套 (576p) [Not 24/7] | 千城云科 | <http://hblq.chinashadt.com:2036/live/stream:luquan1.stream/playlist.m3u8> |
 | 539 | 鹿泉二套 (576p) [Not 24/7] | 千城云科 | <http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8> |
 | 540 | 黑龙卫视 (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8> |
-| 541 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
+| 541 | 黑龙江 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG> |
 | 542 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 543 | 黔西南公共 (288p) | 黔西南广播网 | <http://live.qxndt.com/channel3/sd/live.m3u8> |
 | 544 | 黔西南综合 (288p) | 黔西南广播网 | <http://live.qxndt.com/channel2/sd/live.m3u8> |
@@ -555,7 +555,7 @@
 | 547 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 548 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **3/22/2025 12:31:47 AM**
+Updated at **3/23/2025 12:25:56 AM**
 
 ## 使用说明
 
