@@ -275,7 +275,7 @@
 | 267 | 金鹰卡通 | IPv4 直链 | <http://1.197.249.199:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 268 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **3/26/2025 12:27:55 AM**
+Updated at **3/26/2025 12:30:34 AM**
 
 ## 使用说明
 
