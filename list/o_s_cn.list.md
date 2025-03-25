@@ -522,8 +522,9 @@
 | 514 | 龙口新闻综合 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
 | 515 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 516 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
+| 517 | Xizang TV Chinese | php.jdshipin.com | <http://php.jdshipin.com/xztv.php?id=ws> |
 
-Updated at **3/25/2025 12:33:22 AM**
+Updated at **3/26/2025 12:27:55 AM**
 
 ## 使用说明
 
