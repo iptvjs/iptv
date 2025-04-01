@@ -14,7 +14,7 @@
 | 6 | [BD]澳门mac | stream1.freetv.fun | <https://stream1.freetv.fun/a1f027717b1a32e4b2f2deccfd22e4dc564c3dbe4b9849e02a927a6d83fd457b.m3u8> |
 | 7 | [BD]澳门资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/8f5e06164f83ea905f999a68eb8c62711d9b752fc3b984f5a6b07b1b355e210b.m3u8> |
 
-Updated at **4/1/2025 12:32:37 AM**
+Updated at **4/2/2025 12:28:44 AM**
 
 ## 使用说明
 
