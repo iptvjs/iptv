@@ -109,7 +109,7 @@
 | 101 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 102 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **4/3/2025 12:33:40 AM**
+Updated at **4/4/2025 12:29:04 AM**
 
 ## 使用说明
 
