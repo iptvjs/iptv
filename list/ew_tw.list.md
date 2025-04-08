@@ -108,7 +108,7 @@
 | 100 | [BD]纬来体育 | stream1.freetv.fun | <https://stream1.freetv.fun/67541549aa368b813516af86845bef6abaa24314f757d002c717324025ba10ac.ctv> |
 | 101 | [HD]美亚电影台 | stream1.freetv.fun | <https://stream1.freetv.fun/da443790d97f926dedea94c81e6f76d9b62c2f3df80b7d692a111c8e4676dd3a.ctv> |
 | 102 | [HD]美食星球 | stream1.freetv.fun | <https://stream1.freetv.fun/a2fb7f8be0a762de970044064cf03f83aac347ad5d8bcf0c6cec50a3af23d04c.ctv> |
-| 103 | [HD]台视 | stream1.freetv.fun | <https://stream1.freetv.fun/a7dddec93a9aabf57c6cc078c93713caa086c81dca9b15afc481edbf797543e1.m3u8> |
+| 103 | [BD]台视 | stream1.freetv.fun | <https://stream1.freetv.fun/a7dddec93a9aabf57c6cc078c93713caa086c81dca9b15afc481edbf797543e1.m3u8> |
 | 104 | [BD]台视新闻 hd | stream1.freetv.fun | <https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8> |
 | 105 | [BD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/2cd7d95623d15269907381c4334b4472875d13eb3d29b2e59dd6f4c25ac9e78a.m3u8> |
 | 106 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
@@ -127,7 +127,7 @@
 | 119 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/1f908dbbd6fd9efc3e2566d7ffd803a37b09090ad15ab254d4da81f7230159fa.m3u8> |
 | 120 | [HD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.ctv> |
 
-Updated at **4/9/2025 12:30:26 AM**
+Updated at **4/9/2025 12:33:04 AM**
 
 ## 使用说明
 
