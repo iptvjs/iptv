@@ -93,7 +93,7 @@
 | 85 | 兵团卫视 | IPv4 直链 | <http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8> |
 | 86 | 三沙卫视 | IPv4 直链 | <http://1.82.234.109/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8> |
 
-Updated at **4/23/2025 12:29:50 AM**
+Updated at **4/23/2025 12:32:24 AM**
 
 ## 使用说明
 
