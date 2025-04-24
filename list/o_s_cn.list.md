@@ -6,7 +6,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | Ando TV | stream.qhbtv.com | <http://stream.qhbtv.com/adws/sd/live.m3u8> |
+| 1 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 | 2 | Animation Show Channel | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1> |
 | 3 | Beijing Traffic Radio TV | IPv4 直链 | <http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8> |
 | 4 | Beijing Youth Radio | audiolive.rbc.cn:1935 | <http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8> |
@@ -147,7 +147,7 @@
 | 139 | 前郭综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/qg/sd/live.m3u8> |
 | 140 | 动作电影 (1080p) | 中国移动陕西 | <http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8> |
 | 141 | 动画王国 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/donghuawg/donghuawg> |
-| 142 | 北京卫视 [Not 24/7] | ivi.bupt.edu.cn | <http://ivi.bupt.edu.cn/hls/btv1.m3u8> |
+| 142 | 北京卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8> |
 | 143 | 北京纪实 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8> |
 | 144 | 北京财经 [Not 24/7] | ivi.bupt.edu.cn | <http://ivi.bupt.edu.cn/hls/btv5.m3u8> |
 | 145 | 北京青年 [Not 24/7] | ivi.bupt.edu.cn | <http://ivi.bupt.edu.cn/hls/btv8.m3u8> |
@@ -317,7 +317,7 @@
 | 309 | 沧县电视二套 (576p) | 千城云科 | <http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8> |
 | 310 | 沧县电视综合 (576p) | 千城云科 | <http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8> |
 | 311 | 河北公共 | IPv4 直链 | <http://121.19.134.246:808/hls/24/index.m3u8> |
-| 312 | 河北农民 | IPv4 直链 | <http://121.19.134.246:808/hls/25/index.m3u8> |
+| 312 | 河北农民 (576p) | 千城云科 | <http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8> |
 | 313 | 河北卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8> |
 | 314 | 河北影视 | IPv4 直链 | <http://121.19.134.246:808/hls/22/index.m3u8> |
 | 315 | 河北经济 | IPv4 直链 | <http://121.19.134.246:808/hls/20/index.m3u8> |
@@ -346,7 +346,7 @@
 | 338 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
 | 339 | 浙江民生休闲 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
 | 340 | 浙江经济生活 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
-| 341 | 浙江钱江 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
+| 341 | 浙江钱江 (1080p) | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
 | 342 | 海南卫视 (720p) [Not 24/7] | livelyws.chinamcache.com | <http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e> |
 | 343 | 海南州藏语频道 (480p) | live.hnzzzzzdst.com | <http://live.hnzzzzzdst.com/channel1/sd/live.m3u8> |
 | 344 | 海盐新闻 (720p) | haiyan.liveyun.hoge.cn | <http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8> |
@@ -412,7 +412,7 @@
 | 404 | 置业 (576p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8> |
 | 405 | 美国中文电视 (406p) [Not 24/7] | jpts.sinovision.net | <https://jpts.sinovision.net/livestream.m3u8> |
 | 406 | 美国狗狗宠物 (1080p) | video.blivenyc.com | <https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8> |
-| 407 | 耀才财经 | IPv4 直链 | <http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8> |
+| 407 | 耀才财经 (288p) | IPv4 直链 | <http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8> |
 | 408 | 肃州电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000123/index.m3u8> |
 | 409 | 舟山公共生活 (720p) | live.wifizs.cn | <http://live.wifizs.cn/ggsh/sd/live.m3u8> |
 | 410 | 舟山新闻综合 (240p) | live.wifizs.cn | <http://live.wifizs.cn/xwzh/sd/live.m3u8> |
@@ -507,7 +507,7 @@
 | 499 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 500 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **4/24/2025 12:33:27 AM**
+Updated at **4/25/2025 12:30:33 AM**
 
 ## 使用说明
 
