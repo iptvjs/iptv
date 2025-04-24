@@ -48,7 +48,7 @@
 | 40 | 武术世界 | IPv6 直链 | <http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8> |
 | 41 | 2025-04-24 19:21:16 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rdh9djsiaxstb517/720p/h264/1744958306872268204/mda-rdh9djsiaxstb517.mp4?v_from_s=bdapp-resbox-suzhou> |
 
-Updated at **4/25/2025 12:30:33 AM**
+Updated at **4/25/2025 12:33:11 AM**
 
 ## 使用说明
 
