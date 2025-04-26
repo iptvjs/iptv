@@ -506,8 +506,9 @@
 | 498 | 龙口新闻综合 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
 | 499 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 500 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
+| 501 | Golden Eagle Cartoon | IPv4 直链 | <http://1.24.190.98:10080/hls/51/index.m3u8> |
 
-Updated at **4/26/2025 12:32:13 AM**
+Updated at **4/27/2025 12:27:24 AM**
 
 ## 使用说明
 
