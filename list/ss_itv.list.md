@@ -281,7 +281,7 @@
 | 273 | 风云音乐 | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 274 | 高尔夫网球 | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **4/28/2025 12:27:18 AM**
+Updated at **4/28/2025 12:29:45 AM**
 
 ## 使用说明
 
