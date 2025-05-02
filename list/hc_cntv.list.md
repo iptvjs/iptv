@@ -72,7 +72,7 @@
 | 64 | 甘肃卫视 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 65 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=6ce4d6811746205327> |
 
-Updated at **5/3/2025 12:30:16 AM**
+Updated at **5/3/2025 12:32:51 AM**
 
 ## 使用说明
 
