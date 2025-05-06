@@ -75,7 +75,7 @@
 | 67 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=260ff014e89939467698a212b1d99f0b&txTime=681A3155> |
 | 68 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=e6ef15071746544175> |
 
-Updated at **5/7/2025 12:29:36 AM**
+Updated at **5/7/2025 12:32:14 AM**
 
 ## 使用说明
 
