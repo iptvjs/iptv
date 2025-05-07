@@ -70,7 +70,7 @@
 | 62 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 63 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=60bb43f51746626139> |
 
-Updated at **5/8/2025 12:31:51 AM**
+Updated at **5/8/2025 12:34:31 AM**
 
 ## 使用说明
 
