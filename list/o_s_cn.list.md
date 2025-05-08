@@ -513,7 +513,7 @@
 | 505 | Nei Monggol TV Children Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560464515368.m3u8> |
 | 506 | Nei Monggol TV News Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560423879174.m3u8> |
 
-Updated at **5/9/2025 12:31:37 AM**
+Updated at **5/9/2025 12:34:18 AM**
 
 ## 使用说明
 
