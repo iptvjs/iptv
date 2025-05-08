@@ -507,8 +507,13 @@
 | 499 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 500 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 501 | Golden Eagle Cartoon | IPv4 直链 | <http://1.24.190.98:10080/hls/51/index.m3u8> |
+| 502 | Nei Monggol TV Economic & Life Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686562470947181.m3u8> |
+| 503 | Nei Monggol TV Agriculture & Animal Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686561299036179.m3u8> |
+| 504 | Nei Monggol TV Culture Entertainment Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686561195713372.m3u8> |
+| 505 | Nei Monggol TV Children Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560464515368.m3u8> |
+| 506 | Nei Monggol TV News Channel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1686560423879174.m3u8> |
 
-Updated at **5/8/2025 12:34:31 AM**
+Updated at **5/9/2025 12:31:37 AM**
 
 ## 使用说明
 
