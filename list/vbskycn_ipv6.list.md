@@ -50,7 +50,7 @@
 | 42 | 武术世界 | IPv6 直链 | <http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8> |
 | 43 | 2025-05-09 18:50:16 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-rdh9curp2kc75hrq/720p/h264/1744958251391294564/mda-rdh9curp2kc75hrq.mp4> |
 
-Updated at **5/10/2025 12:30:11 AM**
+Updated at **5/10/2025 12:33:01 AM**
 
 ## 使用说明
 
