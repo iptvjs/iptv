@@ -1,6 +1,6 @@
 # List for **joevess/IPTV iptv**
 
-> M3U: [j_main_iptv.m3u](./j_main_iptv.m3u ), TXT: [j_main_iptv.txt](./txt/j_main_iptv.txt )
+> M3U: [j_sources_iptv.m3u](./j_sources_iptv.m3u ), TXT: [j_sources_iptv.txt](./txt/j_sources_iptv.txt )
 
 ## 频道详情
 

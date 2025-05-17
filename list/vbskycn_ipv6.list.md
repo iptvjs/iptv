@@ -44,7 +44,7 @@
 | 36 | 咪咕 | IPv6 直链 | <http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8> |
 | 37 | 2025-05-17 18:46:48 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-refbzivcx2njh57v/1080p/cae_h264/1747394729809422912/mda-refbzivcx2njh57v.mp4> |
 
-Updated at **5/18/2025 12:28:21 AM**
+Updated at **5/18/2025 12:30:55 AM**
 
 ## 使用说明
 
