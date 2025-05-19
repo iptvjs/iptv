@@ -57,7 +57,7 @@
 | 49 | 黑龙江卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8> |
 | 50 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 
-Updated at **5/20/2025 12:31:15 AM**
+Updated at **5/20/2025 12:34:00 AM**
 
 ## 使用说明
 
