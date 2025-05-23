@@ -6,71 +6,69 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 湖南爱晚 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTc0N2VlOTZkMzU5Njg4ZmJmNTEyZGUxMmZhNGRjN2RhJnVpZD0mdXVpZD1mZDg4MjM2NzZhMzIyMWEzYTBmMzVjODI5NWIxZjQyMC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ3OTU1NDE0/HNGGMPP360.m3u8> |
-| 2 | 湖南都市 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWE3ZGUzYjFmM2YxNjk2MWM5MzFiNGRlNTBiODNmZmU0JnVpZD0mdXVpZD00ZTA5M2JiYjM0ZGE3NmM4OGUzMzYyYzE5NmI5MTNiMy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ3OTU4MTA4/HNDSMPP360.m3u8> |
-| 3 | 湖南娱乐频道 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTAyNDMzMDZiYzRkNWIwMjVhNmExNTkyMmIxNzZhYWQzJnVpZD0mdXVpZD1lMDNjOTE1ZjgzNmJiNTZmNDIwZTg4MmQ2MmNiMGVjYS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ3OTQ2NTM0/HNYLMPP360.m3u8> |
-| 4 | 湖南经视 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWNkYTBiMjhiMmE0N2ZiNWVjMDU0N2NlYjNiM2I2NzBhJnVpZD0mdXVpZD01MDJmMzkxZjZjZjVkYzE3MjIwNzIxZmYyYWQyOTlkYi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ3OTQ4OTY5/HNJSMPP360.m3u8> |
-| 5 | 金鹰卡通 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWJiNDQzOWJiNTEwYjMzYTFkODJjMTFjYmYwNzFkMmUyJnVpZD0mdXVpZD0wNzRlNTNhYjgxMzc5YmJmY2EyYjgxNDFhNzM1ZWJiYy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ3OTM2NTYy/JYKTMPP360.m3u8> |
-| 6 | 湖南国际频道 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTVmNDk5MGY4ZWFiYmZlZTlmZWQ1OTQ1MTk1N2IxZTc3JnVpZD0mdXVpZD05MjliYjA0ZDQ1OTBhZjMyYTViZjJhOTJiNTM5Nzc5NC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ3OTUxMjMx/HNGJMPP360.m3u8> |
-| 7 | 湖南电视剧 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTA4MjRhN2M2ODQ4ZjIxNjZlYTZkMzVmYjU1YTJkNmNmJnVpZD0mdXVpZD1kNTdiNDUzMWJjYWIzMDg3NTc1MzUzM2U2Yjc4N2QyZi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ3OTMwODAx/HNDSJMPP360.m3u8> |
-| 8 | 长沙新闻频道 | phonehw.qing.mgtv.com | <http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz01ZDFhMmM1NGUzMWQ1MGMyYWUwNDU3MjZlNjgyZjE1NyZ1aWQ9JnV1aWQ9Zjc4M2Y1NWYxOTI0NzU0Y2QwZjRiYjM0Njk5ZDZhNzItNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0Nzk0Nzc2MA,,/CSXWMPP360.m3u8> |
-| 9 | 湖南卫视 | IPv4 直链 | <http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8> |
-| 10 | 澳门卫视 | IPv4 直链 | <http://61.244.22.4/ch1/ch1.live/playlist.m3u8> |
-| 11 | Pet Club TV | cdn-apse1-prod.tsv2.amagi.tv | <https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8> |
-| 12 | Bloomberg TV Asia | IPv4 直链 | <http://210.210.155.37/dr9445/h/h03/index.m3u8> |
-| 13 | KIX | IPv4 直链 | <http://210.210.155.37/dr9445/h/h07/index.m3u8> |
-| 14 | HKS | zhibo.hkstv.tv | <http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8> |
-| 15 | Celestial Movies | IPv4 直链 | <http://210.210.155.37/dr9445/h/h14/index.m3u8> |
-| 16 | tvN Movies Asia | IPv4 直链 | <http://210.210.155.37/dr9445/h/h21/index.m3u8> |
-| 17 | TVB News | r.jdshipin.com | <http://r.jdshipin.com/CkuBd> |
-| 18 | Good | live.streamingfast.net | <https://live.streamingfast.net/osmflivech1.m3u8> |
-| 19 | Good 2 | live.streamingfast.net | <https://live.streamingfast.net/osmflivech2.m3u8> |
-| 20 | Beautiful Life TV | 5ddce30eb4b55.streamlock.net | <https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8> |
-| 21 | Supreme Master TV | lbs-us1.suprememastertv.com | <https://lbs-us1.suprememastertv.com/720p.m3u8> |
-| 22 | TVBS-Asia | IPv4 直链 | <http://38.64.72.148/hls/modn/list/4005/playlist.m3u8> |
-| 23 | Taiwan Plus TV | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8> |
-| 24 | Genius Go Go Go | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8> |
-| 25 | DaAi 1 | pulltv1.wanfudaluye.com | <https://pulltv1.wanfudaluye.com/live/tv1.m3u8> |
-| 26 | DaAi 2 | pulltv2.wanfudaluye.com | <https://pulltv2.wanfudaluye.com/live/tv2.m3u8> |
-| 27 | Dali TV | www.dalitv.com.tw:4568 | <http://www.dalitv.com.tw:4568/live/dali/index.m3u8> |
-| 28 | EBC YOYO | ythls.armelin.one | <https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8> |
-| 29 | CTi News | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8> |
-| 30 | FTV News | ythls.armelin.one | <https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8> |
-| 31 | Global News | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8> |
-| 32 | SET iNews | ythls.armelin.one | <https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8> |
-| 33 | TTV News | ythls.armelin.one | <https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8> |
-| 34 | mnews | ythls.armelin.one | <https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8> |
-| 35 | ET Mall 60 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8> |
-| 36 | 寰宇新闻台 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8> |
-| 37 | 东森财经新闻 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8> |
-| 38 | Momo 1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8> |
-| 39 | Momo 2 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8> |
-| 40 | 信大 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8> |
-| 41 | DW | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8> |
-| 42 | 中视新闻 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8> |
-| 43 | NU | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8> |
-| 44 | NU2 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8> |
-| 45 | 华视HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8> |
-| 46 | JP1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8> |
-| 47 | KPop | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8> |
-| 48 | 民视新闻HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8> |
-| 49 | CCTV-4K 高清 | www.nettvpro.xyz | <https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/playlist.m3u8> |
-| 50 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
-| 51 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
-| 52 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
-| 53 | CGNT 新闻频道 | CGTN | <https://english-livebkali.cgtn.com/live/encgtn_0.m3u8> |
-| 54 | 凤凰资讯 | IPv4 直链 | <http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8> |
-| 55 | 凤凰中文 | IPv4 直链 | <http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8> |
-| 56 | 东方卫视 | p.ytelc.com | <http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318> |
-| 57 | 重庆卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202505222310/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
-| 58 | 江西卫视 | local-live.jxtvcn.com.cn | <https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=&token=> |
-| 59 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
-| 60 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6f598f342380c34d45f921ef1a4a527f&wsTime=1747934582> |
-| 61 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=3b302ecfb93fbc650f37833e54425195&time=682f4b8c> |
-| 62 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
-| 63 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=939eeb47c8e476017bb68c23ae74d0a1&txTime=682F43E9> |
+| 1 | 湖南爱晚 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTQ4MzkxNTU5ZmZmYzUwOTc2MDY4ZjgyMmExZmYwYjAyJnVpZD0mdXVpZD1hNzUxOTUyOWVkM2Y0YzdiMjcyZTBhZjg2NDgzYWNiZi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ4MDQ0ODA1/HNGGMPP360.m3u8> |
+| 2 | 湖南都市 | phoneal.qing.mgtv.com | <http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPWFsX3Bob25lMyZjaHM9JmRlZj0xJnM9NDkyMjMyNjM1ODY3NmJkMmQzMmM2MGM5ZTBkYmVkOTQmdWlkPSZ1dWlkPWE3MjE1OGU3MDM0YjNiNjQzZjM1NjcwY2FhNmI4YmU2LTY3MjdlMjY0JnY9MiZhcz0wJmVzPTE3NDgwNDQ4MTA,/HNDSMPP360.m3u8> |
+| 3 | 湖南娱乐频道 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTZmNjBlMGU2Y2QyMjUzZWU4ZDhmM2ZkNGVlNjNjYjM3JnVpZD0mdXVpZD01N2FmOTc3OWFkMzZkMmQxZWMwY2VhYWZjOTMyNjMyNC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ4MDMzMDc5/HNYLMPP360.m3u8> |
+| 4 | 湖南经视 | phonehw.qing.mgtv.com | <http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz0xMDRmNzBjZWZhNjZhNGI3Yjk0YWE2M2FiYjllZDc1YyZ1aWQ9JnV1aWQ9NTJjYzZjMDgwZTE3ZWIwMWE3NWFiZGUzNDEzYTM2NzMtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0ODAzNzQ4Ng,,/HNJSMPP360.m3u8> |
+| 5 | 金鹰卡通 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWVhZjM2ZGQ4MGMwZTgwZTI2MjZlOGM1NGMxNzY1MmJjJnVpZD0mdXVpZD03YTEwZGJhMjFiNmVkMzg4YTEwMDU0MDZkMjY2ZTI3NC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ4MDIzMTIw/JYKTMPP360.m3u8> |
+| 6 | 湖南国际频道 | phonehw.qing.mgtv.com | <http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz01MTUzYTQ3MzY1YmUyMWI1OTQ1NWE5YjVhMjc4NDEyMSZ1aWQ9JnV1aWQ9MTAyNWUyYjQwZmQ4ZDlmYmRlMDI0YjY4MWNmNGM3NzEtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0ODAzODUxNQ,,/HNGJMPP360.m3u8> |
+| 7 | 湖南电视剧 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTEzYzBiZTI5NzcxNmZhNjNlYzM4NjkxYzk3YmY1MTk3JnVpZD0mdXVpZD02YTNhOWY5ZGM4MjBkOGQwZWMyYzEwN2Y4NTJiN2EzZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQ4MDE4MDM1/HNDSJMPP360.m3u8> |
+| 8 | 湖南卫视 | IPv4 直链 | <http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8> |
+| 9 | 澳门卫视 | IPv4 直链 | <http://61.244.22.4/ch1/ch1.live/playlist.m3u8> |
+| 10 | Pet Club TV | cdn-apse1-prod.tsv2.amagi.tv | <https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8> |
+| 11 | Bloomberg TV Asia | IPv4 直链 | <http://210.210.155.37/dr9445/h/h03/index.m3u8> |
+| 12 | KIX | IPv4 直链 | <http://210.210.155.37/dr9445/h/h07/index.m3u8> |
+| 13 | HKS | zhibo.hkstv.tv | <http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8> |
+| 14 | Celestial Movies | IPv4 直链 | <http://210.210.155.37/dr9445/h/h14/index.m3u8> |
+| 15 | tvN Movies Asia | IPv4 直链 | <http://210.210.155.37/dr9445/h/h21/index.m3u8> |
+| 16 | TVB News | r.jdshipin.com | <http://r.jdshipin.com/CkuBd> |
+| 17 | Good | live.streamingfast.net | <https://live.streamingfast.net/osmflivech1.m3u8> |
+| 18 | Good 2 | live.streamingfast.net | <https://live.streamingfast.net/osmflivech2.m3u8> |
+| 19 | Beautiful Life TV | 5ddce30eb4b55.streamlock.net | <https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8> |
+| 20 | Supreme Master TV | lbs-us1.suprememastertv.com | <https://lbs-us1.suprememastertv.com/720p.m3u8> |
+| 21 | TVBS-Asia | IPv4 直链 | <http://38.64.72.148/hls/modn/list/4005/playlist.m3u8> |
+| 22 | Taiwan Plus TV | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8> |
+| 23 | Genius Go Go Go | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8> |
+| 24 | DaAi 1 | pulltv1.wanfudaluye.com | <https://pulltv1.wanfudaluye.com/live/tv1.m3u8> |
+| 25 | DaAi 2 | pulltv2.wanfudaluye.com | <https://pulltv2.wanfudaluye.com/live/tv2.m3u8> |
+| 26 | Dali TV | www.dalitv.com.tw:4568 | <http://www.dalitv.com.tw:4568/live/dali/index.m3u8> |
+| 27 | EBC YOYO | ythls.armelin.one | <https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8> |
+| 28 | CTi News | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8> |
+| 29 | FTV News | ythls.armelin.one | <https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8> |
+| 30 | Global News | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8> |
+| 31 | SET iNews | ythls.armelin.one | <https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8> |
+| 32 | TTV News | ythls.armelin.one | <https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8> |
+| 33 | mnews | ythls.armelin.one | <https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8> |
+| 34 | ET Mall 60 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8> |
+| 35 | 寰宇新闻台 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8> |
+| 36 | 东森财经新闻 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8> |
+| 37 | Momo 1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8> |
+| 38 | Momo 2 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8> |
+| 39 | 信大 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8> |
+| 40 | DW | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8> |
+| 41 | 中视新闻 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8> |
+| 42 | NU | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8> |
+| 43 | NU2 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8> |
+| 44 | 华视HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8> |
+| 45 | JP1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8> |
+| 46 | KPop | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8> |
+| 47 | 民视新闻HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8> |
+| 48 | CCTV-4K 高清 | www.nettvpro.xyz | <https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/playlist.m3u8> |
+| 49 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
+| 50 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
+| 51 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
+| 52 | 凤凰资讯 | IPv4 直链 | <http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8> |
+| 53 | 东方卫视 | p.ytelc.com | <http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318> |
+| 54 | 重庆卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202505232301/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
+| 55 | 江西卫视 | local-live.jxtvcn.com.cn | <https://local-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=&token=> |
+| 56 | 黑龙江卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8> |
+| 57 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
+| 58 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1c3c28086a074ad947ad2a4d27c62b3f&wsTime=1748023288> |
+| 59 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i1sh84V.m3u8> |
+| 60 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=08b4e360ab13bc57c3bba91e97ee9cdd&time=68309d78> |
+| 61 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 
-Updated at **5/23/2025 12:34:20 AM**
+Updated at **5/24/2025 12:30:19 AM**
 
 ## 使用说明
 
