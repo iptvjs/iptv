@@ -70,7 +70,7 @@
 | 62 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=e0530bbc1748282072> |
 | 63 | 三沙卫视 | 老友网 | <https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=dc047c561748278575> |
 
-Updated at **5/27/2025 12:29:38 AM**
+Updated at **5/27/2025 12:32:28 AM**
 
 ## 使用说明
 
