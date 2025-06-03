@@ -46,15 +46,11 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 江西卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 河南卫视_(576p),http://183.207.248.71/cntv/live1/henanstv/henanstv
 浙江卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-浙江数码时代_(1080p)_[Not_24/7],https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲_(1080p)_[Not_24/7],https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-海南卫视_(720p)_[Not_24/7],http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
+海南卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 深圳卫视_(1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 湖北卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 湖南卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-美国中文电视_(406p)_[Not_24/7],https://jpts.sinovision.net/livestream.m3u8
 西安丝路_(404p)_[Not_24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
-通州电视台_(720p),http://pull.dayuntongzhou.com/live/tztv.m3u8
 重庆卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 青海卫视_(1080p),http://live.geermurmt.com/qhws/sd/live.m3u8
 高台电视台_(1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
@@ -70,13 +66,11 @@ BBC_News_Asia_Pacific_(720p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA
 CCTV+_1_(600p)_[Not_24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+_2_(600p)_[Not_24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-13新闻_(1080p),https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-Lanzhou_Comprehensive_News_Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
 Nei_Monggol_TV_News_Channel,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 NHK_Chinese_Vision_(720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 Weihai_Comprehensive_News_Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 滁州市广播电视台_新闻综合频道_(1080p),http://live.cztv.cc:85/live/xwpd.m3u8
-舟山新闻综合_(240p),http://live.wifizs.cn/xwzh/sd/live.m3u8
 萍乡新闻综合_(576p)_[Not_24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 酒泉新闻综合_(576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
 长沙新闻,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
@@ -91,8 +85,6 @@ Jiangxi_Economy_&_Life_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_
 Nei_Monggol_TV_Economic_&_Life_Channel,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 World_Economy_Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
 徐州经济生活_(1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-浙江经济生活_(1080p)_[Not_24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-点掌财经_(712p),http://cclive.aniu.tv/live/anzb.m3u8
 西安商务资讯_(180p)_[Not_24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
 
 Kids,#genre#
