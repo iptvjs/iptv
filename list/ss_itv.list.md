@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | *CCTV3 | IPv4 直链 | <http://112.27.145.212:9901/tsfile/live/1502_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **6/6/2025 12:31:53 AM**
+Updated at **6/6/2025 12:34:38 AM**
 
 ## 使用说明
 
