@@ -142,7 +142,7 @@
 | 134 | [HD]龙华洋片 | stream1.freetv.fun | <https://stream1.freetv.fun/958a62e629b507affa37b97dc17f95e8e3a46097779dd9195c06ce667fc2a378.ctv> |
 | 135 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/83a6e8c5aa7228eb03911067955daffda2410f340794bf991252d5952fffef16.m3u8> |
 
-Updated at **6/7/2025 12:34:06 AM**
+Updated at **6/7/2025 12:36:44 AM**
 
 ## 使用说明
 
