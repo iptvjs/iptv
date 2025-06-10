@@ -72,7 +72,7 @@
 | 64 | 甘肃卫视 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 65 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=6881a5921749578418> |
 
-Updated at **6/11/2025 12:32:35 AM**
+Updated at **6/11/2025 12:35:08 AM**
 
 ## 使用说明
 
