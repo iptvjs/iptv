@@ -69,7 +69,7 @@
 | 61 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 62 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=9ee089c3eecd29653ccaa7f5c9a9b25f&txTime=6849A277> |
 
-Updated at **6/12/2025 12:32:45 AM**
+Updated at **6/12/2025 12:35:18 AM**
 
 ## 使用说明
 
