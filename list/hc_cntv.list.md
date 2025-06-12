@@ -71,7 +71,7 @@
 | 63 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=2e6958d21749748610> |
 | 64 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=9220dcf579e8fae5adb4a148312eb9a3&txTime=684AFA24> |
 
-Updated at **6/13/2025 12:32:03 AM**
+Updated at **6/13/2025 12:34:35 AM**
 
 ## 使用说明
 
