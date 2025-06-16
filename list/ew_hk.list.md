@@ -22,7 +22,7 @@
 | 14 | [HD]now sports 2 *kt | stream1.freetv.fun | <https://stream1.freetv.fun/5335cd98e289caf806657782c3eee755b5af15035505ad872c3ce7e6b0715177.ctv> |
 | 15 | [HD]now tv | stream1.freetv.fun | <https://stream1.freetv.fun/4cd8a543c1d0835627ccf93d777ff780cca99973a62985bd017521db9761ca4f.m3u8> |
 | 16 | [HD]now sports 7 *kt | stream1.freetv.fun | <https://stream1.freetv.fun/22ee6edd124c98f5b581b836cc8e3f902d879fa8dd63d268eb188be8c68dfdbc.ctv> |
-| 17 | [BD]rhk31 | stream1.freetv.fun | <https://stream1.freetv.fun/858c779471221ade23457ba6a51c18c88e18f3697522cfa47731cc25e063d42b.ctv> |
+| 17 | [BD]rthk31 | stream1.freetv.fun | <https://stream1.freetv.fun/bcd3e759b0c9f8807280e9cb8fc50c6919ffad577b1d5d21f392f601d93301bc.m3u8> |
 | 18 | [BD]rthk32 | stream1.freetv.fun | <https://stream1.freetv.fun/e42fb110283fcb1befbda834ed93046b948ab8ecf4fa35c482c0296e220b7fc0.m3u8> |
 | 19 | [HD]astro sports plus *kt | stream1.freetv.fun | <https://stream1.freetv.fun/a689884e7c82eecc5a1848621b7302af4ea8b17d6a4bad34e6d3ab93325c18b8.ctv> |
 | 20 | [BD]tvb j2 | stream1.freetv.fun | <https://stream1.freetv.fun/813612137e59a2a32f288d8fc2b0fe239b76b9874aa5ab88dffc47ebc1b7d32f.ctv> |
@@ -57,7 +57,7 @@
 | 49 | [SD]凤凰卫视电影台 | stream1.freetv.fun | <https://stream1.freetv.fun/46e9e86c11536ff0afc4022544ae1150839f2358de08b9132267efaf9e07611f.ctv> |
 | 50 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv> |
 
-Updated at **6/17/2025 12:32:33 AM**
+Updated at **6/17/2025 12:35:14 AM**
 
 ## 使用说明
 
