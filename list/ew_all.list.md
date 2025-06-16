@@ -6,9 +6,9 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]贵州卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/b88abcc849bc82bdd45a92a7cdd54b97f1343c45128bb56093bac4ea214d3a9f.m3u8> |
 
-Updated at **6/16/2025 12:31:15 AM**
+
+Updated at **6/17/2025 12:32:33 AM**
 
 ## 使用说明
 
