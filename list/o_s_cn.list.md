@@ -444,7 +444,7 @@
 | 436 | Jiangxi Economy & Life Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8> |
 | 437 | Jiangxi City Channel | play-live-hls.jxtvcn.com.cn | <https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8> |
 
-Updated at **6/21/2025 12:30:56 AM**
+Updated at **6/21/2025 12:33:24 AM**
 
 ## 使用说明
 
