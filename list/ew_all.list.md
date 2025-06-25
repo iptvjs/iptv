@@ -1976,7 +1976,7 @@
 | 1968 | [HD]龙华洋片 *kt | stream1.freetv.fun | <https://stream1.freetv.fun/d78de3fec5e32a69fa8d817af7df5afd124ab61bbe3537044830372531b5d8ad.ctv> |
 | 1969 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/3efeea1ca0bbc2fe06fc82578de19e955846dae455e7d22c966b951e96bf78bc.ctv> |
 
-Updated at **6/26/2025 12:33:38 AM**
+Updated at **6/26/2025 12:36:22 AM**
 
 ## 使用说明
 
