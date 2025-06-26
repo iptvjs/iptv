@@ -453,7 +453,7 @@
 | 445 | Guangzhou TV | tencentplaybusiness.gztv.com | <https://tencentplaybusiness.gztv.com/live/zonghes.m3u8> |
 | 446 | Harbin Movie Channel | stream.hrbtv.net | <https://stream.hrbtv.net/yspd/playlist.m3u8> |
 
-Updated at **6/27/2025 12:32:02 AM**
+Updated at **6/27/2025 12:34:39 AM**
 
 ## 使用说明
 
