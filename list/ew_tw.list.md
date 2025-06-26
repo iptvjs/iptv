@@ -175,7 +175,7 @@
 | 167 | [BD]龙华经典 *4g | stream1.freetv.fun | <https://stream1.freetv.fun/f3f0acc9855b9db3fef53dcbd6b404e5815568d7d07132ad701c80af36e84131.m3u8> |
 | 168 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **6/26/2025 12:36:22 AM**
+Updated at **6/27/2025 12:32:02 AM**
 
 ## 使用说明
 

@@ -451,8 +451,9 @@
 | 443 | Jilin Lifestyle Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8> |
 | 444 | Jilin City Channel | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8> |
 | 445 | Guangzhou TV | tencentplaybusiness.gztv.com | <https://tencentplaybusiness.gztv.com/live/zonghes.m3u8> |
+| 446 | Harbin Movie Channel | stream.hrbtv.net | <https://stream.hrbtv.net/yspd/playlist.m3u8> |
 
-Updated at **6/26/2025 12:36:22 AM**
+Updated at **6/27/2025 12:32:02 AM**
 
 ## 使用说明
 
