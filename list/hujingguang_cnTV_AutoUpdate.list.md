@@ -80,7 +80,7 @@
 | 72 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=cf3ac4f136e8146e4bebe81f3bf09772&time=685ec1b3> |
 | 73 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 
-Updated at **6/28/2025 12:31:34 AM**
+Updated at **6/28/2025 12:34:28 AM**
 
 ## 使用说明
 
