@@ -107,7 +107,7 @@
 | 99 | [BD]靖天资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.ctv> |
 | 100 | [HD]龙华戏剧 ==1 | stream1.freetv.fun | <https://stream1.freetv.fun/07dfcf0be6d973d28d650d098d0a1b874fd601c10a078c4ed85b548848b7121c.m3u8> |
 
-Updated at **6/30/2025 12:29:15 AM**
+Updated at **6/30/2025 12:31:46 AM**
 
 ## 使用说明
 
