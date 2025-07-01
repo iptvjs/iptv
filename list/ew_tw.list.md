@@ -126,7 +126,7 @@
 | 118 | [HD]龙华戏剧 *t | stream1.freetv.fun | <https://stream1.freetv.fun/ed0e3027a65cf015cd63030de0015454f2d64616afbd3353b969ecf3578e4969.ctv> |
 | 119 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/9eea168bf2305a66b23da8ee026d20b36cdf2d6dca502822bd965aa5115b6fe4.ctv> |
 
-Updated at **7/2/2025 12:32:42 AM**
+Updated at **7/2/2025 12:35:16 AM**
 
 ## 使用说明
 
