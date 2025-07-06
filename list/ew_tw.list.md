@@ -7,7 +7,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]「新疆」兵团八师石河子经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/a29ba2a4077fadda7271f9196d93073850de7b69cae5be8467b20fd906de21ba.m3u8> |
-| 2 | [VGA]afn(tw) *s | stream1.freetv.fun | <https://stream1.freetv.fun/648e8ff2ac559e366b246e35abc2a9b0de6e5caa9050abbb08c0858f7a44a667.m3u8> |
+| 2 | [HD]afn(tw) *s | stream1.freetv.fun | <https://stream1.freetv.fun/648e8ff2ac559e366b246e35abc2a9b0de6e5caa9050abbb08c0858f7a44a667.m3u8> |
 | 3 | [BD]bbc earth | stream1.freetv.fun | <https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8> |
 | 4 | [HD]bbc lifestyle *e | stream1.freetv.fun | <https://stream1.freetv.fun/0104ed71b85b5ad327e27a5900cfc3cabacf2012f8ea04ddb63275b0860fffaf.ctv> |
 | 5 | [BD]tribeca channel | stream1.freetv.fun | <https://stream1.freetv.fun/eb02cd9063e5cc9195c0b30f915697bf6d0911fa0dd3a682ddef1f5554285539.m3u8> |
@@ -116,7 +116,7 @@
 | 108 | [HD]龙华戏剧 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/76eb31bd703649a112452bf12129c8e5fe3c160bedd63bea0663581177ad1b34.ctv> |
 | 109 | [HD]龙华电影 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/9eea168bf2305a66b23da8ee026d20b36cdf2d6dca502822bd965aa5115b6fe4.ctv> |
 
-Updated at **7/6/2025 12:31:44 AM**
+Updated at **7/7/2025 12:29:24 AM**
 
 ## 使用说明
 
