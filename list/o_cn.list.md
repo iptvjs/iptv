@@ -180,7 +180,7 @@
 | 172 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 173 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **7/8/2025 12:35:45 AM**
+Updated at **7/9/2025 12:33:33 AM**
 
 ## 使用说明
 
