@@ -7,7 +7,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]「新疆」兵团八师石河子经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/a29ba2a4077fadda7271f9196d93073850de7b69cae5be8467b20fd906de21ba.m3u8> |
-| 2 | [VGA]afn(tw) *s | stream1.freetv.fun | <https://stream1.freetv.fun/648e8ff2ac559e366b246e35abc2a9b0de6e5caa9050abbb08c0858f7a44a667.m3u8> |
+| 2 | [HD]afn(tw) *s | stream1.freetv.fun | <https://stream1.freetv.fun/648e8ff2ac559e366b246e35abc2a9b0de6e5caa9050abbb08c0858f7a44a667.m3u8> |
 | 3 | [BD]bbc earth | stream1.freetv.fun | <https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8> |
 | 4 | [HD]bbc lifestyle *e | stream1.freetv.fun | <https://stream1.freetv.fun/0104ed71b85b5ad327e27a5900cfc3cabacf2012f8ea04ddb63275b0860fffaf.ctv> |
 | 5 | [BD]tribeca channel | stream1.freetv.fun | <https://stream1.freetv.fun/eb02cd9063e5cc9195c0b30f915697bf6d0911fa0dd3a682ddef1f5554285539.m3u8> |
@@ -44,7 +44,7 @@
 | 36 | [HD]tvbs asia *wj | stream1.freetv.fun | <https://stream1.freetv.fun/79092828b9767531b8ac6c6dd00e4223fb62a727c2a45885de5171b3d7d19f5d.ctv> |
 | 37 | [VGA]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.m3u8> |
 | 38 | [HD]tvbs news | stream1.freetv.fun | <https://stream1.freetv.fun/5325e5d7ff0449ec19c4c62689170c6410bdfb91394e5b684a473f1633d19252.m3u8> |
-| 39 | [HD]tvbs新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.m3u8> |
+| 39 | [BD]tvbs新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/a16ffa27fda82552af49c3a429909ce01ead0bda46f726ebb1300413f8e98cc3.m3u8> |
 | 40 | [BD]tvbs 欢乐 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/7a344b793a07ba3b6318f23ae8bb2c5e8cd4bb7f0de8a62ceb826e9d805a18af.ctv> |
 | 41 | [SD]taiwan plus | stream1.freetv.fun | <https://stream1.freetv.fun/bba4975d014ac372935015f9de9a053bb27a89060c6787a6caca49591a8a7b2e.m3u8> |
 | 42 | [BD]roll | stream1.freetv.fun | <https://stream1.freetv.fun/7800a2993b8300f0ec15bb3d01410220078c20af4158662907a7b6648bcb6ca2.m3u8> |
@@ -138,7 +138,7 @@
 | 130 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/596a80af31a5b492aa0f37072703f44371db9f90c7ec6f551d8f1f660a3a0673.m3u8> |
 | 131 | [BD]龙华电影 *0 | stream1.freetv.fun | <https://stream1.freetv.fun/1f2ea8218b980122052c5215391b5ff490a4a09985fdfffc2977a92836a07cd1.ctv> |
 
-Updated at **7/11/2025 12:33:37 AM**
+Updated at **7/11/2025 12:36:13 AM**
 
 ## 使用说明
 
