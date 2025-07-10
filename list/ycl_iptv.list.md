@@ -71,43 +71,32 @@
 | 63 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
 | 64 | 浙江经济 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
 | 65 | 浙江钱江 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
-| 66 | 内蒙新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800> |
-| 67 | 内蒙经济 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800> |
-| 68 | 内蒙少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800> |
-| 69 | 内蒙文体 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800> |
-| 70 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800> |
-| 71 | 呼市新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800> |
-| 72 | 鄂多新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800> |
-| 73 | 包头新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800> |
-| 74 | 巴淖新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800> |
-| 75 | 赤峰新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800> |
-| 76 | 乌察新闻 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800> |
-| 77 | 金色学堂 | IPv4 直链 | <rtp://239.3.1.208:8001> |
-| 78 | 生活时尚 | IPv4 直链 | <rtp://239.3.1.206:8001> |
-| 79 | 乐游频道 | IPv4 直链 | <rtp://239.3.1.207:8001> |
-| 80 | 都市剧场 | IPv4 直链 | <rtp://239.3.1.203:8001> |
-| 81 | 魅力足球 | IPv4 直链 | <rtp://239.3.1.201:8001> |
-| 82 | 睛彩竞技 | IPv4 直链 | <rtp://239.3.1.125:8001> |
-| 83 | 睛彩篮球 | IPv4 直链 | <rtp://239.3.1.126:8001> |
-| 84 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
-| 85 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
-| 86 | 爱上4K | IPv4 直链 | <rtp://239.3.1.236:2000> |
-| 87 | 城市剧场 | IPv4 直链 | <rtp://239.3.1.67:4120> |
-| 88 | 军旅剧场 | IPv4 直链 | <rtp://239.3.1.68:4120> |
-| 89 | 古装剧场 | IPv4 直链 | <rtp://239.3.1.69:4120> |
-| 90 | 精选高清 | IPv4 直链 | <rtp://239.3.1.74:4120> |
-| 91 | 武侠剧场 | IPv4 直链 | <rtp://239.3.1.90:4120> |
-| 92 | 喜剧影院 | IPv4 直链 | <rtp://239.3.1.91:4120> |
-| 93 | 动作影院 | IPv4 直链 | <rtp://239.3.1.92:4120> |
-| 94 | 家庭影院 | IPv4 直链 | <rtp://239.3.1.93:4120> |
-| 95 | 星影高清 | IPv4 直链 | <rtp://239.3.1.94:4120> |
-| 96 | 光影高清 | IPv4 直链 | <rtp://239.3.1.84:4120> |
-| 97 | 热播剧场 | IPv4 直链 | <rtp://239.3.1.194:9020> |
-| 98 | 经典电影 | IPv4 直链 | <rtp://239.3.1.195:9024> |
-| 99 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
-| 100 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
+| 66 | 金色学堂 | IPv4 直链 | <rtp://239.3.1.208:8001> |
+| 67 | 生活时尚 | IPv4 直链 | <rtp://239.3.1.206:8001> |
+| 68 | 乐游频道 | IPv4 直链 | <rtp://239.3.1.207:8001> |
+| 69 | 都市剧场 | IPv4 直链 | <rtp://239.3.1.203:8001> |
+| 70 | 魅力足球 | IPv4 直链 | <rtp://239.3.1.201:8001> |
+| 71 | 睛彩竞技 | IPv4 直链 | <rtp://239.3.1.125:8001> |
+| 72 | 睛彩篮球 | IPv4 直链 | <rtp://239.3.1.126:8001> |
+| 73 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
+| 74 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
+| 75 | 爱上4K | IPv4 直链 | <rtp://239.3.1.236:2000> |
+| 76 | 城市剧场 | IPv4 直链 | <rtp://239.3.1.67:4120> |
+| 77 | 军旅剧场 | IPv4 直链 | <rtp://239.3.1.68:4120> |
+| 78 | 古装剧场 | IPv4 直链 | <rtp://239.3.1.69:4120> |
+| 79 | 精选高清 | IPv4 直链 | <rtp://239.3.1.74:4120> |
+| 80 | 武侠剧场 | IPv4 直链 | <rtp://239.3.1.90:4120> |
+| 81 | 喜剧影院 | IPv4 直链 | <rtp://239.3.1.91:4120> |
+| 82 | 动作影院 | IPv4 直链 | <rtp://239.3.1.92:4120> |
+| 83 | 家庭影院 | IPv4 直链 | <rtp://239.3.1.93:4120> |
+| 84 | 星影高清 | IPv4 直链 | <rtp://239.3.1.94:4120> |
+| 85 | 光影高清 | IPv4 直链 | <rtp://239.3.1.84:4120> |
+| 86 | 热播剧场 | IPv4 直链 | <rtp://239.3.1.194:9020> |
+| 87 | 经典电影 | IPv4 直链 | <rtp://239.3.1.195:9024> |
+| 88 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
+| 89 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
 
-Updated at **7/10/2025 12:35:13 AM**
+Updated at **7/11/2025 12:33:37 AM**
 
 ## 使用说明
 

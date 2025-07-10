@@ -6,9 +6,9 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
+| 1 | [BD]浙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/b0ec2dc8febd214edf1ec69a66b938ecfbb271b4f457a703874a724f7b7a44a7.m3u8> |
 
-
-Updated at **7/10/2025 12:35:13 AM**
+Updated at **7/11/2025 12:33:37 AM**
 
 ## 使用说明
 
