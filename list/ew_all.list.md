@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]cctv15 | stream1.freetv.fun | <https://stream1.freetv.fun/664cd316afa9efed0476cddbe4a3253a1f66a7d209a4676b86853cb051f22253.m3u8> |
 
-Updated at **7/13/2025 12:30:11 AM**
+Updated at **7/13/2025 12:32:49 AM**
 
 ## 使用说明
 
