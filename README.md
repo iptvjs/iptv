@@ -42,7 +42,7 @@
 | iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](./o_s_cn_cgtn.m3u ) <br> [o_s_cn_cgtn.txt](./txt/o_s_cn_cgtn.txt ) | [List for iptv.org stream China CGTN](./list/o_s_cn_cgtn.list ) | 6 | - |
 | epg.pw 央视 | [ew_cc.m3u](./ew_cc.m3u ) <br> [ew_cc.txt](./txt/ew_cc.txt ) | [List for epg.pw 央视](./list/ew_cc.list ) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](./ew_ws.m3u ) <br> [ew_ws.txt](./txt/ew_ws.txt ) | [List for epg.pw 卫视](./list/ew_ws.list ) | 34 | - |
-| epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 312 | - |
+| epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 313 | - |
 | epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u ) <br> [ew_hk.txt](./txt/ew_hk.txt ) | [List for epg.pw 香港](./list/ew_hk.list ) | 47 | - |
 | epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u ) <br> [ew_om.txt](./txt/ew_om.txt ) | [List for epg.pw 澳門](./list/ew_om.list ) | 7 | - |
 | epg.pw 台灣 | [ew_tw.m3u](./ew_tw.m3u ) <br> [ew_tw.txt](./txt/ew_tw.txt ) | [List for epg.pw 台灣](./list/ew_tw.list ) | 143 | - |
@@ -55,7 +55,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 3 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 62 | - |
 
- > Updated at **7/17/2025 12:34:32 AM**
+ > Updated at **7/17/2025 12:37:19 AM**
 
 ## 📚 EPG 节目单
 
@@ -67,7 +67,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | ✅ |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | ✅ |
 
- > Updated at **7/17/2025 12:34:32 AM**
+ > Updated at **7/17/2025 12:37:19 AM**
 
 ## 🚀Github 文件加速
 
