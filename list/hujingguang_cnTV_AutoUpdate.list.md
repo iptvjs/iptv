@@ -83,7 +83,7 @@
 | 75 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 76 | 海南卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055601.m3u8> |
 
-Updated at **7/21/2025 12:30:46 AM**
+Updated at **7/21/2025 12:33:20 AM**
 
 ## 使用说明
 
