@@ -6,15 +6,15 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 湖南爱晚 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTFkZGE4MmExZTcyZTMyYjNlZWM1M2Y2OTFlMWMzY2YzJnVpZD0mdXVpZD0zOGU4NzgwNTNiMzFiNjVlZDFjMzY1NzNkMzMwZWRjOC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUyOTYyNDM2/HNGGMPP360.m3u8> |
-| 2 | 湖南都市 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTRhMjlhY2UxNDE1ODYxNDBlYjhlMzU4YWJhNTE1MGIyJnVpZD0mdXVpZD1mNWYwMzU3MzBhZWU1YzFmMGQyNmI4MjIxYTY1MTFjOC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUyOTQ0NDEz/HNDSMPP360.m3u8> |
-| 3 | 湖南娱乐频道 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTkxYTFiMzQ5NTIzMjAwYWYwNGE3NDAzMTc5OTljZmRlJnVpZD0mdXVpZD03NTdlNTU1YzYzZGZhNDAyZTNmYjA1ZTI1NDM1Y2NmZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUyOTU4ODEy/HNYLMPP360.m3u8> |
-| 4 | 湖南经视 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTU5N2YxM2I0YTliYWU1YTFkMWQwNGU2YzJiNjc0MzA1JnVpZD0mdXVpZD0xNmQzMzcwZGNkYmNjMzgwNjBiOGQ4MzBmYmJiMmM4NC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUyOTY4NjQ5/HNJSMPP360.m3u8> |
-| 5 | 金鹰纪实频道 | phoneqq.qing.mgtv.com | <https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTUyZjY1ZWFmNmExMmYwOThmMDdjZWMyNjMyZmFjMDg4JnVpZD0mdXVpZD04NTg1NzcyOGM4NWU2YWE1ZDVhYjI3NDM5YmRmN2RmNi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUyOTQ4MDE4/JYJSMPP360.m3u8> |
-| 6 | 金鹰卡通 | phonehwei.qing.mgtv.com | <http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz03YmNmMjEyODc1OTdkMmE0YjllNzE0NzU3MTdkOTYwZCZ1aWQ9JnV1aWQ9NWM5M2Q0Y2UxYjY1YmYxMjAzNmE3OGEyNTQ0YWExMGEtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc1Mjk0NzQwMw,,/JYKTMPP360.m3u8> |
-| 7 | 湖南国际频道 | phonehwei.qing.mgtv.com | <http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz1kNWJkYTdlZDExYWFhZjlkNDNjMjAwNmM2YmM3MGRhZCZ1aWQ9JnV1aWQ9OTFhNzJhMDMyYmIwYmFiMGU5NzNmY2IxZDA4YjZiZmUtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc1Mjk2OTMyMg,,/HNGJMPP360.m3u8> |
-| 8 | 湖南电视剧 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTYwYjk0NzlkNWRjMzE3NDFiOThiNjIxNTk1NzI4ODI0JnVpZD0mdXVpZD1iZWZmZWU3ZmJlMzBiOTRmNGM1ZjZkMGU1Mzk0MGNjNC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUyOTY1NjI1/HNDSJMPP360.m3u8> |
-| 9 | 长沙新闻频道 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTgxZjE3NGYxZDc4ZmQyNzJiMWVmZjk0NjEwMzkxZWZjJnVpZD0mdXVpZD1mN2I5NmQwNWQ5ODA1NGUwYTYwZDcwOTgxODZiZjFmOS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUyOTQ0NDM1/CSXWMPP360.m3u8> |
+| 1 | 湖南爱晚 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTAwNmQ0NmM5Zjk0M2U0N2VjODBhMjE4ZWE1NmE2NWJjJnVpZD0mdXVpZD0xZGYxYmY5ZWY4NzFlYTgxYjUxYzFkOTlhYjEzYTQ5NC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDQ5NzYx/HNGGMPP360.m3u8> |
+| 2 | 湖南都市 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWE0Y2FlZTg3YTU1NmM4ODNmYTczMTFiZjZmNjM5MTNlJnVpZD0mdXVpZD0zYTVmMjJhODBlNTI5MDEzYmUxZTEzZDQwOTQ2MDI0OS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM0MTQ5/HNDSMPP360.m3u8> |
+| 3 | 湖南娱乐频道 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTZmNGUyZDQxNjhmNGNhZGJhOTQ1YzlmOTk3M2Q1YzM1JnVpZD0mdXVpZD1jMzNiZGU4YzI0NzRjMjVhNWJiZjljYWIwMTIyNjIyNy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDQ1NDg1/HNYLMPP360.m3u8> |
+| 4 | 湖南经视 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTg1YzVhNWFhMWUxN2Y2NWFiOWNhODM2ZWQ2YWIwZGQ3JnVpZD0mdXVpZD04YzAxNTBkZDRmNmVhYTQ2ZDQxZmFkNDhmZWZmNjg0Mi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDU1Mzc5/HNJSMPP360.m3u8> |
+| 5 | 金鹰纪实频道 | phoneqq.qing.mgtv.com | <https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTdmOWU0MzdmYTY4NTUzM2FiZWFmYmQ4NDg0OWRhNzVjJnVpZD0mdXVpZD03NjE1ZDhmNDBkOTBjMGFjOWRjZjQ5NjYzNDhiNGI0ZC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM1OTM5/JYJSMPP360.m3u8> |
+| 6 | 金鹰卡通 | phoneqq.qing.mgtv.com | <http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTgxNTI1NGUyNTQyYTVlNDE0ODJjNGYzYTQ2MWE1MTdhJnVpZD0mdXVpZD0yZTZjZTMzZTYyYjZjZWQ1NmQ0ZGNjNTBlY2I5NDBlYy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM0MTY0/JYKTMPP360.m3u8> |
+| 7 | 湖南国际频道 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTc2NmE1OTU0NjljMDNmODJiYjA5ODZlMWFhMTA4ZjgzJnVpZD0mdXVpZD1hYjdjYTE5ZDk3OGRhMmE0NDZmM2I0ODNjYmFlNTAzZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDU2MDMx/HNGJMPP360.m3u8> |
+| 8 | 湖南电视剧 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTdiZDYxZWU5YTAzMTMyMDViOWMzMjYxN2FkMjAwZDI1JnVpZD0mdXVpZD1kMWU3YzZhMzJkMGZlYjU4YTMyZWFkNGRkMWQ1MTkyNi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDUyMTcz/HNDSJMPP360.m3u8> |
+| 9 | 长沙新闻频道 | phonetx.qing.mgtv.com | <http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPThjNGExNWM5ZGU1MjZhNmY3NTNhZTY4ZTVhNzc3NDM1JnVpZD0mdXVpZD00MWM0YTkyMzNmZjNiOWUwMmU5YjQwMTU0ZTAzOWFiMC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM0NDI5/CSXWMPP360.m3u8> |
 | 10 | 湖南卫视 | IPv4 直链 | <http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8> |
 | 11 | 澳门卫视 | IPv4 直链 | <http://61.244.22.4/ch1/ch1.live/playlist.m3u8> |
 | 12 | Pet Club TV | cdn-apse1-prod.tsv2.amagi.tv | <https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8> |
@@ -65,27 +65,25 @@
 | 57 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
 | 58 | 东方卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054501.m3u8> |
 | 59 | 江苏卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171101.m3u8> |
-| 60 | 重庆卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061101.m3u8> |
+| 60 | 安徽卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171401.m3u8> |
 | 61 | 北京卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024052701.m3u8> |
 | 62 | 天津卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927001.m3u8> |
-| 63 | 江西卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061701.m3u8> |
-| 64 | 黑龙江卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8> |
-| 65 | 山东卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171601.m3u8> |
-| 66 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
-| 67 | 四川卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061401.m3u8> |
-| 68 | 河南卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024059701.m3u8> |
-| 69 | 广东卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060901.m3u8> |
-| 70 | 深圳卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061301.m3u8> |
-| 71 | 湖北卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171201.m3u8> |
-| 72 | 河北卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171501.m3u8> |
-| 73 | 吉林卫视 | live.sxrtv.com | <http://live.sxrtv.com/iptv/jlws.m3u8> |
-| 74 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i4sqxR0.m3u8> |
-| 75 | 陕西卫视 | live.sxrtv.com | <http://live.sxrtv.com/iptv/shxws.m3u8> |
-| 76 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=18fc47a5760230dbdb850ac66db82c9e&time=687bc332> |
-| 77 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
-| 78 | 海南卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055601.m3u8> |
+| 63 | 辽宁卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171301.m3u8> |
+| 64 | 江西卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061701.m3u8> |
+| 65 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
+| 66 | 四川卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061401.m3u8> |
+| 67 | 河南卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024059701.m3u8> |
+| 68 | 广东卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060901.m3u8> |
+| 69 | 湖北卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171201.m3u8> |
+| 70 | 东南卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061501.m3u8> |
+| 71 | 河北卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171501.m3u8> |
+| 72 | 吉林卫视 | live.sxrtv.com | <http://live.sxrtv.com/iptv/jlws.m3u8> |
+| 73 | 陕西卫视 | live.sxrtv.com | <http://live.sxrtv.com/iptv/shxws.m3u8> |
+| 74 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=f76973ceb7740c8aa78361a05804f64a&time=687d14ca> |
+| 75 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
+| 76 | 海南卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055601.m3u8> |
 
-Updated at **7/20/2025 12:33:32 AM**
+Updated at **7/21/2025 12:30:46 AM**
 
 ## 使用说明
 
