@@ -88,7 +88,7 @@
 | 80 | 海南卫视 | IPv4 直链 | <http://27.21.227.228/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055601.m3u8> |
 | 81 | 三沙卫视 | 老友网 | <https://livessws.hnntv.cn/live/ssws_250708hnntv.m3u8?_upt=150afc2c1753204144> |
 
-Updated at **7/23/2025 12:35:09 AM**
+Updated at **7/23/2025 12:38:03 AM**
 
 ## 使用说明
 
