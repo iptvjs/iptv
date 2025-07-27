@@ -82,7 +82,7 @@
 | 74 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 75 | 兵团卫视 | rrs03.hw.gmcc.net:8088 | <http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226661/1.m3u8> |
 
-Updated at **7/28/2025 12:31:09 AM**
+Updated at **7/28/2025 12:33:47 AM**
 
 ## 使用说明
 
