@@ -63,7 +63,7 @@
 | 55 | 黑龙江都市 | IPv6 直链 | <http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8> |
 | 56 | 2025-07-29 00:31:59 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-reiihfhe5xjm4s3e/1080p/cae_h264/1747660062050484190/mda-reiihfhe5xjm4s3e.mp4> |
 
-Updated at **7/29/2025 12:35:40 AM**
+Updated at **7/29/2025 12:38:18 AM**
 
 ## 使用说明
 
