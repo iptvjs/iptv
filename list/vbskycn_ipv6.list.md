@@ -14,7 +14,7 @@
 | 6 | CCTV7 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8> |
 | 7 | CCTV8 | IPv6 直链 | <http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8> |
 | 8 | CCTV9 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8> |
-| 9 | CCTV10 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8> |
+| 9 | CCTV10 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?> |
 | 10 | CCTV11 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8> |
 | 11 | CCTV12 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8> |
 | 12 | CCTV13 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?> |
@@ -62,9 +62,9 @@
 | 54 | 鹤岗新闻综合 | IPv6 直链 | <http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8> |
 | 55 | 黑龙江文体 | IPv6 直链 | <http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225965/main.m3u8> |
 | 56 | 黑龙江都市 | IPv6 直链 | <http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8> |
-| 57 | 2025-07-30 00:33:34 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-reiihfhe5xjm4s3e/1080p/cae_h264/1747660062050484190/mda-reiihfhe5xjm4s3e.mp4> |
+| 57 | 2025-08-01 00:32:20 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4> |
 
-Updated at **7/30/2025 12:37:04 AM**
+Updated at **8/1/2025 12:35:09 AM**
 
 ## 使用说明
 
