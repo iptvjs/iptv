@@ -90,26 +90,26 @@
 | 82 | Shandong Education TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.156:5140> |
 | 83 | Shanghai Education Television Station | IPv4 直链 | <http://223.166.234.114:7777/tsfile/live/1033_1.m3u8> |
 | 84 | Sihai Fishing Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.172:5140> |
-| 85 | SMG Football Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.142:5140> |
-| 86 | STV City | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1> |
-| 87 | STV News and General | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1> |
-| 88 | Tonghua TV | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8> |
-| 89 | Toonmax TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.28:5140> |
-| 90 | TV5Monde Pacifique (1080p) | ott.tv5monde.com | <https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8> |
-| 91 | TV BRICS Chinese (1080p) [Not 24/7] | brics.bonus-tv.ru | <https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8> |
-| 92 | Ugo Shop TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.184:5140> |
-| 93 | VOA美国之音 | voa-ingest.akamaized.net | <https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8> |
-| 94 | Weihai Comprehensive News Channel | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
-| 95 | Weihai Ocean Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8> |
-| 96 | Weihai Public Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8> |
-| 97 | World Economy Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.205:5140> |
-| 98 | Xinjiang TV 2 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.175:5140> |
-| 99 | Xinjiang TV 3 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.147:5140> |
-| 100 | Xinjiang TV 5 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.149:5140> |
-| 101 | Xinjiang TV 8 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.181:5140> |
-| 102 | Xinjiang TV 9 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.153:5140> |
-| 103 | Xinjiang TV 12 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.185:5140> |
-| 104 | Xizang TV Chinese | php.jdshipin.com | <http://php.jdshipin.com/xztv.php?id=ws> |
+| 85 | Siping TV | 吉林广播电视台 | <http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598> |
+| 86 | SMG Football Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.142:5140> |
+| 87 | STV City | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 88 | STV News and General | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 89 | Tonghua TV | lsfb.avap.jilintv.cn | <https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8> |
+| 90 | Toonmax TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.28:5140> |
+| 91 | TV5Monde Pacifique (1080p) | ott.tv5monde.com | <https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8> |
+| 92 | TV BRICS Chinese (1080p) [Not 24/7] | brics.bonus-tv.ru | <https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8> |
+| 93 | Ugo Shop TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.184:5140> |
+| 94 | VOA美国之音 | voa-ingest.akamaized.net | <https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8> |
+| 95 | Weihai Comprehensive News Channel | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
+| 96 | Weihai Ocean Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8> |
+| 97 | Weihai Public Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8> |
+| 98 | World Economy Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.205:5140> |
+| 99 | Xinjiang TV 2 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.175:5140> |
+| 100 | Xinjiang TV 3 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.147:5140> |
+| 101 | Xinjiang TV 5 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.149:5140> |
+| 102 | Xinjiang TV 8 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.181:5140> |
+| 103 | Xinjiang TV 9 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.153:5140> |
+| 104 | Xinjiang TV 12 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.185:5140> |
 | 105 | Xizang TV Tibetan | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.94:5140> |
 | 106 | Yanbian Cinese Comprehensive Channel | 延边广播电视台 | <https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8> |
 | 107 | Yicai TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.165:5140> |
@@ -181,7 +181,7 @@
 | 173 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 174 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **8/2/2025 12:38:15 AM**
+Updated at **8/3/2025 12:31:38 AM**
 
 ## 使用说明
 

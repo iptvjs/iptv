@@ -27,7 +27,6 @@ Xinjiang_TV_5,http://49.113.179.174:4022/udp/238.125.7.149:5140
 Xinjiang_TV_8,http://49.113.179.174:4022/udp/238.125.3.181:5140
 Xinjiang_TV_9,http://49.113.179.174:4022/udp/238.125.7.153:5140
 Xinjiang_TV_12,http://49.113.179.174:4022/udp/238.125.3.185:5140
-Xizang_TV_Chinese,http://php.jdshipin.com/xztv.php?id=ws
 Xizang_TV_Tibetan,http://49.113.179.174:4022/udp/238.125.3.94:5140
 Yicai_TV,http://49.113.179.174:4022/udp/238.125.0.165:5140
 Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
@@ -111,6 +110,7 @@ Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nanchang_News_&_Generalist_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+Siping_TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 STV_City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 TV_BRICS_Chinese_(1080p)_[Not_24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 Weihai_Public_Channel,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
