@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]cctv13 | stream1.freetv.fun | <https://stream1.freetv.fun/6c43994efaf873ec88937d3ff55a75d044c558c07de5f93f7e4619c2b41bf49c.m3u8> |
 
-Updated at **8/3/2025 12:31:38 AM**
+Updated at **8/3/2025 12:34:28 AM**
 
 ## 使用说明
 
