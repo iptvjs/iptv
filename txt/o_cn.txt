@@ -17,8 +17,9 @@ DOX_Surround,http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?authid=0&key=tx
 DOX_Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1
 DOX_Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
 Hunan_Ping_Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
-Nei_Monggol_TV,http://1.183.141.194:8001/hls/55/index.m3u8
+Nei_Monggol_TV,http://1.24.190.98:10080/hls/39/index.m3u8
 Shaanxi_Agroforestry_Satellite_TV,http://49.113.179.174:4022/udp/238.125.4.154:5140
+Shenzhen_Satellite_TV_(2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 TV5Monde_Pacifique_(1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 Xinjiang_TV_2,http://49.113.179.174:4022/udp/238.125.3.175:5140
@@ -45,7 +46,6 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 河南卫视_(576p),http://183.207.248.71/cntv/live1/henanstv/henanstv
 浙江卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 海南卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
-深圳卫视_(1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 湖北卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 湖南卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 西安丝路_(404p)_[Not_24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
@@ -55,9 +55,9 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 
 Animation;Kids,#genre#
 Animation_Show_Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
+Golden_Eagle_Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
 Jiangxi_Children's_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
-金鹰卡通_(576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 
 News,#genre#
 BBC_News_Asia_Pacific_(1080p),https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
@@ -68,7 +68,7 @@ Nei_Monggol_TV_News_Channel,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 NHK_Chinese_Vision_(720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 Panzihihua_News_Channel,https://live.pzhkai.com/xwzhtl/sd/live.m3u8?_upt=6a1ad5741729836768
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-Tonghua_TV,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+Tonghua_TV,http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 Weihai_Comprehensive_News_Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 滁州市广播电视台_新闻综合频道_(1080p),http://live.cztv.cc:85/live/xwpd.m3u8
 萍乡新闻综合_(576p)_[Not_24/7],http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
@@ -80,7 +80,7 @@ Business,#genre#
 Bloomberg_TV_Asia_(720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg_TV_Asia_Live_Event_(720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 CCTV2_(576p),http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
-CNBC_Asia_HD_(720p),https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+CNBC_Asia_(576p),https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 Jiangxi_Economy_&_Life_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
 Nei_Monggol_TV_Economic_&_Life_Channel,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 World_Economy_Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
@@ -195,7 +195,7 @@ Comedy,#genre#
 Laughter_Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 
 Culture,#genre#
-Nei_Monggol_TV_2_Mongolian_Culture_Channel,http://1.183.141.194:8001/hls/54/index.m3u8
+Nei_Monggol_TV_2_Mongolian_Culture_Channel,http://1.24.190.98:10080/hls/40/index.m3u8
 Nei_Monggol_TV_Agriculture_&_Animal_Channel,http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 
 Kids;Lifestyle,#genre#

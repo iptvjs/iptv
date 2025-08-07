@@ -1,1 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="广东卫视" tvg-id="378850" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111225144968877_94.png" group-title="综合",[BD]广东卫视
+https://stream1.freetv.fun/7f58eaa8048364264a26b34ef48d369820464c387c58f8311f3b9891083d951f.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-id="378858" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055858539901_84.jpg" group-title="综合",[BD]东南卫视
+https://stream1.freetv.fun/3ad6599415990b0f15bec3d681fb934f53a2f82aac7584375237a83573efe5c7.m3u8
