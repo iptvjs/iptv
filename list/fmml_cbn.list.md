@@ -132,7 +132,7 @@
 | 124 | 家有购物 | pi.0472.org | <https://pi.0472.org/cbn/jygw.m3u8> |
 | 125 | 央广购物 | pi.0472.org | <https://pi.0472.org/cbn/yggw.m3u8> |
 
-Updated at **8/9/2025 12:35:18 AM**
+Updated at **8/10/2025 12:30:45 AM**
 
 ## 使用说明
 
