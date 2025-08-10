@@ -9,11 +9,11 @@
 | 1 | CCTV+ 1 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8> |
 | 2 | CCTV+ 2 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8> |
 | 3 | CCTV-4 America (1080p) | global.cgtn.cicc.media.caton.cloud | <https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8> |
-| 4 | CCTV-5体育 (1080p) | IPv4 直链 | <http://1.85.0.62:808/hls/503/index.m3u8> |
+| 4 | CCTV-5体育 (1080p) | IPv4 直链 | <http://220.178.228.153:1935/live/cctv5/playlist.m3u8> |
 | 5 | CCTV-6电影 (1080p) | IPv4 直链 | <http://1.85.0.62:808/hls/6/index.m3u8> |
 | 6 | CCTV-13新闻 (1080p) | CCTV | <https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8> |
 
-Updated at **8/10/2025 12:33:18 AM**
+Updated at **8/11/2025 12:30:51 AM**
 
 ## 使用说明
 
