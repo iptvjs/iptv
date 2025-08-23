@@ -14,7 +14,7 @@
 | 6 | [BD]澳门MACAU | stream1.freetv.fun | <https://stream1.freetv.fun/cddca3be72e1752fa1a211f70007dbf09875073ea2b9ddeb83b2b804a36209d4.m3u8> |
 | 7 | [SD]澳门莲花 | stream1.freetv.fun | <https://stream1.freetv.fun/86d5fbc137de996ef87f330ef4e7fab1e7bd7701f52c0297beabe58fac86df0b.m3u8> |
 
-Updated at **8/23/2025 12:33:21 AM**
+Updated at **8/24/2025 12:26:43 AM**
 
 ## 使用说明
 
