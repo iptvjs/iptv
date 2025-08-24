@@ -455,7 +455,7 @@
 | 447 | 黑龙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8> |
 | 448 | CCTV-4 Europe | viamotionhsi.netplus.ch | <https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8> |
 
-Updated at **8/25/2025 12:28:06 AM**
+Updated at **8/25/2025 12:30:44 AM**
 
 ## 使用说明
 
