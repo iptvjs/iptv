@@ -49,7 +49,7 @@
 | 41 | 黑龙江都市 | IPv6 直链 | <http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8> |
 | 42 | 2025-08-22 12:45:09 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4> |
 
-Updated at **8/25/2025 12:30:44 AM**
+Updated at **8/26/2025 12:31:21 AM**
 
 ## 使用说明
 
