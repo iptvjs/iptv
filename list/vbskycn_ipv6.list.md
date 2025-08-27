@@ -51,7 +51,7 @@
 | 43 | 超级体育 | IPv6 直链 | <http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8> |
 | 44 | 2025-08-27 18:49:10 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4> |
 
-Updated at **8/28/2025 12:30:41 AM**
+Updated at **8/28/2025 12:33:25 AM**
 
 ## 使用说明
 
