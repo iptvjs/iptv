@@ -142,7 +142,7 @@
 | 134 | [HD]龙华戏剧 *p | stream1.freetv.fun | <https://stream1.freetv.fun/974879181be18ba600ab0263dfa0d734d7dbbcfaaa77fb4a84c3bbc86fdef930.ctv> |
 | 135 | [BD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8> |
 
-Updated at **8/30/2025 12:29:40 AM**
+Updated at **8/30/2025 12:31:37 AM**
 
 ## 使用说明
 
