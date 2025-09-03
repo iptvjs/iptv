@@ -69,7 +69,7 @@
 | 61 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=2098efa2a8097dbc793e88bf64bdcbf3&time=68b86797> |
 | 62 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 
-Updated at **9/4/2025 12:29:30 AM**
+Updated at **9/4/2025 12:31:29 AM**
 
 ## 使用说明
 
