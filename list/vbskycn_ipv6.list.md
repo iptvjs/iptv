@@ -19,7 +19,7 @@
 | 11 | 睛彩篮球 | IPv6 直链 | <http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8> |
 | 12 | 2025-09-05 18:37:31 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-reiihfhe5xjm4s3e/1080p/cae_h264/1747660062050484190/mda-reiihfhe5xjm4s3e.mp4> |
 
-Updated at **9/6/2025 12:27:08 AM**
+Updated at **9/6/2025 12:29:16 AM**
 
 ## 使用说明
 
