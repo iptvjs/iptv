@@ -15,7 +15,7 @@
 | 7 | 江西卫视 | IPv6 直链 | <http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8> |
 | 8 | 2025-09-06 18:36:49 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4> |
 
-Updated at **9/7/2025 12:25:29 AM**
+Updated at **9/7/2025 12:27:34 AM**
 
 ## 使用说明
 
