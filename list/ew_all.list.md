@@ -75,7 +75,7 @@
 | 67 | [BD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/21a7df97359df58f2c9678a4a35acce1c3741b5efe2e5e2ad14406515c001c14.m3u8> |
 | 68 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/1daeb6ebad1472fe2bc4132507a863e32729f2bf8e10df6d4208962761912623.m3u8> |
 
-Updated at **9/9/2025 12:29:12 AM**
+Updated at **9/9/2025 12:31:17 AM**
 
 ## 使用说明
 
