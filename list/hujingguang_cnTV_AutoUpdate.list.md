@@ -66,7 +66,7 @@
 | 58 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-vyLSZ8.m3u8> |
 | 59 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 
-Updated at **9/10/2025 12:29:58 AM**
+Updated at **9/10/2025 12:32:41 AM**
 
 ## 使用说明
 
