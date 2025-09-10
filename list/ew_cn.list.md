@@ -274,7 +274,7 @@
 | 266 | [BD]溧水新闻综合 | 荔枝网 | <rtmp://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh> |
 | 267 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/8db7fe87f56b1781603eca82aa8111cd9a6f7a52cb6648858a6a657a926d5ddf.m3u8> |
 
-Updated at **9/11/2025 12:30:07 AM**
+Updated at **9/11/2025 12:33:00 AM**
 
 ## 使用说明
 
