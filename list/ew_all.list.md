@@ -73,7 +73,7 @@
 | 65 | [BD]云南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/78d5fdfe5a6a02f95ba9abe9781d88980afafde30f29a80c5ce264ca7c1fe245.m3u8> |
 | 66 | [BD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/21a7df97359df58f2c9678a4a35acce1c3741b5efe2e5e2ad14406515c001c14.m3u8> |
 
-Updated at **9/14/2025 12:24:41 AM**
+Updated at **9/14/2025 12:26:42 AM**
 
 ## 使用说明
 
