@@ -66,7 +66,7 @@
 | 58 | 云南卫视 | p.ytelc.com | <http://p.ytelc.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8> |
 | 59 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-fxzMPV.m3u8> |
 
-Updated at **9/16/2025 12:30:09 AM**
+Updated at **9/16/2025 12:32:14 AM**
 
 ## 使用说明
 
