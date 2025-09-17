@@ -65,7 +65,7 @@
 | 57 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=adb4f1d48d0434b9430626a78a574513&wsTime=1758136259> |
 | 58 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-ehnoPV.m3u8> |
 
-Updated at **9/18/2025 12:29:54 AM**
+Updated at **9/18/2025 12:32:03 AM**
 
 ## 使用说明
 
