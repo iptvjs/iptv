@@ -456,7 +456,7 @@
 | 448 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 449 | 黑龙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8> |
 
-Updated at **9/17/2025 12:32:29 AM**
+Updated at **9/18/2025 12:29:54 AM**
 
 ## 使用说明
 
