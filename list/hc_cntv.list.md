@@ -74,7 +74,7 @@
 | 66 | 广东卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8> |
 | 67 | 广西卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8> |
 
-Updated at **9/19/2025 12:29:47 AM**
+Updated at **9/19/2025 12:32:00 AM**
 
 ## 使用说明
 
