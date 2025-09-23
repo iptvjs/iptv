@@ -76,7 +76,7 @@
 | 68 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-mntGP7.m3u8> |
 | 69 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=9f97083368964c1bef407ca3c997511e&time=68d2c5bf> |
 
-Updated at **9/24/2025 12:30:09 AM**
+Updated at **9/24/2025 12:32:23 AM**
 
 ## 使用说明
 
