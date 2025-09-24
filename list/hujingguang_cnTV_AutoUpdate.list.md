@@ -77,7 +77,7 @@
 | 69 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-bfP137.m3u8> |
 | 70 | 甘肃卫视 | liveout.gstv.com.cn | <https://liveout.gstv.com.cn/skt649/nd6ycc.m3u8> |
 
-Updated at **9/25/2025 12:30:53 AM**
+Updated at **9/25/2025 12:33:00 AM**
 
 ## 使用说明
 
