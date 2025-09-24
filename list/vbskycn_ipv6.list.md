@@ -6,9 +6,9 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 2025-09-24 00:25:56 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rhqik8vsvanh6z3q/1080p/cae_h264/1756127495035435978/mda-rhqik8vsvanh6z3q.mp4> |
+| 1 | 2025-09-25 00:25:00 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-rim3j369ara1fudx/720p/h264/1758508288931739909/mda-rim3j369ara1fudx.mp4> |
 
-Updated at **9/24/2025 12:32:23 AM**
+Updated at **9/25/2025 12:30:53 AM**
 
 ## 使用说明
 
