@@ -6,9 +6,11 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 2025-09-25 00:25:00 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-rim3j369ara1fudx/720p/h264/1758508288931739909/mda-rim3j369ara1fudx.mp4> |
+| 1 | 法治天地 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8> |
+| 2 | 睛彩广场舞 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8> |
+| 3 | 2025-09-26 00:20:13 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rim3j38jdv015mh8/sc/cae_h264/1758541757473419093/mda-rim3j38jdv015mh8.mp4> |
 
-Updated at **9/25/2025 12:33:00 AM**
+Updated at **9/26/2025 12:29:48 AM**
 
 ## 使用说明
 
