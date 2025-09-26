@@ -96,8 +96,24 @@
 | 88 | 时尚购物 | IPv4 直链 | <rtp://239.3.1.181:8001> |
 | 89 | 家有购物 | IPv4 直链 | <rtp://239.3.1.185:8001> |
 | 90 | 聚鲨精选 | IPv4 直链 | <rtp://239.3.1.179:8001> |
+| 91 | 凤凰中文 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzw> |
+| 92 | 凤凰资讯 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzx> |
+| 93 | 无线新闻台 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw> |
+| 94 | 娱乐新闻 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw> |
+| 95 | TVB翡翠 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3> |
+| 96 | TVB星河 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe> |
+| 97 | TVB武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
+| 98 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
+| 99 | 美亚电影 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya> |
+| 100 | J2 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=j2> |
+| 101 | 千禧经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc> |
+| 102 | 翡翠华丽 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali> |
+| 103 | 重温经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd> |
+| 104 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
+| 105 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
+| 106 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 
-Updated at **9/26/2025 12:31:52 AM**
+Updated at **9/27/2025 12:29:41 AM**
 
 ## 使用说明
 
