@@ -58,7 +58,7 @@
 | 50 | 龙井 | 吉林广播电视台 | <http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild> |
 | 51 | 2025-09-20 00:12:24 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4> |
 
-Updated at **9/27/2025 12:31:49 AM**
+Updated at **9/28/2025 12:26:40 AM**
 
 ## 使用说明
 
