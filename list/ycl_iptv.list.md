@@ -33,87 +33,88 @@
 | 25 | CGTN阿语 | IPv4 直链 | <rtp://239.3.1.219:4220> |
 | 26 | CGTN俄语 | IPv4 直链 | <rtp://239.3.1.220:4220> |
 | 27 | 北京卫视 | IPv4 直链 | <rtp://239.3.1.22:8001> |
-| 28 | 湖南卫视 | IPv4 直链 | <rtp://239.3.1.132:8012> |
-| 29 | 东方卫视 | IPv4 直链 | <rtp://239.3.1.136:8032> |
-| 30 | 天津卫视 | IPv4 直链 | <rtp://239.3.1.141:1234> |
-| 31 | 安徽卫视 | IPv4 直链 | <rtp://239.3.1.211:8064> |
-| 32 | 山东卫视 | IPv4 直链 | <rtp://239.3.1.209:8052> |
+| 28 | 湖南卫视 | IPv4 直链 | <rtp://239.3.1.112:3002> |
+| 29 | 东方卫视 | IPv4 直链 | <rtp://239.3.1.119:3006> |
+| 30 | 江苏卫视 | IPv4 直链 | <rtp://239.3.1.113:3003> |
+| 31 | 浙江卫视 | IPv4 直链 | <rtp://239.3.1.114:3004> |
+| 32 | 山东卫视 | IPv4 直链 | <rtp://239.3.1.144:3005> |
 | 33 | 广东卫视 | IPv4 直链 | <rtp://239.3.1.203:2000> |
-| 34 | 江苏卫视 | IPv4 直链 | <rtp://239.3.1.135:8028> |
-| 35 | 江西卫视 | IPv4 直链 | <rtp://239.3.1.123:8164> |
-| 36 | 河北卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
-| 37 | 河南卫视 | IPv4 直链 | <rtp://239.3.1.50:8184> |
-| 38 | 浙江卫视 | IPv4 直链 | <rtp://239.3.1.137:8036> |
-| 39 | 深圳卫视 | IPv4 直链 | <rtp://239.3.1.202:2000> |
-| 40 | 湖北卫视 | IPv4 直链 | <rtp://239.3.1.138:8044> |
-| 41 | 东南卫视 | IPv4 直链 | <rtp://239.3.1.156:8148> |
-| 42 | 贵州卫视 | IPv4 直链 | <rtp://239.3.1.149:8076> |
-| 43 | 辽宁卫视 | IPv4 直链 | <rtp://239.3.1.210:8056> |
-| 44 | 重庆卫视 | IPv4 直链 | <rtp://239.3.1.122:8160> |
-| 45 | 龙江卫视 | IPv4 直链 | <rtp://239.3.1.133:8016> |
-| 46 | 吉林卫视 | IPv4 直链 | <rtp://239.3.1.240:8172> |
-| 47 | 甘肃卫视 | IPv4 直链 | <rtp://239.3.1.201:8180> |
-| 48 | 宁夏卫视 | IPv4 直链 | <rtp://239.3.1.169:8212> |
-| 49 | 新疆卫视 | IPv4 直链 | <rtp://239.3.1.167:8192> |
-| 50 | 西藏卫视 | IPv4 直链 | <rtp://239.3.1.166:8188> |
-| 51 | 兵团卫视 | IPv4 直链 | <rtp://239.3.1.168:8196> |
-| 52 | 北京文艺 | IPv4 直链 | <rtp://239.3.1.242:8000> |
-| 53 | 体育休闲 | IPv4 直链 | <rtp://239.3.1.120:8000> |
-| 54 | 北京影视 | IPv4 直链 | <rtp://239.3.1.158:8000> |
-| 55 | 北京新闻 | IPv4 直链 | <rtp://239.3.1.159:8000> |
-| 56 | 北京财经 | IPv4 直链 | <rtp://239.3.1.116:8000> |
-| 57 | 北京生活 | IPv4 直链 | <rtp://239.3.1.117:8000> |
-| 58 | 北京国际 | IPv4 直链 | <rtp://239.3.1.235:8000> |
-| 59 | 纪实科教 | IPv4 直链 | <rtp://239.3.1.115:8000> |
-| 60 | 卡酷少儿 | IPv4 直链 | <rtp://239.3.1.189:8000> |
-| 61 | 金鹰纪实 | IPv4 直链 | <rtp://239.3.1.58:8156> |
-| 62 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
-| 63 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
-| 64 | CCTV-4K | IPv4 直链 | <rtp://239.3.1.245:2000> |
-| 65 | 中国教育 | IPv4 直链 | <rtp://239.3.1.57:8152> |
-| 66 | 中国交通 | IPv4 直链 | <rtp://239.3.1.188:8001> |
-| 67 | 睛彩竞技 | IPv4 直链 | <rtp://239.3.1.125:8001> |
-| 68 | 睛彩篮球 | IPv4 直链 | <rtp://239.3.1.126:8001> |
-| 69 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
-| 70 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
-| 71 | 爱上4K | IPv4 直链 | <rtp://239.3.1.236:2000> |
-| 72 | 4K超清 | IPv4 直链 | <rtp://239.3.1.249:8001> |
-| 73 | 城市剧场 | IPv4 直链 | <rtp://239.3.1.67:4120> |
-| 74 | 军旅剧场 | IPv4 直链 | <rtp://239.3.1.68:4120> |
-| 75 | 古装剧场 | IPv4 直链 | <rtp://239.3.1.69:4120> |
-| 76 | 精选高清 | IPv4 直链 | <rtp://239.3.1.74:4120> |
-| 77 | 武侠剧场 | IPv4 直链 | <rtp://239.3.1.90:4120> |
-| 78 | 喜剧影院 | IPv4 直链 | <rtp://239.3.1.91:4120> |
-| 79 | 动作影院 | IPv4 直链 | <rtp://239.3.1.92:4120> |
-| 80 | 家庭影院 | IPv4 直链 | <rtp://239.3.1.93:4120> |
-| 81 | 星影高清 | IPv4 直链 | <rtp://239.3.1.94:4120> |
-| 82 | 光影高清 | IPv4 直链 | <rtp://239.3.1.84:4120> |
-| 83 | 热播剧场 | IPv4 直链 | <rtp://239.3.1.194:9020> |
-| 84 | 经典电影 | IPv4 直链 | <rtp://239.3.1.195:9024> |
-| 85 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
-| 86 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
-| 87 | 央广购物 | IPv4 直链 | <rtp://239.3.1.223:8001> |
-| 88 | 时尚购物 | IPv4 直链 | <rtp://239.3.1.181:8001> |
-| 89 | 家有购物 | IPv4 直链 | <rtp://239.3.1.185:8001> |
-| 90 | 聚鲨精选 | IPv4 直链 | <rtp://239.3.1.179:8001> |
-| 91 | 凤凰中文 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzw> |
-| 92 | 凤凰资讯 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzx> |
-| 93 | 无线新闻台 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw> |
-| 94 | 娱乐新闻 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw> |
-| 95 | TVB翡翠 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3> |
-| 96 | TVB星河 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe> |
-| 97 | TVB武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
-| 98 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
-| 99 | 美亚电影 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya> |
-| 100 | J2 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=j2> |
-| 101 | 千禧经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc> |
-| 102 | 翡翠华丽 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali> |
-| 103 | 重温经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd> |
-| 104 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
-| 105 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
-| 106 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
+| 34 | 深圳卫视 | IPv4 直链 | <rtp://239.3.1.202:2000> |
+| 35 | 四川卫视 | IPv4 直链 | <rtp://239.3.1.131:3001> |
+| 36 | 江西卫视 | IPv4 直链 | <rtp://239.3.1.123:8164> |
+| 37 | 河北卫视 | IPv4 直链 | <rtp://239.3.1.148:8072> |
+| 38 | 河南卫视 | IPv4 直链 | <rtp://239.3.1.50:8184> |
+| 39 | 天津卫视 | IPv4 直链 | <rtp://239.3.1.141:1234> |
+| 40 | 安徽卫视 | IPv4 直链 | <rtp://239.3.1.211:8064> |
+| 41 | 湖北卫视 | IPv4 直链 | <rtp://239.3.1.138:8044> |
+| 42 | 东南卫视 | IPv4 直链 | <rtp://239.3.1.156:8148> |
+| 43 | 贵州卫视 | IPv4 直链 | <rtp://239.3.1.149:8076> |
+| 44 | 辽宁卫视 | IPv4 直链 | <rtp://239.3.1.210:8056> |
+| 45 | 重庆卫视 | IPv4 直链 | <rtp://239.3.1.122:8160> |
+| 46 | 龙江卫视 | IPv4 直链 | <rtp://239.3.1.133:8016> |
+| 47 | 吉林卫视 | IPv4 直链 | <rtp://239.3.1.240:8172> |
+| 48 | 甘肃卫视 | IPv4 直链 | <rtp://239.3.1.201:8180> |
+| 49 | 宁夏卫视 | IPv4 直链 | <rtp://239.3.1.169:8212> |
+| 50 | 新疆卫视 | IPv4 直链 | <rtp://239.3.1.167:8192> |
+| 51 | 西藏卫视 | IPv4 直链 | <rtp://239.3.1.166:8188> |
+| 52 | 兵团卫视 | IPv4 直链 | <rtp://239.3.1.168:8196> |
+| 53 | 北京文艺 | IPv4 直链 | <rtp://239.3.1.242:8000> |
+| 54 | 体育休闲 | IPv4 直链 | <rtp://239.3.1.120:8000> |
+| 55 | 北京影视 | IPv4 直链 | <rtp://239.3.1.158:8000> |
+| 56 | 北京新闻 | IPv4 直链 | <rtp://239.3.1.159:8000> |
+| 57 | 北京财经 | IPv4 直链 | <rtp://239.3.1.116:8000> |
+| 58 | 北京生活 | IPv4 直链 | <rtp://239.3.1.117:8000> |
+| 59 | 北京国际 | IPv4 直链 | <rtp://239.3.1.235:8000> |
+| 60 | 纪实科教 | IPv4 直链 | <rtp://239.3.1.115:8000> |
+| 61 | 卡酷少儿 | IPv4 直链 | <rtp://239.3.1.189:8000> |
+| 62 | 金鹰纪实 | IPv4 直链 | <rtp://239.3.1.58:8156> |
+| 63 | 茶友频道 | IPv4 直链 | <rtp://239.3.1.165:8001> |
+| 64 | 快乐垂钓 | IPv4 直链 | <rtp://239.3.1.164:8001> |
+| 65 | CCTV-4K | IPv4 直链 | <rtp://239.3.1.245:2000> |
+| 66 | 中国教育 | IPv4 直链 | <rtp://239.3.1.57:8152> |
+| 67 | 中国交通 | IPv4 直链 | <rtp://239.3.1.188:8001> |
+| 68 | 睛彩竞技 | IPv4 直链 | <rtp://239.3.1.125:8001> |
+| 69 | 睛彩篮球 | IPv4 直链 | <rtp://239.3.1.126:8001> |
+| 70 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
+| 71 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
+| 72 | 爱上4K | IPv4 直链 | <rtp://239.3.1.236:2000> |
+| 73 | 4K超清 | IPv4 直链 | <rtp://239.3.1.249:8001> |
+| 74 | 城市剧场 | IPv4 直链 | <rtp://239.3.1.67:4120> |
+| 75 | 军旅剧场 | IPv4 直链 | <rtp://239.3.1.68:4120> |
+| 76 | 古装剧场 | IPv4 直链 | <rtp://239.3.1.69:4120> |
+| 77 | 精选高清 | IPv4 直链 | <rtp://239.3.1.74:4120> |
+| 78 | 武侠剧场 | IPv4 直链 | <rtp://239.3.1.90:4120> |
+| 79 | 喜剧影院 | IPv4 直链 | <rtp://239.3.1.91:4120> |
+| 80 | 动作影院 | IPv4 直链 | <rtp://239.3.1.92:4120> |
+| 81 | 家庭影院 | IPv4 直链 | <rtp://239.3.1.93:4120> |
+| 82 | 星影高清 | IPv4 直链 | <rtp://239.3.1.94:4120> |
+| 83 | 光影高清 | IPv4 直链 | <rtp://239.3.1.84:4120> |
+| 84 | 热播剧场 | IPv4 直链 | <rtp://239.3.1.194:9020> |
+| 85 | 经典电影 | IPv4 直链 | <rtp://239.3.1.195:9024> |
+| 86 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
+| 87 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
+| 88 | 央广购物 | IPv4 直链 | <rtp://239.3.1.223:8001> |
+| 89 | 时尚购物 | IPv4 直链 | <rtp://239.3.1.181:8001> |
+| 90 | 家有购物 | IPv4 直链 | <rtp://239.3.1.185:8001> |
+| 91 | 聚鲨精选 | IPv4 直链 | <rtp://239.3.1.179:8001> |
+| 92 | 凤凰中文 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzw> |
+| 93 | 凤凰资讯 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=fhzx> |
+| 94 | 无线新闻台 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw> |
+| 95 | 娱乐新闻 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw> |
+| 96 | TVB翡翠 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3> |
+| 97 | TVB星河 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe> |
+| 98 | TVB武侠 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=yzwx> |
+| 99 | 美亚C+ | ottproxy2.ist.ooo | <http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8> |
+| 100 | 美亚电影 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya> |
+| 101 | J2 | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=j2> |
+| 102 | 千禧经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc> |
+| 103 | 翡翠华丽 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali> |
+| 104 | 重温经典 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd> |
+| 105 | RTHK31 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31> |
+| 106 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
+| 107 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 
-Updated at **9/28/2025 12:28:41 AM**
+Updated at **9/29/2025 12:25:37 AM**
 
 ## 使用说明
 
