@@ -114,7 +114,7 @@
 | 106 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
 | 107 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 
-Updated at **9/29/2025 12:25:37 AM**
+Updated at **9/29/2025 12:27:36 AM**
 
 ## 使用说明
 
