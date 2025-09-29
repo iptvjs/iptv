@@ -147,7 +147,7 @@
 | 139 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 | 140 | 爱奇艺电影 | php.jdshipin.com | <http://php.jdshipin.com/smt.php?id=Qiyi> |
 
-Updated at **9/30/2025 12:24:30 AM**
+Updated at **9/30/2025 12:26:41 AM**
 
 ## 使用说明
 
