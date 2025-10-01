@@ -132,7 +132,7 @@
 | 124 | RTHK32 | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32> |
 | 125 | HOY TV | php.jdshipin.com | <http://php.jdshipin.com/TVOD/iptv.php?id=hoytv> |
 
-Updated at **10/2/2025 12:30:19 AM**
+Updated at **10/2/2025 12:32:27 AM**
 
 ## 使用说明
 

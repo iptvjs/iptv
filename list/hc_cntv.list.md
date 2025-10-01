@@ -77,7 +77,7 @@
 | 69 | 广西卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8> |
 | 70 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-gjnBD2.m3u8> |
 
-Updated at **10/2/2025 12:30:19 AM**
+Updated at **10/2/2025 12:32:27 AM**
 
 ## 使用说明
 
