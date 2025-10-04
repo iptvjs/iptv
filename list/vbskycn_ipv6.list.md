@@ -12,9 +12,9 @@
 | 4 | 都市剧场 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8> |
 | 5 | 青海都市 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8> |
 | 6 | 睛彩广场舞 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8> |
-| 7 | 2025-10-04 00:23:01 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rim3j38jdv015mh8/sc/cae_h264/1758541757473419093/mda-rim3j38jdv015mh8.mp4> |
+| 7 | 2025-10-05 00:24:35 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rim3j38jdv015mh8/sc/cae_h264/1758541757473419093/mda-rim3j38jdv015mh8.mp4> |
 
-Updated at **10/4/2025 12:30:52 AM**
+Updated at **10/5/2025 12:26:06 AM**
 
 ## 使用说明
 
