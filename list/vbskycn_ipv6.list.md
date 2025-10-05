@@ -14,7 +14,7 @@
 | 6 | 睛彩广场舞 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8> |
 | 7 | 2025-10-06 00:24:15 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rim3j38jdv015mh8/sc/cae_h264/1758541757473419093/mda-rim3j38jdv015mh8.mp4> |
 
-Updated at **10/6/2025 12:25:53 AM**
+Updated at **10/6/2025 12:27:58 AM**
 
 ## 使用说明
 
