@@ -456,8 +456,10 @@
 | 448 | 黑龙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8> |
 | 449 | Hunan TV (2160p) | hlsal-ldvt.qing.mgtv.com | <http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8> |
 | 450 | Zhejiang Satellite TV | 浙江广播电视集团 | <https://play-qukan.cztv.com/live/1758879019692345.m3u8> |
+| 451 | ST Bongo | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119691/stbongo/playlist.m3u8> |
+| 452 | ST Rembo TV | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8> |
 
-Updated at **10/6/2025 12:27:58 AM**
+Updated at **10/7/2025 12:30:10 AM**
 
 ## 使用说明
 
