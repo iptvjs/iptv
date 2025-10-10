@@ -80,7 +80,7 @@
 | 72 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-bnDT12.m3u8> |
 | 73 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 
-Updated at **10/11/2025 12:29:52 AM**
+Updated at **10/11/2025 12:31:55 AM**
 
 ## 使用说明
 
