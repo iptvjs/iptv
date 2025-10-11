@@ -6,15 +6,11 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | 支持作者 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rj5i8jknsfut2umw/sc/cae_h264/1759755342118633672/mda-rj5i8jknsfut2umw.mp4> |
+| 1 | 支持作者 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4> |
 | 2 | 法治天地 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8> |
-| 3 | 欢笑剧场 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8> |
-| 4 | 都市剧场 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8> |
-| 5 | 青海都市 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8> |
-| 6 | 睛彩广场舞 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8> |
-| 7 | 2025-10-11 00:24:52 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-rj5i8jknsfut2umw/sc/cae_h264/1759755342118633672/mda-rj5i8jknsfut2umw.mp4> |
+| 3 | 2025-10-11 18:21:05 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4> |
 
-Updated at **10/11/2025 12:31:55 AM**
+Updated at **10/12/2025 12:25:54 AM**
 
 ## 使用说明
 
