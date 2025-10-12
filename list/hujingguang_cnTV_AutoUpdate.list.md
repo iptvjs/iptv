@@ -76,7 +76,7 @@
 | 68 | 河北卫视 | tv.pull.hebtv.com | <https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1760290596&k=40b043065ad96699a5a57891ccfb31b1> |
 | 69 | 广西卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8> |
 
-Updated at **10/13/2025 12:26:20 AM**
+Updated at **10/13/2025 12:28:27 AM**
 
 ## 使用说明
 
