@@ -87,7 +87,7 @@
 | 79 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 | 80 | 三沙卫视 | 老友网 | <https://livessws.hnntv.cn/live/ssws_2501010hnntv.m3u8?_upt=83b860af1760376960> |
 
-Updated at **10/14/2025 12:30:58 AM**
+Updated at **10/14/2025 12:33:13 AM**
 
 ## 使用说明
 
