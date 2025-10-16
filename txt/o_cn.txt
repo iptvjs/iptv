@@ -32,6 +32,7 @@ Xinjiang_TV_9,http://49.113.179.174:4022/udp/238.125.7.153:5140
 Xinjiang_TV_12,http://49.113.179.174:4022/udp/238.125.3.185:5140
 Xizang_TV_Tibetan,http://49.113.179.174:4022/udp/238.125.3.94:5140
 Yicai_TV,http://49.113.179.174:4022/udp/238.125.0.165:5140
+Zhejiang_Satellite_TV,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 四川卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
 天津卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
@@ -43,13 +44,11 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 广东卫视_(2160p),http://118.81.195.79:9003/hls/26/index.m3u8
 康巴卫视_(720p)_[Not_24/7],http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 敦煌电视台_(1080p),http://117.156.28.119/270000001111/1110000028/index.m3u8
-江苏卫视_(1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+江苏卫视_(1080p)_[Not_24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
 江西卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 河南卫视_(2160p),http://118.81.195.79:9003/hls/30/index.m3u8
-浙江卫视_(1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 海南卫视_(576p),http://118.81.195.79:9003/hls/28/index.m3u8
 湖北卫视_(1080p),http://118.81.195.79:9003/hls/32/index.m3u8
-湖南卫视_(1080p),http://118.81.195.79:9003/hls/32/index.m3u8
 西安丝路_(404p)_[Not_24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
 重庆卫视_(1080p),http://118.81.195.79:9003/hls/22/index.m3u8
 青海卫视_(1080p),http://live.geermurmt.com/qhws/sd/live.m3u8
@@ -70,7 +69,7 @@ Ecology_&_Environment_TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
 滁州市广播电视台_科教频道_(400p),http://live.cztv.cc:85/live/sjpd.m3u8
 
 General,#genre#
-BRTV_北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
+BRTV_北京卫视_[Not_24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
 CCTV-1_(2160p),http://123.175.209.52:9003/hls/1/index.m3u8
 Dragon_TV_International_(360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 Guangzhou_TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
@@ -133,7 +132,7 @@ City_Theater_Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
 Hunan_Entertainment_Channel,http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
 Nei_Monggol_TV_Culture_Entertainment_Channel,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 Panzihihua_Culture_Tourism_&_Life_Channel,https://live.pzhkai.com/wlshtl/sd/live.m3u8?_upt=f156a1051729836828
-宁夏卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+宁夏卫视_(576p)_[Not_24/7],http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
 江苏综艺_(576p)_[Not_24/7],http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 
 Sports,#genre#
@@ -153,7 +152,7 @@ Home_Plus,https://homeplushls.wns.live/hls/stream.m3u8
 Jiangxi_Movie_Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 Jilin_Movie_Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-江苏影视_(576p),http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+江苏影视_(576p)_[Not_24/7],http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
 
 Education,#genre#
 CCTV-7_(2160p),http://123.175.209.52:9003/hls/8/index.m3u8
@@ -162,7 +161,7 @@ CETV1_(576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2_(576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 Channel_Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
 Shandong_Education_TV,http://49.113.179.174:4022/udp/238.125.0.156:5140
-江苏教育_(576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+江苏教育_(576p)_[Not_24/7],http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
 
 Culture,#genre#
 CCTV-8_(2160p),http://123.175.209.52:9003/hls/9/index.m3u8
