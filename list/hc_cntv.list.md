@@ -82,7 +82,7 @@
 | 74 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-qCEVY6.m3u8> |
 | 75 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=3ca8522e4b0391273609072aa5c9d467&time=68f49c1a> |
 
-Updated at **10/20/2025 12:26:59 AM**
+Updated at **10/20/2025 12:29:05 AM**
 
 ## 使用说明
 
