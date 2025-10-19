@@ -8,9 +8,9 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 支持作者 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4> |
 | 2 | 法治天地 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8> |
-| 3 | 2025-10-19 00:26:30 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4> |
+| 3 | 2025-10-20 00:22:56 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4> |
 
-Updated at **10/19/2025 12:29:15 AM**
+Updated at **10/20/2025 12:26:59 AM**
 
 ## 使用说明
 
