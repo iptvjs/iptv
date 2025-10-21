@@ -7,7 +7,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | ABN China (720p) | mediaserver.abnvideos.com | <https://mediaserver.abnvideos.com/streams/abnchina.m3u8> |
-| 2 | Angel TV Chinese (720p) | cdn3.wowza.com | <https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8> |
+| 2 | Angel TV Chinese (720p) | janya-digimix.akamaized.net | <https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8> |
 | 3 | Animation Show Channel | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1> |
 | 4 | Bingtuan Satellite TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.13:5140> |
 | 5 | Bread TV面包台 (720p) | video.bread-tv.com:8091 | <https://video.bread-tv.com:8091/hls-live24/online/index.m3u8> |
@@ -176,7 +176,7 @@
 | 168 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 169 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **10/21/2025 12:33:11 AM**
+Updated at **10/22/2025 12:31:16 AM**
 
 ## 使用说明
 
