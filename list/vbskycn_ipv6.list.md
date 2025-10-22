@@ -10,7 +10,7 @@
 | 2 | 法治天地 | IPv6 直链 | <http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8> |
 | 3 | 2025-10-23 00:25:06 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-rja3mfxaxgr3uugw/1080p/cae_h264/1760187146239916730/mda-rja3mfxaxgr3uugw.mp4> |
 
-Updated at **10/23/2025 12:33:13 AM**
+Updated at **10/23/2025 12:35:20 AM**
 
 ## 使用说明
 
