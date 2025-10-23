@@ -13,7 +13,6 @@
 
 知识,#genre#
 [BD]bbc_earth,https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8
-[HD]discovery_world_*s,https://stream1.freetv.fun/28e93b7bc4e1f7c07cfce2bcec0451fe311800b440b455a7570895fdc8df7b9d.m3u8
 [BD]discovery_id,https://stream1.freetv.fun/86875051a3a97e2dddc3c0544864323aba824f654f05853c65dd986cd2a95a87.m3u8
 [HD]ช่อง_hgtv,https://stream1.freetv.fun/a857a9066d450f3c32451de2a3494e9c2b60fdf56de85dbcfc3b4e8a0590f7cd.m3u8
 [BD]love_nature,https://stream1.freetv.fun/b030d10fd2f7b4894f26a6635ce090079b82025b60c78e03c5ff792ff6144ba9.m3u8
@@ -41,7 +40,6 @@
 [HD]台视,rtmp://f13h.mine.nu/sat/tv071
 [HD]国会_1,https://stream1.freetv.fun/512cd4edeb7160ca02542585a638ec0508c099008368e203dd41c0d924ff6e78.m3u8
 [HD]国会_2,https://stream1.freetv.fun/8cdd553a812ddd9a4657531eaf33a235a34febea6cb124e29c6357c6649fb275.m3u8
-[HD]much,https://stream1.freetv.fun/dd2db708aac881ef1da48e1689034f2684791bb35a4b11de817410610fc8a41a.m3u8
 [BD]东森综合_*wj,https://stream1.freetv.fun/f1ff47d8e20525c25c493fec45405a3f5acfa54ec96b3d05519b93e77b50ca73.ctv
 [BD]东森美洲,https://stream1.freetv.fun/58095733803c46eb57bb7d5401c87aa9ee2a605c57b9d8ced2c65d9b385610ed.m3u8
 [BD]东森美洲新闻台,https://stream1.freetv.fun/d08ea3c0e788d241119fdfe7dadd2d9505a329c9313957a73adcd13de810c593.m3u8
@@ -95,7 +93,7 @@
 [BD]三立戏剧_*wj,https://stream1.freetv.fun/1e22d0e8f27acd8c59336129afcdd8e6cf9b9026419baf87ead4ca2d1d2701ea.ctv
 [BD]八大戏剧_*wj,https://stream1.freetv.fun/73bf461b06bc44181f6d5cf9b4132122e7f6ac15ab2ddf0e69d8cd715358fbeb.ctv
 [BD]好莱坞电影_*wj,https://stream1.freetv.fun/d1c219b72c50135cd45c95362be44619a0fdec0ed02b705a7009ec0a7b39fbc0.ctv
-[SD]成龙,https://stream1.freetv.fun/5df3dbb3441531d7a2c642ce1133c9335e3641e084cd58b54f5d1fec7ac0ec8c.m3u8
+[HD]成龙,https://stream1.freetv.fun/5df3dbb3441531d7a2c642ce1133c9335e3641e084cd58b54f5d1fec7ac0ec8c.m3u8
 [BD]东森戏剧_*wj,https://stream1.freetv.fun/07ac64d14e02aef50ff4ba5e8a4bb96e26ee68a2a29bd7ac1579b1c6f7a58b5f.ctv
 [BD]东森洋片_*wj,https://stream1.freetv.fun/c66b9cafea294e05034c7cf75962647c2826fd1ad819c84c09b2487fa06e7210.ctv
 [BD]东森电影_*wj,https://stream1.freetv.fun/7789bc5399cff126e6c3fd015671eaa0c82287d68c1897a472d28fcdc5722101.ctv
