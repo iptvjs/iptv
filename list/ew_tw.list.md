@@ -91,7 +91,7 @@
 | 83 | [VGA]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c18a68c08db26e594330015d8ba2b4db254e993bdf7ce3e5dfb9c920038ed8a5.m3u8> |
 | 84 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **10/25/2025 12:30:57 AM**
+Updated at **10/25/2025 12:33:06 AM**
 
 ## 使用说明
 
