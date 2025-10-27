@@ -78,7 +78,7 @@
 | 70 | [BD]靖天映画 | stream1.freetv.fun | <https://stream1.freetv.fun/0864058ec04ec30d97650ab00f4f78c094c0c88f5c79f141c0292f525cf29ea1.ctv> |
 | 71 | [BD]靖天资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.ctv> |
 
-Updated at **10/28/2025 12:32:50 AM**
+Updated at **10/28/2025 12:35:01 AM**
 
 ## 使用说明
 
