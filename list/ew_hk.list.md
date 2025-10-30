@@ -52,7 +52,7 @@
 | 44 | [SD]凤凰电影 | IPv4 直链 | <rtmp://39.107.120.164/live/diyp_fhdy> |
 | 45 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv> |
 
-Updated at **10/30/2025 12:36:05 AM**
+Updated at **10/31/2025 12:32:55 AM**
 
 ## 使用说明
 
