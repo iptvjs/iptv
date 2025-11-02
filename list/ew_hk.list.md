@@ -51,7 +51,7 @@
 | 43 | [HD]凤凰资讯 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/3d4177b9bed364275954f3353eb93a6811aaff720061c059fe5242888f8b4829.m3u8> |
 | 44 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv> |
 
-Updated at **11/2/2025 12:28:25 AM**
+Updated at **11/3/2025 12:27:14 AM**
 
 ## 使用说明
 
