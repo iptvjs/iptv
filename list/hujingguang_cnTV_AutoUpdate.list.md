@@ -69,7 +69,7 @@
 | 61 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 | 62 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=1efc7213eb9454051e68755a51593ce8&txTime=6908D209> |
 
-Updated at **11/4/2025 12:29:34 AM**
+Updated at **11/4/2025 12:32:38 AM**
 
 ## 使用说明
 
