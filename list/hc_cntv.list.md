@@ -46,13 +46,13 @@
 | 38 | JP1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8> |
 | 39 | KPop | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8> |
 | 40 | 民视新闻HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8> |
-| 41 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1762138800-1-e54cf2a42c5bb4df7f289035fef5ecf7-d394b56c5ac9614f561f7540c9aadb61&yid=e54cf2a42c5bb4df7f289035fef5ecf7> |
-| 42 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1762138800-1-d0715fb558eb3a7d899da649a659ed21-73e9da8d03401d6acc11f9923fb7f010&yid=d0715fb558eb3a7d899da649a659ed21> |
+| 41 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1762203600-1-427ed6b7c938de7b8de9c37c505c771e-1e35748f6f83232f23d5352006b7cb9b&yid=427ed6b7c938de7b8de9c37c505c771e> |
+| 42 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1762203600-1-f42152346892489f5136af3747883c6a-d3c3f999ffd795272e961678e79e1550&yid=f42152346892489f5136af3747883c6a> |
 | 43 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
 | 44 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
 | 45 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
 
-Updated at **11/3/2025 12:29:12 AM**
+Updated at **11/4/2025 12:29:34 AM**
 
 ## 使用说明
 
