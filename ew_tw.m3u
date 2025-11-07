@@ -87,8 +87,8 @@ https://stream1.freetv.fun/775f1b5191906d084c014827729aa231f991215c2ad1c49f3cd4b
 https://stream1.freetv.fun/b9b0628b2474fa439dc957ecb7ae8723067c0aea44c287ada1a509143571d9dd.ctv
 #EXTINF:-1 tvg-name="中视HD" tvg-id="460779" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055838912553_80.png" group-title="综合",[HD]中视
 rtmp://f13h.mine.nu:1935/sat/tv091
-#EXTINF:-1 tvg-name="中视新闻FHD" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221833273953_43.jpg" group-title="新闻",[BD]中视新闻
-https://stream1.freetv.fun/de6c5f05f080350a1fb18fd32559c871ba906ba353d8927fe8869d16740ac521.ctv
+#EXTINF:-1 tvg-name="中视新闻FHD" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221833273953_43.jpg" group-title="新闻",[HD]中视新闻
+https://stream1.freetv.fun/5f3d68b2efc102fc2339fa5b60d4b2abde1aa0bb446fb9fabe6cf9a7ab38198f.ctv
 #EXTINF:-1 tvg-name="中视新闻台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164553238162_16.png" group-title="新闻",[HD]中视新闻 *wj
 https://stream1.freetv.fun/a884ffacb8814cf9cee6084297e8a7741bda822f7d0659c921fab577d360447d.m3u8
 #EXTINF:-1 tvg-name="中视菁采台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/12/28/large/20211228171426835864_33.png" group-title="综合",[BD]中视菁采
@@ -182,7 +182,7 @@ https://stream1.freetv.fun/6ee5add35f17636335d588a540b414b2fd821cfba301bef804299
 #EXTINF:-1 tvg-name="纬来体育" tvg-id="456575" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="运动",[BD]纬来体育
 https://stream1.freetv.fun/cc1a505325338e518290f899fcdc2afecc6e3ab3eb08abf045ea89d3d96a0797.ctv
 #EXTINF:-1 tvg-name="美亚电影台[TW]" tvg-id="460873" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="电影",[BD]美亚电影
-https://stream1.freetv.fun/5ba5784d5512b5c0eb223dc9718bc8523b5bcb18ea8dfb02eecfd70e4a089719.ctv
+https://stream1.freetv.fun/42b1fc4ec1e503820acd3e2c367e0c00b12fcf08340ec5674fa22b0c8260581c.ctv
 #EXTINF:-1 tvg-name="台视新闻台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/22/20161122123940121042_91.png" group-title="新闻",[BD]台视新闻
 https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8
 #EXTINF:-1 tvg-name="台视综合" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/10/07/large/20231007173906735735_65.png" group-title="综合",[BD]台视综合
