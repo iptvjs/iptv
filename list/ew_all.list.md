@@ -21,7 +21,7 @@
 | 13 | [SD]陕西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/871a47698ab331b58861b25f028f40587602ea02b336853cb105edd68f78b022.m3u8> |
 | 14 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8> |
 
-Updated at **11/9/2025 12:27:50 AM**
+Updated at **11/9/2025 12:29:50 AM**
 
 ## 使用说明
 
