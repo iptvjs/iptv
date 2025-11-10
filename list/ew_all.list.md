@@ -12,7 +12,7 @@
 | 4 | [BD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/32c4da15507fe7b0110d5585d73c092c7354622b5c50edf956e5e0f2504749cf.m3u8> |
 | 5 | [SD]陕西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/871a47698ab331b58861b25f028f40587602ea02b336853cb105edd68f78b022.m3u8> |
 
-Updated at **11/11/2025 12:33:51 AM**
+Updated at **11/11/2025 12:35:50 AM**
 
 ## 使用说明
 
