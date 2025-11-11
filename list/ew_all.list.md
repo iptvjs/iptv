@@ -10,7 +10,7 @@
 | 2 | [BD]东南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/aba8603324d1cea99c18553c3a7d4da469e94ce7741fb9db7efb6dfaf05b116e.m3u8> |
 | 3 | [BD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/32c4da15507fe7b0110d5585d73c092c7354622b5c50edf956e5e0f2504749cf.m3u8> |
 
-Updated at **11/12/2025 12:32:47 AM**
+Updated at **11/12/2025 12:34:45 AM**
 
 ## 使用说明
 
