@@ -112,7 +112,7 @@
 | 104 | [BD]靖天资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.ctv> |
 | 105 | [BD]非凡新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/a74cfddea020652e0f056eabc4a5848a698277ba87ad5da3079a3f827812ae18.ctv> |
 
-Updated at **11/13/2025 12:34:48 AM**
+Updated at **11/13/2025 12:37:04 AM**
 
 ## 使用说明
 
