@@ -85,7 +85,7 @@
 | 77 | [BD]靖天资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/f399d5ca932e97fc64175572c8c5f5c14d36761d3bceda596b03403c568f204b.ctv> |
 | 78 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **11/15/2025 12:33:00 AM**
+Updated at **11/15/2025 12:34:54 AM**
 
 ## 使用说明
 
