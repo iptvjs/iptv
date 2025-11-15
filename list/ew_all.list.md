@@ -15,7 +15,7 @@
 | 7 | [SD]康巴卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a76a6b69e65e5cbce50103bae24c8802ac6b3f70a20bee6bd8a75380e707eb9a.m3u8> |
 | 8 | [BD]湖北卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/3ed50eaa9b525447fbea0b393b648febe06da23bc2101f0d9aa019251d1adb06.m3u8> |
 
-Updated at **11/16/2025 12:28:01 AM**
+Updated at **11/16/2025 12:29:58 AM**
 
 ## 使用说明
 
