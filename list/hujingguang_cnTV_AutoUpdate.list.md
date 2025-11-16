@@ -68,7 +68,7 @@
 | 60 | 内蒙古卫视 | p6.ytelc.com | <http://p6.ytelc.com/xgplayer.php?id=https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880&token=d17fc51fe8114ba78b0a356069197350> |
 | 61 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 
-Updated at **11/17/2025 12:28:29 AM**
+Updated at **11/17/2025 12:30:21 AM**
 
 ## 使用说明
 
