@@ -71,7 +71,7 @@
 | 63 | [HD]华视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv111> |
 | 64 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **11/18/2025 12:35:10 AM**
+Updated at **11/18/2025 12:37:05 AM**
 
 ## 使用说明
 

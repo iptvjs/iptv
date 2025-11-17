@@ -70,7 +70,7 @@
 | 62 | 内蒙古卫视 | p6.ytelc.com | <http://p6.ytelc.com/xgplayer.php?id=https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880&token=d17fc51fe8114ba78b0a356069197350> |
 | 63 | 新疆卫视 | slstplay.xjtvs.com.cn | <https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1763275620-8-8-a857df93bd9def032d9f9b86dbeb978d&aliyun_uuid=87ed31a8-62c2-4bf4-b460-f21f14c89bbb> |
 
-Updated at **11/18/2025 12:35:10 AM**
+Updated at **11/18/2025 12:37:05 AM**
 
 ## 使用说明
 
