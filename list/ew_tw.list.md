@@ -66,7 +66,7 @@
 | 58 | [BD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/62baa54083438e0ff42bd762a75f962b815d012dc6d9b56df64929f5c12e2bdf.m3u8> |
 | 59 | [HD]华视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv111> |
 
-Updated at **11/19/2025 12:35:44 AM**
+Updated at **11/19/2025 12:47:05 AM**
 
 ## 使用说明
 
