@@ -1,4 +1,4 @@
-# List for **epg.pw 全部**
+# List for **epg.pw ipv6**
 
 > M3U: [ew_all.m3u](./ew_all.m3u ), TXT: [ew_all.txt](./txt/ew_all.txt )
 
@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **11/19/2025 12:47:05 AM**
+Updated at **11/20/2025 12:33:57 AM**
 
 ## 使用说明
 

@@ -447,7 +447,7 @@
 | 439 | Anshun Comprehensive News Channel | hplayer1.juyun.tv | <https://hplayer1.juyun.tv/camera/154379194.m3u8> |
 | 440 | Chifeng Comprehensive News Chanel | play1-qk.nmtv.cn | <http://play1-qk.nmtv.cn/live/1735546697341033.m3u8> |
 
-Updated at **11/19/2025 12:47:05 AM**
+Updated at **11/20/2025 12:33:57 AM**
 
 ## 使用说明
 
