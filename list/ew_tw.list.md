@@ -69,7 +69,7 @@
 | 61 | [HD]华视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv111> |
 | 62 | [HD]靖天电影 | stream1.freetv.fun | <https://stream1.freetv.fun/52e938b26d5b31435decb428d864efd2f75b647f703f573e26b4914dc479b07b.ctv> |
 
-Updated at **11/20/2025 12:33:57 AM**
+Updated at **11/20/2025 12:36:00 AM**
 
 ## 使用说明
 

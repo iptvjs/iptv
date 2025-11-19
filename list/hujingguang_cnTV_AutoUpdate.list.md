@@ -70,7 +70,7 @@
 | 62 | 内蒙古卫视 | live1yc.0515yc.cn | <https://live1yc.0515yc.cn/yctv3/sd/live.m3u8> |
 | 63 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 
-Updated at **11/20/2025 12:33:57 AM**
+Updated at **11/20/2025 12:36:00 AM**
 
 ## 使用说明
 
