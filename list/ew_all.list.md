@@ -30,7 +30,7 @@
 | 22 | [SD]陕西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/871a47698ab331b58861b25f028f40587602ea02b336853cb105edd68f78b022.m3u8> |
 | 23 | [BD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/5e0fb352df62f1d311efc04e0cd91221bbe8656df3b90c9c58f9201ca4545baf.m3u8> |
 
-Updated at **11/24/2025 12:29:13 AM**
+Updated at **11/24/2025 12:31:08 AM**
 
 ## 使用说明
 

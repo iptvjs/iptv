@@ -70,7 +70,7 @@
 | 62 | 内蒙古卫视 | live1yc.0515yc.cn | <https://live1yc.0515yc.cn/yctv3/sd/live.m3u8> |
 | 63 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
 
-Updated at **11/24/2025 12:29:13 AM**
+Updated at **11/24/2025 12:31:08 AM**
 
 ## 使用说明
 
