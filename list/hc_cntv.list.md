@@ -72,7 +72,7 @@
 | 64 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/r31M7Qa5hm7wrP.m3u8?secret=92e9053cc745087d82097b7148c3d7d4&time=69196620> |
 | 65 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 
-Updated at **11/25/2025 12:29:16 AM**
+Updated at **11/25/2025 12:31:13 AM**
 
 ## 使用说明
 
