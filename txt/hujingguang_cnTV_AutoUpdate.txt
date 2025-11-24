@@ -52,7 +52,8 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 央视台,#genre#
-CCTV-4_中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1763967600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-da45f5b67b4e9d5914256694b73e5498&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4_中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1764054000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-129a1403c64c5d037df73ab16150ceda&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4K_高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1764054000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6465517342b92280934328eac28f87a1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8_电视剧,http://183.196.25.171:808/hls/77/index.m3u8
 CCTV-11_戏曲,http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
@@ -61,10 +62,11 @@ CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1763267209-fc407456ea7fad91a719ec5e83861d59-0-9f6f467c245d616b1fa8c57077207652
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+江苏卫视,https://live1yc.0515yc.cn/yctv3/sd/live.m3u8
 重庆卫视,http://p6.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202511161200/app_2/_definst_/ls_2.stream/chunklist.m3u8
 黑龙江卫视,http://p6.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 云南卫视,http://p6.ytelc.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-广东卫视,https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-eknIWX.m3u8
-内蒙古卫视,https://live1yc.0515yc.cn/yctv3/sd/live.m3u8
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
+内蒙古卫视,http://p6.ytelc.com/xgplayer.php?id=https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880&token=d17fc51fe8114ba78b0a356069197350
+西藏卫视,https://tv.vtibet.cn/live/r31M7Qa5hm7wrP.m3u8?secret=92e9053cc745087d82097b7148c3d7d4&time=69196620
+海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
