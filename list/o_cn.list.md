@@ -93,92 +93,91 @@
 | 85 | Sihai Fishing Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.172:5140> |
 | 86 | Siping TV | 吉林广播电视台 | <http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598> |
 | 87 | SMG Football Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.142:5140> |
-| 88 | ST Rembo TV | uvotv-aniview.global.ssl.fastly.net | <https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/rembotv/playlist.m3u8> |
-| 89 | STV City | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1> |
-| 90 | STV News and General | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1> |
-| 91 | Tonghua TV | lsfb.avap.jilintv.cn | <http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8> |
-| 92 | Toonmax TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.28:5140> |
-| 93 | TV BRICS Chinese (1080p) | chibrics.mediacdn.ru | <https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8> |
-| 94 | Ugo Shop TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.184:5140> |
-| 95 | VOA美国之音 | voa-ingest.akamaized.net | <https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8> |
-| 96 | Weihai Comprehensive News Channel | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
-| 97 | Weihai Ocean Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8> |
-| 98 | Weihai Public Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8> |
-| 99 | World Economy Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.205:5140> |
-| 100 | Xinjiang TV 2 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.175:5140> |
-| 101 | Xinjiang TV 3 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.147:5140> |
-| 102 | Xinjiang TV 5 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.149:5140> |
-| 103 | Xinjiang TV 8 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.181:5140> |
-| 104 | Xinjiang TV 9 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.153:5140> |
-| 105 | Xinjiang TV 12 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.185:5140> |
-| 106 | Xizang TV Tibetan | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.94:5140> |
-| 107 | Yanbian Cinese Comprehensive Channel | 延边广播电视台 | <https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8> |
-| 108 | Yicai TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.165:5140> |
-| 109 | Zhejiang Satellite TV | 浙江广播电视集团 | <https://play-qukan.cztv.com/live/1758879019692345.m3u8> |
-| 110 | Zhejiang TV International | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
-| 111 | 东方卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/23/index.m3u8> |
-| 112 | 中国气象 (576p) [Not 24/7] | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
-| 113 | 云南卫视 (1080p) | hwapi.yunshicloud.com | <https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8> |
-| 114 | 优漫卡通 (576p) | IPv4 直链 | <http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8> |
-| 115 | 发现之旅 (576p) | IPv4 直链 | <http://125.210.152.18:9090/live/FXZL_750.m3u8> |
-| 116 | 吉林卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/34/index.m3u8> |
-| 117 | 和政电视台 | IPv4 直链 | <http://117.156.28.119/270000001111/1110000149/index.m3u8> |
-| 118 | 四川卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8> |
-| 119 | 四川妇女儿童 (720p) [Not 24/7] | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8> |
-| 120 | 天津卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8> |
-| 121 | 女性时尚 (576p) | IPv4 直链 | <http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8> |
-| 122 | 宁夏卫视 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA> |
-| 123 | 安徽卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/21/index.m3u8> |
-| 124 | 山东体育 (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/typd.m3u8> |
-| 125 | 山东农科 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/nkpd.m3u8> |
-| 126 | 山东卫视 (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/SDWSHD_H265.m3u8> |
-| 127 | 山东少儿 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/sepd.m3u8> |
-| 128 | 山东生活 (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/shpd.m3u8> |
-| 129 | 山东综艺 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/zypd.m3u8> |
-| 130 | 山东齐鲁 (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/qlpd.m3u8> |
-| 131 | 山西卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/19/index.m3u8> |
-| 132 | 广东卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/26/index.m3u8> |
-| 133 | 广西卫视 (576p) | IPv4 直链 | <http://118.81.195.79:9003/hls/27/index.m3u8> |
-| 134 | 康巴卫视 (720p) [Not 24/7] | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8> |
-| 135 | 徐州经济生活 (1080p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8> |
-| 136 | 房山电视台 (576p) | live.funhillrm.com | <https://live.funhillrm.com/2/playlist.m3u8> |
-| 137 | 敦煌电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000028/index.m3u8> |
-| 138 | 江苏体育 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY> |
-| 139 | 江苏公共 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG> |
-| 140 | 江苏卫视 (1080p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv> |
-| 141 | 江苏城市 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS> |
-| 142 | 江苏影视 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS> |
-| 143 | 江苏教育 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY> |
-| 144 | 江苏综艺 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY> |
-| 145 | 江西卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8> |
-| 146 | 河北卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/29/index.m3u8> |
-| 147 | 河南卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/30/index.m3u8> |
-| 148 | 浙江少儿 (1080p) | 浙江广播电视集团 | <https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
-| 149 | 海南卫视 (576p) | IPv4 直链 | <http://118.81.195.79:9003/hls/28/index.m3u8> |
-| 150 | 湖北卫视 (1080p) | IPv4 直链 | <http://118.81.195.79:9003/hls/32/index.m3u8> |
-| 151 | 湖南都市 (576p) | 千城云科 | <http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8> |
-| 152 | 滁州市广播电视台 公共频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
-| 153 | 滁州市广播电视台 新闻综合频道 (1080p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
-| 154 | 滁州市广播电视台 科教频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/sjpd.m3u8> |
-| 155 | 甘肃卫视 (576p) | IPv4 直链 | <http://118.81.195.79:9003/hls/25/index.m3u8> |
-| 156 | 白城新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
-| 157 | 萍乡新闻综合 (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
-| 158 | 西安丝路 (404p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
-| 159 | 西安商务资讯 (180p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
-| 160 | 贵州卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU> |
-| 161 | 辽宁卫视 (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
-| 162 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
-| 163 | 重庆卫视 (1080p) | IPv4 直链 | <http://118.81.195.79:9003/hls/22/index.m3u8> |
-| 164 | 长沙女性 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
-| 165 | 长沙政法 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
-| 166 | 长沙新闻 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
-| 167 | 青海卫视 (1080p) | live.geermurmt.com | <http://live.geermurmt.com/qhws/sd/live.m3u8> |
-| 168 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
-| 169 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
-| 170 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
-| 171 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
+| 88 | STV City | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 89 | STV News and General | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 90 | Tonghua TV | lsfb.avap.jilintv.cn | <http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8> |
+| 91 | Toonmax TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.28:5140> |
+| 92 | TV BRICS Chinese (1080p) | chibrics.mediacdn.ru | <https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8> |
+| 93 | Ugo Shop TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.184:5140> |
+| 94 | VOA美国之音 | voa-ingest.akamaized.net | <https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8> |
+| 95 | Weihai Comprehensive News Channel | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
+| 96 | Weihai Ocean Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8> |
+| 97 | Weihai Public Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8> |
+| 98 | World Economy Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.205:5140> |
+| 99 | Xinjiang TV 2 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.175:5140> |
+| 100 | Xinjiang TV 3 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.147:5140> |
+| 101 | Xinjiang TV 5 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.149:5140> |
+| 102 | Xinjiang TV 8 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.181:5140> |
+| 103 | Xinjiang TV 9 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.153:5140> |
+| 104 | Xinjiang TV 12 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.185:5140> |
+| 105 | Xizang TV Tibetan | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.94:5140> |
+| 106 | Yanbian Cinese Comprehensive Channel | 延边广播电视台 | <https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8> |
+| 107 | Yicai TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.165:5140> |
+| 108 | Zhejiang Satellite TV | 浙江广播电视集团 | <https://play-qukan.cztv.com/live/1758879019692345.m3u8> |
+| 109 | Zhejiang TV International | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
+| 110 | 东方卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/23/index.m3u8> |
+| 111 | 中国气象 (576p) [Not 24/7] | hls.weathertv.cn | <http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8> |
+| 112 | 云南卫视 (1080p) | hwapi.yunshicloud.com | <https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8> |
+| 113 | 优漫卡通 (576p) | IPv4 直链 | <http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8> |
+| 114 | 发现之旅 (576p) | IPv4 直链 | <http://125.210.152.18:9090/live/FXZL_750.m3u8> |
+| 115 | 吉林卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/34/index.m3u8> |
+| 116 | 和政电视台 | IPv4 直链 | <http://117.156.28.119/270000001111/1110000149/index.m3u8> |
+| 117 | 四川卫视 (576p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8> |
+| 118 | 四川妇女儿童 (720p) [Not 24/7] | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8> |
+| 119 | 天津卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8> |
+| 120 | 女性时尚 (576p) | IPv4 直链 | <http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8> |
+| 121 | 宁夏卫视 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA> |
+| 122 | 安徽卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/21/index.m3u8> |
+| 123 | 山东体育 (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/typd.m3u8> |
+| 124 | 山东农科 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/nkpd.m3u8> |
+| 125 | 山东卫视 (720p) | IPv4 直链 | <http://125.210.152.18:9090/live/SDWSHD_H265.m3u8> |
+| 126 | 山东少儿 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/sepd.m3u8> |
+| 127 | 山东生活 (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/shpd.m3u8> |
+| 128 | 山东综艺 (406p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/zypd.m3u8> |
+| 129 | 山东齐鲁 (1080p) | livealone302.iqilu.com | <http://livealone302.iqilu.com/iqilu/qlpd.m3u8> |
+| 130 | 山西卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/19/index.m3u8> |
+| 131 | 广东卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/26/index.m3u8> |
+| 132 | 广西卫视 (576p) | IPv4 直链 | <http://118.81.195.79:9003/hls/27/index.m3u8> |
+| 133 | 康巴卫视 (720p) [Not 24/7] | scgctvshow.sctv.com | <http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8> |
+| 134 | 徐州经济生活 (1080p) | 中国移动江苏 | <http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8> |
+| 135 | 房山电视台 (576p) | live.funhillrm.com | <https://live.funhillrm.com/2/playlist.m3u8> |
+| 136 | 敦煌电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000028/index.m3u8> |
+| 137 | 江苏体育 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY> |
+| 138 | 江苏公共 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG> |
+| 139 | 江苏卫视 (1080p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv> |
+| 140 | 江苏城市 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS> |
+| 141 | 江苏影视 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS> |
+| 142 | 江苏教育 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY> |
+| 143 | 江苏综艺 (576p) [Not 24/7] | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY> |
+| 144 | 江西卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8> |
+| 145 | 河北卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/29/index.m3u8> |
+| 146 | 河南卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/30/index.m3u8> |
+| 147 | 浙江少儿 (1080p) | 浙江广播电视集团 | <https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
+| 148 | 海南卫视 (576p) | IPv4 直链 | <http://118.81.195.79:9003/hls/28/index.m3u8> |
+| 149 | 湖北卫视 (1080p) | IPv4 直链 | <http://118.81.195.79:9003/hls/32/index.m3u8> |
+| 150 | 湖南都市 (576p) | 千城云科 | <http://hnsd.chinashadt.com:2036/live/stream:hunandushi.stream/playlist.m3u8> |
+| 151 | 滁州市广播电视台 公共频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
+| 152 | 滁州市广播电视台 新闻综合频道 (1080p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
+| 153 | 滁州市广播电视台 科教频道 (400p) | live.cztv.cc:85 | <http://live.cztv.cc:85/live/sjpd.m3u8> |
+| 154 | 甘肃卫视 (576p) | IPv4 直链 | <http://118.81.195.79:9003/hls/25/index.m3u8> |
+| 155 | 白城新闻综合 | 吉林广播电视台 | <https://stream2.jlntv.cn/baicheng1/sd/live.m3u8> |
+| 156 | 萍乡新闻综合 (576p) [Not 24/7] | www.pxitv.com:8099 | <http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8> |
+| 157 | 西安丝路 (404p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv5/playlist.m3u8> |
+| 158 | 西安商务资讯 (180p) [Not 24/7] | 西安网 | <http://stream2.xiancity.cn/xatv3/playlist.m3u8> |
+| 159 | 贵州卫视 (576p) | IPv4 直链 | <http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU> |
+| 160 | 辽宁卫视 (1080p) | IPv4 直链 | <http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8> |
+| 161 | 酒泉新闻综合 (576p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000001/index.m3u8> |
+| 162 | 重庆卫视 (1080p) | IPv4 直链 | <http://118.81.195.79:9003/hls/22/index.m3u8> |
+| 163 | 长沙女性 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8> |
+| 164 | 长沙政法 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8> |
+| 165 | 长沙新闻 | 奥点云 | <http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8> |
+| 166 | 青海卫视 (1080p) | live.geermurmt.com | <http://live.geermurmt.com/qhws/sd/live.m3u8> |
+| 167 | 风尚购物 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw> |
+| 168 | 高台电视台 (1080p) | IPv4 直链 | <http://117.156.28.119/270000001111/1110000146/index.m3u8> |
+| 169 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
+| 170 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **11/25/2025 12:31:13 AM**
+Updated at **11/26/2025 12:35:32 AM**
 
 ## 使用说明
 
