@@ -11,7 +11,7 @@
 | 3 | [SD]西藏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7642fc00d43ee6def5089508e667b56c84ece5b13fd734325424450485dd9a7a.m3u8> |
 | 4 | [SD]陕西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/871a47698ab331b58861b25f028f40587602ea02b336853cb105edd68f78b022.m3u8> |
 
-Updated at **11/26/2025 12:37:34 AM**
+Updated at **11/26/2025 11:09:00 AM**
 
 ## 使用说明
 
