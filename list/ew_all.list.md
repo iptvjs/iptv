@@ -35,7 +35,7 @@
 | 27 | [BD]辽宁卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/c10516095998a84311625ad32c7fc31029d8139653d940a9727f0790f8db8ac5.m3u8> |
 | 28 | [SD]陕西卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/c2abf6755815b47b6d84755333f6cca6aa0cb95f006f091e5c6cc931134f4005.m3u8> |
 
-Updated at **12/1/2025 12:30:23 AM**
+Updated at **12/1/2025 12:32:25 AM**
 
 ## 使用说明
 
