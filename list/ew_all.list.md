@@ -22,7 +22,7 @@
 | 14 | [SD]西藏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/7642fc00d43ee6def5089508e667b56c84ece5b13fd734325424450485dd9a7a.m3u8> |
 | 15 | [BD]辽宁卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/c10516095998a84311625ad32c7fc31029d8139653d940a9727f0790f8db8ac5.m3u8> |
 
-Updated at **12/2/2025 12:36:15 AM**
+Updated at **12/2/2025 12:38:13 AM**
 
 ## 使用说明
 
