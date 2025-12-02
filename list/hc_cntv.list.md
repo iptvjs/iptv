@@ -69,7 +69,7 @@
 | 61 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-hmnsN6.m3u8> |
 | 62 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 
-Updated at **12/3/2025 12:36:44 AM**
+Updated at **12/3/2025 12:38:38 AM**
 
 ## 使用说明
 
