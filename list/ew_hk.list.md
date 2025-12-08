@@ -7,14 +7,14 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]axn *sm | stream1.freetv.fun | <https://stream1.freetv.fun/bb21ac4c210766279b2c51c3907eff35011a9e7eece6349af740044d1b15994c.ctv> |
-| 2 | [SD]cctv-9纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/bac2107c8204c290efc6c6224146418641af787e31995157d64d567afbc00279.m3u8> |
+| 2 | [BD]animax | stream1.freetv.fun | <https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8> |
 | 3 | [HD]c plus | stream1.freetv.fun | <https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8> |
 | 4 | [SD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/c26bc29b4c23283f729a3b949065d8be4420cd2339ed981b534aa0ac9bcf22dc.ctv> |
 | 5 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/fffa9b4b6a4539df195d4b8c1828935463fe5defab455f29605724faab3716f9.ctv> |
 | 6 | [VGA]Kix *a | stream1.freetv.fun | <https://stream1.freetv.fun/9377f46a9bf98114be8a5b30933e1bbc3f6cc633d9eb14bac066049e58439c5e.m3u8> |
 | 7 | [BD]mytime movie network | stream1.freetv.fun | <https://stream1.freetv.fun/4dcfe6b94315e523fdc36c33af599d211682761d528521f889ff25a32659ef44.m3u8> |
-| 8 | [BD]now星影 | stream1.freetv.fun | <https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8> |
-| 9 | [BD]now爆谷 | stream1.freetv.fun | <https://stream1.freetv.fun/3f31f2dce2add4c7542daf68797a0bf424ceff7fb57654cbcf47f6b095189809.m3u8> |
+| 8 | [BD]now星影台备 | stream1.freetv.fun | <https://stream1.freetv.fun/6c3e1fa063dd63f00919dbc3b4f318460f658d57e48db0293e014650ef60745f.ctv> |
+| 9 | [BD]now爆谷台备 | stream1.freetv.fun | <https://stream1.freetv.fun/ac55fdfb51223b1bbde0515825f03bb2653d9b4d25f9e1cc9050523fd5ce071f.ctv> |
 | 10 | [SD]popc | stream1.freetv.fun | <https://stream1.freetv.fun/79e0dcd59dba3828a61fa564c37e7f40016332cb35849829eca01da0a8f9800c.ctv> |
 | 11 | [HD]rthk 31 | stream1.freetv.fun | <https://stream1.freetv.fun/d7d6ff5be0279cf81d1f76acf708cc8c4f234aa7fc67009fff694fcff34f2601.ctv> |
 | 12 | [HD]rthk 32 | stream1.freetv.fun | <https://stream1.freetv.fun/6293c65392dc2022f8a7b1f492f09dc41eea5a09ebe9c8ef1ec3a0d9c4065b69.ctv> |
@@ -41,7 +41,7 @@
 | 33 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8> |
 | 34 | [HD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv> |
 
-Updated at **12/8/2025 12:31:26 AM**
+Updated at **12/9/2025 12:35:36 AM**
 
 ## 使用说明
 
