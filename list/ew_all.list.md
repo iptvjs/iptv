@@ -38,7 +38,7 @@
 | 30 | [BD]云南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8> |
 | 31 | [BD]青海卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/0e4579bf98e3869e73e674507f4257736227ec9c830d0fe0d2fc77008c50f220.m3u8> |
 
-Updated at **12/9/2025 12:37:32 AM**
+Updated at **12/10/2025 12:34:54 AM**
 
 ## 使用说明
 
