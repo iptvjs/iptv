@@ -17,22 +17,21 @@
 | 9 | AdultIPTV.net Latina | cdn.adultiptv.net | <http://cdn.adultiptv.net/latina.m3u8> |
 | 10 | AdultIPTV.net POV | cdn.adultiptv.net | <http://cdn.adultiptv.net/pov.m3u8> |
 | 11 | AdultIPTV.net Blowjob | cdn.adultiptv.net | <http://cdn.adultiptv.net/blowjob.m3u8> |
-| 12 | AdultIPTV.net Teen | cdn.adultiptv.net | <http://cdn.adultiptv.net/teen.m3u8> |
-| 13 | AdultIPTV.net Hardcore | cdn.adultiptv.net | <http://cdn.adultiptv.net/hardcore.m3u8> |
-| 14 | AdultIPTV.net Cuckold | cdn.adultiptv.net | <http://cdn.adultiptv.net/cuckold.m3u8> |
-| 15 | AdultIPTV.net Threesome | cdn.adultiptv.net | <http://cdn.adultiptv.net/threesome.m3u8> |
-| 16 | AdultIPTV.net Russian | cdn.adultiptv.net | <http://cdn.adultiptv.net/russian.m3u8> |
-| 17 | AdultIPTV.net Lesbian | cdn.adultiptv.net | <http://cdn.adultiptv.net/lesbian.m3u8> |
-| 18 | AdultIPTV.net Rough | cdn.adultiptv.net | <http://cdn.adultiptv.net/rough.m3u8> |
-| 19 | AdultIPTV.net Gangbang | cdn.adultiptv.net | <http://cdn.adultiptv.net/gangbang.m3u8> |
-| 20 | AdultIPTV.net Anal | cdn.adultiptv.net | <http://cdn.adultiptv.net/anal.m3u8> |
-| 21 | AdultIPTV.net Compilation | cdn.adultiptv.net | <http://cdn.adultiptv.net/compilation.m3u8> |
-| 22 | AdultIPTV.net Brunette | cdn.adultiptv.net | <http://cdn.adultiptv.net/brunette.m3u8> |
-| 23 | AdultIPTV.net Blonde | cdn.adultiptv.net | <http://cdn.adultiptv.net/blonde.m3u8> |
-| 24 | AdultIPTV.net Gay | cdn.adultiptv.net | <http://cdn.adultiptv.net/gay.m3u8> |
-| 25 | AdultIPTV.net Asian | cdn.adultiptv.net | <http://cdn.adultiptv.net/asian.m3u8> |
+| 12 | AdultIPTV.net Hardcore | cdn.adultiptv.net | <http://cdn.adultiptv.net/hardcore.m3u8> |
+| 13 | AdultIPTV.net Cuckold | cdn.adultiptv.net | <http://cdn.adultiptv.net/cuckold.m3u8> |
+| 14 | AdultIPTV.net Threesome | cdn.adultiptv.net | <http://cdn.adultiptv.net/threesome.m3u8> |
+| 15 | AdultIPTV.net Russian | cdn.adultiptv.net | <http://cdn.adultiptv.net/russian.m3u8> |
+| 16 | AdultIPTV.net Lesbian | cdn.adultiptv.net | <http://cdn.adultiptv.net/lesbian.m3u8> |
+| 17 | AdultIPTV.net Rough | cdn.adultiptv.net | <http://cdn.adultiptv.net/rough.m3u8> |
+| 18 | AdultIPTV.net Gangbang | cdn.adultiptv.net | <http://cdn.adultiptv.net/gangbang.m3u8> |
+| 19 | AdultIPTV.net Anal | cdn.adultiptv.net | <http://cdn.adultiptv.net/anal.m3u8> |
+| 20 | AdultIPTV.net Compilation | cdn.adultiptv.net | <http://cdn.adultiptv.net/compilation.m3u8> |
+| 21 | AdultIPTV.net Brunette | cdn.adultiptv.net | <http://cdn.adultiptv.net/brunette.m3u8> |
+| 22 | AdultIPTV.net Blonde | cdn.adultiptv.net | <http://cdn.adultiptv.net/blonde.m3u8> |
+| 23 | AdultIPTV.net Gay | cdn.adultiptv.net | <http://cdn.adultiptv.net/gay.m3u8> |
+| 24 | AdultIPTV.net Asian | cdn.adultiptv.net | <http://cdn.adultiptv.net/asian.m3u8> |
 
-Updated at **12/11/2025 12:37:24 AM**
+Updated at **12/12/2025 12:39:13 AM**
 
 ## 使用说明
 
