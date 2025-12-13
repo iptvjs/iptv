@@ -444,8 +444,9 @@
 | 436 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 437 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 438 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
+| 439 | CCTV-4 Europe | dash2.antik.sk | <https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8> |
 
-Updated at **12/13/2025 12:35:44 AM**
+Updated at **12/14/2025 12:31:02 AM**
 
 ## 使用说明
 
