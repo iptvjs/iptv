@@ -242,7 +242,7 @@
 | 234 | [SD]黑龙江新闻法治 | stream1.freetv.fun | <https://stream1.freetv.fun/0b020b11ef1c7fd5c70eca53f6c5d5d831e4bc8c1259ce54a67ae8da368cfef8.m3u8> |
 | 235 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/1daeb6ebad1472fe2bc4132507a863e32729f2bf8e10df6d4208962761912623.m3u8> |
 
-Updated at **12/15/2025 12:30:49 AM**
+Updated at **12/15/2025 12:32:48 AM**
 
 ## 使用说明
 

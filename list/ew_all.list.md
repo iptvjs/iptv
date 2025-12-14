@@ -9,7 +9,7 @@
 | 1 | [BD]浙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/c8aaab1ce2dc79ee0784d6696bfcb01d508ef1188e9f93b9146568418bfc01c9.m3u8> |
 | 2 | [BD]云南卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8> |
 
-Updated at **12/15/2025 12:30:49 AM**
+Updated at **12/15/2025 12:32:48 AM**
 
 ## 使用说明
 
