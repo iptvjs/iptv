@@ -450,7 +450,7 @@
 | 442 | CGTN Russian | dash3.antik.sk | <https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8> |
 | 443 | CGTN Arabic | dash3.antik.sk | <https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8> |
 
-Updated at **12/22/2025 12:31:01 AM**
+Updated at **12/22/2025 12:33:04 AM**
 
 ## 使用说明
 
