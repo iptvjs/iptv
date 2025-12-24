@@ -17,6 +17,8 @@ http://49.113.179.174:4022/udp/238.125.2.216:5140
 http://49.113.179.174:4022/udp/238.125.3.121:5140
 #EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD",BRTV 北京卫视 [Not 24/7]
 http://ivi.bupt.edu.cn/hls/btv1.m3u8
+#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CETV1.cn@SD",CETV1 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-id="CETV2.cn@SD",CETV2 (576p)
@@ -25,8 +27,16 @@ http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 http://49.113.179.174:4022/udp/238.125.3.92:5140
 #EXTINF:-1 tvg-id="CGTN.cn@SD",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn@SD",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn@SD",CGTN Russian
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelLaw.cn@SD",Channel Law
 http://49.113.179.174:4022/udp/238.125.2.201:5140
 #EXTINF:-1 tvg-id="ChannelMax.cn@SD",Channel Max
@@ -875,13 +885,3 @@ http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD",黑龙江卫视 (2160p)
 http://118.81.195.79:9003/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD",CGTN Spanish
-https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn@SD",CGTN French
-https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn@SD",CGTN Russian
-https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn@SD",CGTN Arabic
-https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
