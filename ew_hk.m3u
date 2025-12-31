@@ -3,11 +3,11 @@
 https://stream1.freetv.fun/5ac921540d5e8ee881e16c0c64a43208c484ae720f8b24e7b3401663166bf830.ctv
 #EXTINF:-1 tvg-name="Animax(HK)" tvg-id="368333" tvg-country="香港" tvg-language="日语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png" group-title="儿童",[BD]animax
 https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8
-#EXTINF:-1 tvg-name="Bein Sports 1(HK)" tvg-id="410403" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032121875269_94.png" group-title="运动",[HD]beinsports 1 *c
+#EXTINF:-1 tvg-name="Bein Sports 1(HK)" tvg-id="410403" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/31/large/20250131032121875269_94.png" group-title="运动",[BD]beinsports 1 *c
 https://stream1.freetv.fun/5fa10307483a8731000157b4e1c934d5ff017449f703ce280c66201485317ff1.ctv
-#EXTINF:-1 tvg-name="Bein Sports 2(HK)" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/26/large/20250126115036320896_59.png" group-title="运动",[HD]beinsports 2 *c
+#EXTINF:-1 tvg-name="Bein Sports 2(HK)" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2025/01/26/large/20250126115036320896_59.png" group-title="运动",[BD]beinsports 2 *c
 https://stream1.freetv.fun/14ba7931b8535ab5b520cc1457d33413bac1ac8f347659463f3abb5fd5291e9e.ctv
-#EXTINF:-1 tvg-name="Bein Sports 3(HK)" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/08/26/large/20240826062803290274_93.png" group-title="运动",[HD]beinsports 3 *c
+#EXTINF:-1 tvg-name="Bein Sports 3(HK)" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/08/26/large/20240826062803290274_93.png" group-title="运动",[BD]beinsports 3 *c
 https://stream1.freetv.fun/671432dd52cca23ca584dd8a33b4d7e799147acfb3ddb440eb5110c7969a5a06.ctv
 #EXTINF:-1 tvg-name="C+频道" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="综艺",[HD]c plus
 https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
@@ -53,8 +53,6 @@ https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218
 https://stream1.freetv.fun/88a3ad7016752debc54a84443b6ac87255f92a92dcf0d0c01499f620e1bf824d.m3u8
 #EXTINF:-1 tvg-name="星空卫视国际频道" tvg-id="" tvg-country="香港" tvg-language="国语" tvg-logo="https://epg.pw/media/" group-title="其它",[BD]星空国际
 https://stream1.freetv.fun/75e262d43778a32cb887d4ede15dc972143a0522e4d89a81f45b7307f6fedd61.m3u8
-#EXTINF:-1 tvg-name="有线新闻HD" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2020/07/14/large/20200714005654788985_97.png" group-title="新闻",[BD]有线新闻
-https://stream1.freetv.fun/248406c5c982a5128b2d58183e290e51e06ce99e40ba9d0a704f3e7e024dcd39.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-id="368363" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新闻",[BD]无线新闻
 https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
 #EXTINF:-1 tvg-name="甄子丹影视" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg" group-title="其它",[HD]甄子丹电影

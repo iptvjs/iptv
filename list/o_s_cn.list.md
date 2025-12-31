@@ -451,7 +451,7 @@
 | 443 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 | 444 | Ando TV | play.kankanlive.com | <http://play.kankanlive.com/live/1711956137852982.m3u8> |
 
-Updated at **12/31/2025 12:35:43 AM**
+Updated at **1/1/2026 12:33:42 AM**
 
 ## 使用说明
 
