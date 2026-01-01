@@ -41,7 +41,7 @@
 | 33 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/75cf3fd3b2e39cb22ee433381aeafdfabd12682b75b524b21992dc0b7284fcaa.m3u8> |
 | 34 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv> |
 
-Updated at **1/1/2026 12:33:42 AM**
+Updated at **1/2/2026 12:34:48 AM**
 
 ## 使用说明
 
