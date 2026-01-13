@@ -15,7 +15,7 @@ https://stream1.freetv.fun/dc826f4205fd7fa5b2cba62e85aecd6f9665b7947aec9b26bfed6
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 tvg-name="DAZN 2(TW)" tvg-id="457257" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/04/24/large/20240424025006167243_40.png" group-title="运动",[HD]dazn 2
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="" tvg-country="台湾" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="知识",[HD]asharq discovery
+#EXTINF:-1 tvg-name="Discovery(TW)" tvg-id="" tvg-country="台湾" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png" group-title="知识",[VGA]asharq discovery
 https://stream1.freetv.fun/ae1bcd61012a7cb1b781fb6af83dcacdc03f254790032b4374b976b61dd7ea4a.m3u8
 #EXTINF:-1 tvg-name="DreamWorks(TW)" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728161448236768_71.png" group-title="儿童",[BD]dreamworks
 https://stream1.freetv.fun/507234129b2f546137c7b8b705ca753f3b9492cec252541fd10d868814247272.m3u8
@@ -70,11 +70,11 @@ https://stream1.freetv.fun/63600a71ad76448e69fc83a8d3c9bf63fb3b43635ffdb15edd4f6
 #EXTINF:-1 tvg-name="TVBS Asia" tvg-id="3509" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="综合",[BD]tvbs-asia
 https://stream1.freetv.fun/363c2cded19435f6246775f35056ac65a2041ac53ee74d310346babe4550ab93.m3u8
 #EXTINF:-1 tvg-name="TVBS HD" tvg-id="370183" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="综合",[BD]tvbs
-https://stream1.freetv.fun/f42b5d17380db14027df7cd2d2da9d0da10bbbcea57868794154ddaab26e43a2.m3u8
+https://stream1.freetv.fun/8aafe3ba2a14367116ec8559f0e09e6250303374547da0af5fe4720b62339c54.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻HD" tvg-id="370174" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055934838968_50.png" group-title="新闻",[BD]tvbs新闻
 https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐台HD" tvg-id="370191" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png" group-title="综艺",[BD]tvbs欢乐
-https://stream1.freetv.fun/7cf5e20b27cbdd56933792c1dbe95af1e1c0ef11fac0a4f65913ce1d98fe65b7.m3u8
+https://stream1.freetv.fun/188652858e7e439b9b9bee3e93017217944e7274b1563a881f2d0f0287b9b345.m3u8
 #EXTINF:-1 tvg-name="TVBS精采台" tvg-id="460736" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/01/11/large/20210111214029367376_50.png" group-title="综艺",[BD]tvbs精采
 https://stream1.freetv.fun/8a1514b3bd7908edbb75fa7db47b4b1def786e297e4af832b1cd0ae0e4b8231f.m3u8
 #EXTINF:-1 tvg-name="TVBS综艺" tvg-id="370257" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/02/large/20240102024504364874_25.png" group-title="综艺",[BD]tvbs综艺
@@ -221,7 +221,7 @@ https://stream1.freetv.fun/409fbf8e0ec33500b4d76956cca00af9fddacac6dd2f8822f464b
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 tvg-name="纬来体育" tvg-id="456575" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png" group-title="运动",[HD]纬来体育
 rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 tvg-name="美亚电影台[TW]" tvg-id="460873" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="电影",[SD]美亚电影
+#EXTINF:-1 tvg-name="美亚电影台[TW]" tvg-id="460873" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="电影",[BD]美亚电影
 https://stream1.freetv.fun/d6ed1d07e5b5c4257b4ff348f2a0b89486414e1182d89cd2e43f05b536bd54a3.ctv
 #EXTINF:-1 tvg-name="台湾戏剧台" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222715150771_24.png" group-title="电影",[BD]台湾戏剧
 https://stream1.freetv.fun/0d389c11e76dcb39d0eece90b8821558ecb3c77962f39105af0694c247e94588.m3u8
