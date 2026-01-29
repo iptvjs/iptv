@@ -112,7 +112,7 @@
 | 104 | Xinjiang TV 8 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.181:5140> |
 | 105 | Xinjiang TV 9 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.153:5140> |
 | 106 | Xinjiang TV 12 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.185:5140> |
-| 107 | Xizang TV Tibetan | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.94:5140> |
+| 107 | Xizang TV Tibetan (720p) [Not 24/7] | php.jdshipin.com:8880 | <http://php.jdshipin.com:8880/xztv.php?id=zy> |
 | 108 | Yanbian Cinese Comprehensive Channel | 延边广播电视台 | <https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8> |
 | 109 | Yicai TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.165:5140> |
 | 110 | Zhejiang Satellite TV | 浙江广播电视集团 | <https://play-qukan.cztv.com/live/1758879019692345.m3u8> |
@@ -179,7 +179,7 @@
 | 171 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 172 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 
-Updated at **1/29/2026 12:47:56 AM**
+Updated at **1/30/2026 12:52:13 AM**
 
 ## 使用说明
 
