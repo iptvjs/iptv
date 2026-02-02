@@ -450,8 +450,9 @@
 | 442 | 黑龙江 (1080p) | 中国移动江苏 | <http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8> |
 | 443 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 444 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
+| 445 | CCTV-13 (1080p) | cdn3.163189.xyz | <https://cdn3.163189.xyz/163189/cctv13> |
 
-Updated at **2/2/2026 12:38:13 AM**
+Updated at **2/3/2026 12:51:00 AM**
 
 ## 使用说明
 
