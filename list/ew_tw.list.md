@@ -72,7 +72,7 @@
 | 64 | [BD]镜新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8> |
 | 65 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **2/15/2026 12:38:37 AM**
+Updated at **2/16/2026 12:39:14 AM**
 
 ## 使用说明
 
