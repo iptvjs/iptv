@@ -9,12 +9,12 @@
 | 1 | [HD]awsn | stream1.freetv.fun | <https://stream1.freetv.fun/b28809baf943307ea143fcf4e0773287dbd2ca8c4ef139f68d874de253982bbd.m3u8> |
 | 2 | [BD]animax | stream1.freetv.fun | <https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8> |
 | 3 | [HD]c plus | stream1.freetv.fun | <https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8> |
-| 4 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv> |
+| 4 | [HD]cctv-1hd | stream1.freetv.fun | <https://stream1.freetv.fun/fb9d0546553a21c4591a86f298dad5f4b1556dc13b03d1aaa1c17d787f27678e.m3u8> |
 | 5 | [BD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv> |
 | 6 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/fffa9b4b6a4539df195d4b8c1828935463fe5defab455f29605724faab3716f9.ctv> |
 | 7 | [BD]movie music | stream1.freetv.fun | <https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8> |
 | 8 | [SD]popc | stream1.freetv.fun | <https://stream1.freetv.fun/042eae6d3b9c3ec98633a99dc18b0fa634aefce6b2be2c9c4764fde0abef16e7.ctv> |
-| 9 | [HD]rthk31 | stream1.freetv.fun | <https://stream1.freetv.fun/bcd3e759b0c9f8807280e9cb8fc50c6919ffad577b1d5d21f392f601d93301bc.ctv> |
+| 9 | [BD]RTHK31 *sg | stream1.freetv.fun | <https://stream1.freetv.fun/a81da3fd66f335a20dea0f69a288eb2265d3ecba5d529e154b1429f9841c81d1.m3u8> |
 | 10 | [BD]RTHK32 *sg | stream1.freetv.fun | <https://stream1.freetv.fun/8c15a3ad248d22f171970a3b22dc7fe2d902bcad59980fbe45fab592f1b0e995.m3u8> |
 | 11 | [HD]ช่อง sky sports plus | stream1.freetv.fun | <https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8> |
 | 12 | [HD]atv plus | stream1.freetv.fun | <https://stream1.freetv.fun/f349080d4631a41e91634a88cf5f68af55a85a8239f6ecd5fd5ee69f611ba075.m3u8> |
@@ -36,7 +36,7 @@
 | 28 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8> |
 | 29 | [BD]凤凰香港 *sg | stream1.freetv.fun | <https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8> |
 
-Updated at **2/24/2026 1:07:01 AM**
+Updated at **2/25/2026 1:11:55 AM**
 
 ## 使用说明
 

@@ -17,7 +17,7 @@
 [HD]中视,rtmp://f13h.mine.nu/sat/tv091
 [HD]中视,rtmp://f13h.mine.nu:1935/sat/tv091
 [BD]原住民族电视,https://stream1.freetv.fun/22c5da7b5ac3a6d641b5139dd45ef88240a204734ee223eaaec7aee861817cfe.m3u8
-[HD]台视,rtmp://f13h.mine.nu/sat/tv071
+[HD]台视,rtmp://f13h.mine.nu:1935/sat/tv071
 [BD]国会_1,https://stream1.freetv.fun/97052e7e1481fa2710f5a32d8c5f18895fecc52bcb09a899e7a120f62942fcb7.m3u8
 [HD]国会_2,https://stream1.freetv.fun/63206fe434afcb684f00ac9f6fb1275b50f575403290e1e904bc182c4d3c7af3.m3u8
 [BD]东森美洲,https://stream1.freetv.fun/96f5eb7d5987eb91546d781906255ac91ecfa48cc0730ef819f64b17a04a65db.m3u8
@@ -69,7 +69,6 @@
 [BD]经典电影,https://stream1.freetv.fun/2468c7e34ca09c24e5c170085819e94e53b00bf19824b2c7064f62d1a7acdc78.m3u8
 
 新闻,#genre#
-[SD]fuji_tv_next,https://stream1.freetv.fun/20a70561e21f6503dc8b43fb21e68529db2ac4a0ef11ad4713cf603bef7b78ae.m3u8
 [BD]sbn全球财经,https://stream1.freetv.fun/2bf3aa4eb699bd58c4974de5075bb6348d24de7a8fbab9132adad5d1b789a5c6.m3u8
 [BD]三立inews,https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
 [BD]中天新闻,https://stream1.freetv.fun/ae5d52a5c49891c28f1a39ea6b9fc0d67e3e7f02e100b9bf1ff1dc7cc5fa4662.m3u8

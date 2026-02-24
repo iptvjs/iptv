@@ -43,8 +43,6 @@ rtmp://f13h.mine.nu/sat/tv761
 https://stream1.freetv.fun/40581a200c60865376b0078f5f84d1b941bc3f30fb0bf15e5ae7ae62429bcef1.m3u8
 #EXTINF:-1 tvg-name="NICE TV" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2020/10/01/large/20201001123754394603_13.png" group-title="其它",[BD]unife tv
 https://stream1.freetv.fun/b5145507cf4ca357be01b3196cb35f22b355225e901eed2b3a7483daefccb26d.m3u8
-#EXTINF:-1 tvg-name="Next TV" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png" group-title="新闻",[SD]fuji tv next
-https://stream1.freetv.fun/20a70561e21f6503dc8b43fb21e68529db2ac4a0ef11ad4713cf603bef7b78ae.m3u8
 #EXTINF:-1 tvg-name="PET CLUB TV" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png" group-title="其它",[BD]ช่อง pet club
 https://stream1.freetv.fun/a91b7494c4bda4ce9c69b2ef08b2605bdbc297220da35632809bcf0e90bc48af.m3u8
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png" group-title="综艺",[BD]rock entertainment
@@ -80,7 +78,7 @@ https://stream1.freetv.fun/9f76ad62b7ac59970b10e209f250df382971823ed12f12459c11d
 #EXTINF:-1 tvg-name="原住民电视" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711214934958973_74.png" group-title="综合",[BD]原住民族电视
 https://stream1.freetv.fun/22c5da7b5ac3a6d641b5139dd45ef88240a204734ee223eaaec7aee861817cfe.m3u8
 #EXTINF:-1 tvg-name="台视HD" tvg-id="460808" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092817835507_62.png" group-title="综合",[HD]台视
-rtmp://f13h.mine.nu/sat/tv071
+rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-name="台视新闻FHD" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png" group-title="新闻",[BD]台视新闻
 https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8
 #EXTINF:-1 tvg-name="国会频道1" tvg-id="" tvg-country="台湾" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513171825260672_88.jpg" group-title="综合",[BD]国会 1
