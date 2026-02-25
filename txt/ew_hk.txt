@@ -3,11 +3,23 @@
 [HD]ช่อง_sky_sports_plus,https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8
 [BD]nbc_sports_now,https://stream1.freetv.fun/259f8cf0c66ab8638ca593f2d185133facfc4ec0c5d6306e1188fe42440e0fcc.m3u8
 
+电影,#genre#
+[BD][id]_axn,https://stream1.freetv.fun/3a52e6b7da108178c63c505b39eadb233d0f0ad7072de0a87b32197e506713d9.ctv
+[BD]movie_music,https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8
+[SD]popc,https://stream1.freetv.fun/042eae6d3b9c3ec98633a99dc18b0fa634aefce6b2be2c9c4764fde0abef16e7.ctv
+[BD]tvbs亚洲,https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
+[BD]tvb星河,https://stream1.freetv.fun/1014774338dd6fcc6e3c0358712f55964ae23ffb1c8ff3a246979c2583fadff1.ctv
+[BD]TVB_翡翠台_*sg,https://stream1.freetv.fun/1fd385566e3e98d4ed278cd58366e1437d6f8126c643614886559c91b243fe9f.m3u8
+[BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
+[SD]凤凰电影,https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8
+
 儿童,#genre#
-[BD]animax,https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8
+[BD][id]_animax,https://stream1.freetv.fun/16ab65c3fd0ed4f044113e279310d650bb4c56889970065a7731378fda53e301.ctv
 
 综艺,#genre#
 [HD]c_plus,https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8
+[BD][id]_channel_v,https://stream1.freetv.fun/375d25fabff8a09ff417727ef9e09ae1b6f5c8dbcea7e46c5e5aa83cda34f757.ctv
+[BD][id]_kix,https://stream1.freetv.fun/6db62c6496e1494122a0ce5f6c0e164dadac1092d95e1495c1bd8dd35f0a78d3.ctv
 [BD]RTHK31_*sg,https://stream1.freetv.fun/a81da3fd66f335a20dea0f69a288eb2265d3ecba5d529e154b1429f9841c81d1.m3u8
 [HD]atv_plus,https://stream1.freetv.fun/f349080d4631a41e91634a88cf5f68af55a85a8239f6ecd5fd5ee69f611ba075.m3u8
 [BD]viutv,https://stream1.freetv.fun/566447a554a11bb540e5e37ea32162caa2959fefd3707625f70de6ac96255364.ctv
@@ -23,15 +35,6 @@
 
 知识,#genre#
 [BD]discovery_kids,https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv
-
-电影,#genre#
-[BD]movie_music,https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8
-[SD]popc,https://stream1.freetv.fun/042eae6d3b9c3ec98633a99dc18b0fa634aefce6b2be2c9c4764fde0abef16e7.ctv
-[BD]tvbs亚洲,https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8
-[BD]tvb星河,https://stream1.freetv.fun/1014774338dd6fcc6e3c0358712f55964ae23ffb1c8ff3a246979c2583fadff1.ctv
-[BD]TVB_翡翠台_*sg,https://stream1.freetv.fun/1fd385566e3e98d4ed278cd58366e1437d6f8126c643614886559c91b243fe9f.m3u8
-[BD]明珠,https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
-[SD]凤凰电影,https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8
 
 其它,#genre#
 [BD]snap,https://stream1.freetv.fun/1dad0882045d6c9065bc63bc343aeb79d12a7bc07104336818f2b841c1fae70b.m3u8
