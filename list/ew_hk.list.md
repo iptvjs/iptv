@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]animax | stream1.freetv.fun | <https://stream1.freetv.fun/725a37205cd0317bb462f4a974c27c498f25a0c40d23545481e551c2b916379b.m3u8> |
 | 2 | [HD]c plus | stream1.freetv.fun | <https://stream1.freetv.fun/32345d09e1f050cce33ecccc9c803cc97866cc36ddd83a8cca5395d0cd5ed20e.m3u8> |
-| 3 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv> |
+| 3 | [VGA]cctv1综合 | stream1.freetv.fun | <https://stream1.freetv.fun/5ea694dedf81eabc3a9363cac99632afadb3d416016b833315847e5d1ee5dd3e.ctv> |
 | 4 | [BD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv> |
 | 5 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/fffa9b4b6a4539df195d4b8c1828935463fe5defab455f29605724faab3716f9.ctv> |
 | 6 | [BD]movie music | stream1.freetv.fun | <https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8> |
@@ -38,7 +38,7 @@
 | 30 | [BD]凤凰香港 *sg | stream1.freetv.fun | <https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8> |
 | 31 | [HD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/f12e3b9290373db53f8f62b0c3cd8d2ef03e9422865547a4a518bb6547160c7b.ctv> |
 
-Updated at **3/4/2026 12:57:46 AM**
+Updated at **3/5/2026 12:55:32 AM**
 
 ## 使用说明
 
