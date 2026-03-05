@@ -12,7 +12,7 @@
 | 4 | [BD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv> |
 | 5 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/fffa9b4b6a4539df195d4b8c1828935463fe5defab455f29605724faab3716f9.ctv> |
 | 6 | [BD]movie music | stream1.freetv.fun | <https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8> |
-| 7 | [BD]popc电影 | stream1.freetv.fun | <https://stream1.freetv.fun/464e43fff89d0caa900172937c2f1d2dad1ffc2d17e91c903dae42f3b8673975.ctv> |
+| 7 | [SD]popc | stream1.freetv.fun | <https://stream1.freetv.fun/042eae6d3b9c3ec98633a99dc18b0fa634aefce6b2be2c9c4764fde0abef16e7.ctv> |
 | 8 | [HD]rthk31 | stream1.freetv.fun | <https://stream1.freetv.fun/bcd3e759b0c9f8807280e9cb8fc50c6919ffad577b1d5d21f392f601d93301bc.ctv> |
 | 9 | [HD]rthk32 | stream1.freetv.fun | <https://stream1.freetv.fun/e42fb110283fcb1befbda834ed93046b948ab8ecf4fa35c482c0296e220b7fc0.ctv> |
 | 10 | [HD]ช่อง sky sports plus | stream1.freetv.fun | <https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8> |
@@ -38,7 +38,7 @@
 | 30 | [BD]凤凰香港 *sg | stream1.freetv.fun | <https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8> |
 | 31 | [HD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/f12e3b9290373db53f8f62b0c3cd8d2ef03e9422865547a4a518bb6547160c7b.ctv> |
 
-Updated at **3/5/2026 12:55:32 AM**
+Updated at **3/6/2026 2:10:39 AM**
 
 ## 使用说明
 
