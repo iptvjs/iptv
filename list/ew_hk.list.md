@@ -34,7 +34,7 @@
 | 26 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv> |
 | 27 | [BD]凤凰香港 *sg | stream1.freetv.fun | <https://stream1.freetv.fun/9b8c3d71546b4dd10e2ff194bdb79941d8455270835e35027622d509742ff377.m3u8> |
 
-Updated at **3/18/2026 1:10:24 AM**
+Updated at **3/19/2026 1:10:25 AM**
 
 ## 使用说明
 
