@@ -311,7 +311,7 @@
 | 303 | 篮球资讯 (576p) | IPv4 直链 | <http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8> |
 | 304 | 娄底综合 (720p) | IPv4 直链 | <http://119.39.242.52:1935/live/zonghe/playlist.m3u8> |
 | 305 | 精品电影 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/jdianying/jdianying> |
-| 306 | 红牛REDBULL TV (720p) | rbmn-live.akamaized.net | <https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8> |
+| 306 | Red Bull TV SD (720p) | rbmn-live.akamaized.net | <https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8> |
 | 307 | 纪实人文 (1080p) | IPv4 直链 | <http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8> |
 | 308 | 纯享4K (2160p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8> |
 | 309 | 继续教育 (576p) | IPv4 直链 | <http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8> |
@@ -383,7 +383,7 @@
 | 375 | 黑龙江卫 (1080p) | IPv4 直链 | <http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv> |
 | 376 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **3/21/2026 12:53:38 AM**
+Updated at **3/22/2026 12:38:15 AM**
 
 ## 使用说明
 
