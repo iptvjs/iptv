@@ -35,8 +35,6 @@ http://123.175.209.52:9003/hls/8/index.m3u8
 http://123.175.209.52:9003/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="Documentary",CCTV-9 (2160p)
 http://123.175.209.52:9003/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10 (2160p)
-http://123.175.209.52:9003/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="Music",CCTV-11 (576p)
 http://123.175.209.52:9003/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="Lifestyle",CCTV-12 (2160p)

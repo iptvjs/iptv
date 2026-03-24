@@ -135,7 +135,6 @@ QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 
 Education,#genre#
 CCTV-7_(2160p),http://123.175.209.52:9003/hls/8/index.m3u8
-CCTV-10_(2160p),http://123.175.209.52:9003/hls/11/index.m3u8
 CETV1_(576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 CETV2_(576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 Channel_Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
