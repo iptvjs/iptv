@@ -97,6 +97,8 @@ http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-id="QTV6.cn@SD",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@SD",Red Bull TV SD (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="ShaanxiAgroforestrySatelliteTV.cn@SD",Shaanxi Agroforestry Satellite TV
 http://49.113.179.174:4022/udp/238.125.4.154:5140
 #EXTINF:-1 tvg-id="ShandongEducationTV.cn@SD",Shandong Education TV
@@ -115,13 +117,13 @@ http://49.113.179.174:4022/udp/238.125.2.142:5140
 http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="STVNewsandGeneral.cn@SD",STV News and General
 http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 tvg-id="TonghuaTV.cn@SD",Tonghua TV
+#EXTINF:-1 tvg-id="TonghuaTV.cn@SD",Tonghua TV (1080p)
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-id="ToonmaxTV.cn@SD",Toonmax TV
 http://49.113.179.174:4022/udp/238.125.4.28:5140
 #EXTINF:-1 tvg-id="UgoShopTV.cn@SD",Ugo Shop TV
 http://49.113.179.174:4022/udp/238.125.4.184:5140
-#EXTINF:-1 tvg-id="VoATVChina.cn@SD",VOA美国之音
+#EXTINF:-1 tvg-id="VoATVChina.cn@SD",VOA美国之音 (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldEconomyChannel.cn@SD",World Economy Channel
 http://49.113.179.174:4022/udp/238.125.2.205:5140
@@ -609,8 +611,6 @@ http://223.110.245.139/PLTV/4/224/3221227023/index.m3u8
 http://119.39.242.52:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="",精品电影 (1080p)
 http://183.207.248.71/cntv/live1/jdianying/jdianying
-#EXTINF:-1 tvg-id="RedBullTV.at@SD",Red Bull TV SD (720p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="DocumentaryHumanitiesChannel.cn@SD",纪实人文 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="",纯享4K (2160p)
