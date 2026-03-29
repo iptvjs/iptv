@@ -31,7 +31,7 @@
 | 23 | [BD]unife tv | stream1.freetv.fun | <https://stream1.freetv.fun/c51b8f7c9dee5b5dfa9e03a30e2efbeef76ef187cd056f9e88e39533c6ee94be.m3u8> |
 | 24 | [BD]ช่อง pet club | stream1.freetv.fun | <https://stream1.freetv.fun/a91b7494c4bda4ce9c69b2ef08b2605bdbc297220da35632809bcf0e90bc48af.m3u8> |
 | 25 | [BD]rock entertainment | stream1.freetv.fun | <https://stream1.freetv.fun/120e7a75c09373368fa9338e9a2e3db8f4e5e1481abe89ca2ddc0eeb99b58175.m3u8> |
-| 26 | [VGA]rock | stream1.freetv.fun | <https://stream1.freetv.fun/73a0592f5f92e7875e7aca88572eeb60a4f95f3d6f1a251248da8892a863d751.m3u8> |
+| 26 | [BD]rock | stream1.freetv.fun | <https://stream1.freetv.fun/73a0592f5f92e7875e7aca88572eeb60a4f95f3d6f1a251248da8892a863d751.m3u8> |
 | 27 | [BD]sbn全球财经 | stream1.freetv.fun | <https://stream1.freetv.fun/2bf3aa4eb699bd58c4974de5075bb6348d24de7a8fbab9132adad5d1b789a5c6.m3u8> |
 | 28 | [HD]smithsonian channel pluto tv | stream1.freetv.fun | <https://stream1.freetv.fun/554ade631925d60d635bd9cfd88db9926af56dff9bf1c226bcf5181ac89b09dd.m3u8> |
 | 29 | [HD]gold star | stream1.freetv.fun | <https://stream1.freetv.fun/63600a71ad76448e69fc83a8d3c9bf63fb3b43635ffdb15edd4f65b03cc02d29.m3u8> |
@@ -98,7 +98,7 @@
 | 90 | [HD]纬来育乐 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv701> |
 | 91 | [BD]纬来电影 | stream1.freetv.fun | <https://stream1.freetv.fun/6ee5add35f17636335d588a540b414b2fd821cfba301bef804299d9387324ce1.ctv> |
 | 92 | [HD]纬来体育 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv721> |
-| 93 | [BD]美亚电影 *28 | stream1.freetv.fun | <https://stream1.freetv.fun/8ed556d15dd266a00b0119bcaf0f61f83555eb1e40964076eb79dbb654663287.ctv> |
+| 93 | [HD]美亚电影 *28 | stream1.freetv.fun | <https://stream1.freetv.fun/8ed556d15dd266a00b0119bcaf0f61f83555eb1e40964076eb79dbb654663287.ctv> |
 | 94 | [BD]台视新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/ffa3a8fc52b4834c300b3587a667310b5eb8a46d000498709791be4bd1799514.m3u8> |
 | 95 | [BD]台视综合 | stream1.freetv.fun | <https://stream1.freetv.fun/ade964bb3257fe87dfd674a4d637fec20f26cf49bf91e7a4bb8459c711283d4d.m3u8> |
 | 96 | [BD]台视财经 | stream1.freetv.fun | <https://stream1.freetv.fun/e2331640734e3da0f0ea18e4021f6d8ce8247924af42ed34d282c4aa1c0e1dbd.m3u8> |
@@ -120,7 +120,7 @@
 | 112 | [BD]龙华经典 *b | stream1.freetv.fun | <https://stream1.freetv.fun/4e122ffecac69bbab2b83c2a0af88a9e65cb34da2eb393b62fe0169ed6157bfa.ctv> |
 | 113 | [BD]龙华电影 *b | stream1.freetv.fun | <https://stream1.freetv.fun/890a2f4d66593bb51749c90826814911941e2ad758c5d4528ceb2785ddf0a37f.ctv> |
 
-Updated at **3/29/2026 12:42:11 AM**
+Updated at **3/30/2026 12:42:50 AM**
 
 ## 使用说明
 
