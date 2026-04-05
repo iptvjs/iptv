@@ -28,7 +28,7 @@
 | 20 | CCTV-12 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/13/index.m3u8> |
 | 21 | CCTV-13新闻 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/14/index.m3u8> |
 | 22 | CCTV-15 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/16/index.m3u8> |
-| 23 | CCTV-16 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/17/index.m3u8> |
+| 23 | CCTV-16 | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 | 24 | CCTV-17 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/18/index.m3u8> |
 | 25 | CETV1 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV> |
 | 26 | CETV2 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV> |
@@ -156,7 +156,7 @@
 | 148 | 鹤壁新闻综合 (480p) [Not 24/7] | pili-live-hls.hebitv.com | <http://pili-live-hls.hebitv.com/hebi/hebi.m3u8> |
 | 149 | 黑龙江卫视 (2160p) | IPv4 直链 | <http://118.81.195.79:9003/hls/31/index.m3u8> |
 
-Updated at **4/5/2026 12:44:50 AM**
+Updated at **4/6/2026 12:44:47 AM**
 
 ## 使用说明
 
