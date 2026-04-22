@@ -755,3 +755,5 @@ http://118.81.195.79:9003/hls/31/index.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn@SD",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD",CCTV-5+ (576i)
+http://69.30.246.194/live/cctv5p.m3u8
