@@ -6,21 +6,21 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [HD]awsn | stream1.freetv.fun | <https://stream1.freetv.fun/b28809baf943307ea143fcf4e0773287dbd2ca8c4ef139f68d874de253982bbd.m3u8> |
+| 1 | [SD]awsn | stream1.freetv.fun | <https://stream1.freetv.fun/b28809baf943307ea143fcf4e0773287dbd2ca8c4ef139f68d874de253982bbd.m3u8> |
 | 2 | [BD]cctv-9纪录 | stream1.freetv.fun | <https://stream1.freetv.fun/bac2107c8204c290efc6c6224146418641af787e31995157d64d567afbc00279.ctv> |
-| 3 | [HD]fifa plus united states | stream1.freetv.fun | <https://stream1.freetv.fun/bf89cdb0e4c4e7495ee37052b0157c5cb8bcfdfcc6db77bf0b17bb9e3f4b3415.m3u8> |
-| 4 | [BD]cctv-1 | stream1.freetv.fun | <https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8> |
-| 5 | [HD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv> |
-| 6 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/46e229877cf43dbe3bb518a02d3f4dbd2b2288cf9b54b191145786eebf1a2648.ctv> |
-| 7 | [BD]kix | stream1.freetv.fun | <https://stream1.freetv.fun/482fc1351cc36a139ebaf7306f56cab38b03d890c05a5482b22063d369702565.m3u8> |
-| 8 | [BD]movie music | stream1.freetv.fun | <https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8> |
-| 9 | [BD]now新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8> |
-| 10 | [HD]rthk 31 | stream1.freetv.fun | <https://stream1.freetv.fun/d7d6ff5be0279cf81d1f76acf708cc8c4f234aa7fc67009fff694fcff34f2601.ctv> |
-| 11 | [HD]rthk 32 | stream1.freetv.fun | <https://stream1.freetv.fun/6293c65392dc2022f8a7b1f492f09dc41eea5a09ebe9c8ef1ec3a0d9c4065b69.ctv> |
-| 12 | [HD]ช่อง sky sports plus | stream1.freetv.fun | <https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8> |
-| 13 | [HD]tigo sports plus | stream1.freetv.fun | <https://stream1.freetv.fun/0cb3dfa6cb8b32968c0883eb088f15d582d5a03dc63c4b43b2aa615ed80f9698.m3u8> |
-| 14 | [BD]tvb plus | stream1.freetv.fun | <https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.m3u8> |
-| 15 | [BD]mytvsuperfree | stream1.freetv.fun | <https://stream1.freetv.fun/cc5d745a79a952d4653d98641e6f32ad26ef42007038ee552b80cd2cc2f2d339.m3u8> |
+| 3 | [BD]Bein Sports 1 *tv | stream1.freetv.fun | <https://stream1.freetv.fun/10b3e0ca5433535458c02e7956c9853a1a621cb80b985c77a6dfbe57c80fc1c1.ctv> |
+| 4 | [HD]fifa plus united states | stream1.freetv.fun | <https://stream1.freetv.fun/bf89cdb0e4c4e7495ee37052b0157c5cb8bcfdfcc6db77bf0b17bb9e3f4b3415.m3u8> |
+| 5 | [BD]cctv-1 | stream1.freetv.fun | <https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.m3u8> |
+| 6 | [HD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.ctv> |
+| 7 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/46e229877cf43dbe3bb518a02d3f4dbd2b2288cf9b54b191145786eebf1a2648.ctv> |
+| 8 | [BD]kix | stream1.freetv.fun | <https://stream1.freetv.fun/482fc1351cc36a139ebaf7306f56cab38b03d890c05a5482b22063d369702565.m3u8> |
+| 9 | [BD]movie music | stream1.freetv.fun | <https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8> |
+| 10 | [BD]now新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8> |
+| 11 | [HD]rthk 31 | stream1.freetv.fun | <https://stream1.freetv.fun/d7d6ff5be0279cf81d1f76acf708cc8c4f234aa7fc67009fff694fcff34f2601.ctv> |
+| 12 | [HD]rthk 32 | stream1.freetv.fun | <https://stream1.freetv.fun/6293c65392dc2022f8a7b1f492f09dc41eea5a09ebe9c8ef1ec3a0d9c4065b69.ctv> |
+| 13 | [HD]ช่อง sky sports plus | stream1.freetv.fun | <https://stream1.freetv.fun/c7c938e0400853bc3ef002eb4f5f9dcb6342ea669dab8fb17101b2997266a35c.m3u8> |
+| 14 | [HD]tigo sports plus | stream1.freetv.fun | <https://stream1.freetv.fun/0cb3dfa6cb8b32968c0883eb088f15d582d5a03dc63c4b43b2aa615ed80f9698.m3u8> |
+| 15 | [BD]tvb plus | stream1.freetv.fun | <https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.m3u8> |
 | 16 | [BD]tvbs亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/5d67b3e9131d07f6e7da4e6fafda09cc609ee7fefb2e14ca14cf5bd6da5e4107.m3u8> |
 | 17 | [BD]tvb娱乐新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/c869f13d7c9eed034a5c88d48a7712e1f291271efc3b4fd5f3465ba8cbdd6a17.ctv> |
 | 18 | [BD]tvb星河 | stream1.freetv.fun | <https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv> |
@@ -43,7 +43,7 @@
 | 35 | [BD]凤凰卫视资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv> |
 | 36 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/1adc080c2a2e1019875ad56cd3e5093054475d1f818d2973262d3492d8a74306.m3u8> |
 
-Updated at **4/22/2026 10:28:14 AM**
+Updated at **4/23/2026 10:31:21 AM**
 
 ## 使用说明
 
