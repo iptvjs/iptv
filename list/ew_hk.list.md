@@ -41,7 +41,7 @@
 | 33 | [HD]凤凰卫视资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/c3ea4ea86c58594aa80ca15cbc03968e7481243ea39ad553e617442c6017362a.m3u8> |
 | 34 | [HD]凤凰卫视香港 | stream1.freetv.fun | <https://stream1.freetv.fun/befd2cea5524857b26687c6c5ede8b698f02c45d4ae98400ee0fdf0b7f358de1.m3u8> |
 
-Updated at **4/27/2026 10:39:09 AM**
+Updated at **4/28/2026 10:46:50 AM**
 
 ## 使用说明
 
