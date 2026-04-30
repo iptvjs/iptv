@@ -8,24 +8,9 @@
 | --- | ------------ | ---- | ------ |
 | 1 | CCTV+ 1 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8> |
 | 2 | CCTV+ 2 (600p) [Not 24/7] | CCTV+ | <https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8> |
-| 3 | CCTV-1 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/1/index.m3u8> |
-| 4 | CCTV-2 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/2/index.m3u8> |
-| 5 | CCTV-3 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/3/index.m3u8> |
-| 6 | CCTV-4 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/4/index.m3u8> |
-| 7 | CCTV-4 America (1080p) | global.cgtn.cicc.media.caton.cloud | <https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8> |
-| 8 | CCTV-5 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/5/index.m3u8> |
-| 9 | CCTV-5+ (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/6/index.m3u8> |
-| 10 | CCTV-6 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/7/index.m3u8> |
-| 11 | CCTV-7 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/8/index.m3u8> |
-| 12 | CCTV-8 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/9/index.m3u8> |
-| 13 | CCTV-9 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/10/index.m3u8> |
-| 14 | CCTV-11 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/12/index.m3u8> |
-| 15 | CCTV-12 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/13/index.m3u8> |
-| 16 | CCTV-13新闻 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/14/index.m3u8> |
-| 17 | CCTV-15 (576p) | IPv4 直链 | <http://123.175.209.52:9003/hls/16/index.m3u8> |
-| 18 | CCTV-17 (2160p) | IPv4 直链 | <http://123.175.209.52:9003/hls/18/index.m3u8> |
+| 3 | CCTV-4 America (1080p) | global.cgtn.cicc.media.caton.cloud | <https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8> |
 
-Updated at **4/29/2026 10:46:24 AM**
+Updated at **4/30/2026 10:47:47 AM**
 
 ## 使用说明
 
