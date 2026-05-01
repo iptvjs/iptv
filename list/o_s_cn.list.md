@@ -386,7 +386,7 @@
 | 378 | CCTV-9 (576i) | xykt-fix.github.io | <https://xykt-fix.github.io/Y77.m3u8> |
 | 379 | CCTV-5+ (576i) | IPv4 直链 | <http://69.30.246.194/live/cctv5p.m3u8> |
 
-Updated at **4/30/2026 10:47:47 AM**
+Updated at **5/1/2026 10:54:19 AM**
 
 ## 使用说明
 
