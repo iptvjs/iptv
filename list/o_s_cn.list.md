@@ -385,8 +385,10 @@
 | 377 | CCTV-16 | IPv4 直链 | <http://74.91.26.218:82/live/cctv16hd.m3u8> |
 | 378 | CCTV-9 (576i) | xykt-fix.github.io | <https://xykt-fix.github.io/Y77.m3u8> |
 | 379 | CCTV-5+ (576i) | IPv4 直链 | <http://69.30.246.194/live/cctv5p.m3u8> |
+| 380 | CCTV-4K (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv4k.m3u8> |
+| 381 | CCTV-8K (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv8k.m3u8> |
 
-Updated at **5/8/2026 10:48:31 AM**
+Updated at **5/9/2026 10:43:02 AM**
 
 ## 使用说明
 
