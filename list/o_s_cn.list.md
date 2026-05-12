@@ -388,7 +388,7 @@
 | 380 | CCTV-4K (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv4k.m3u8> |
 | 381 | CCTV-8K (1080p) | IPv4 直链 | <http://198.204.240.250:82/live/cctv8k.m3u8> |
 
-Updated at **5/11/2026 10:57:41 AM**
+Updated at **5/12/2026 10:49:44 AM**
 
 ## 使用说明
 
