@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]dazn1 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv731> |
 | 2 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
-| 3 | [VGA]中天新闻 | vip.huahong.pro | <rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2> |
+| 3 | [VGA]中天新闻 | home.aceimage.cn | <rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw> |
 | 4 | [HD]中视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv091> |
 | 5 | [HD]台视 | f13h.mine.nu:1935 | <rtmp://f13h.mine.nu:1935/sat/tv071> |
 | 6 | [HD]东森超视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv331> |
@@ -19,7 +19,7 @@
 | 11 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 | 12 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **5/15/2026 10:57:43 AM**
+Updated at **5/16/2026 10:46:12 AM**
 
 ## 使用说明
 

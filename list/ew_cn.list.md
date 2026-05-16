@@ -20,7 +20,7 @@
 | 12 | [BD]重庆卫视超高清 | stream1.freetv.fun | <https://stream1.freetv.fun/c2a65cf8328342868e7968488a2d9f5459f384ce97480c886b75ffed9cfe32ea.ctv> |
 | 13 | [BD]黑龙江卫视超高清 | stream1.freetv.fun | <https://stream1.freetv.fun/a2c8795818cae8840bfdde3c397185240df54b49a4224b15e2c052212a071e0b.ctv> |
 
-Updated at **5/15/2026 10:57:43 AM**
+Updated at **5/16/2026 10:46:12 AM**
 
 ## 使用说明
 
