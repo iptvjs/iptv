@@ -1,27 +1,3 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="CCTV14" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001539178535_27.png" group-title="儿童",[BD]cctv-14少儿高清
-https://stream1.freetv.fun/325a561c81b72685a281cc925810f02df963f9664ffe6328859d35263b1008c7.ctv
-#EXTINF:-1 tvg-name="CCTV娱乐" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/02/26/large/20220226151850262470_33.png" group-title="其它",[SD]cqtv娱乐
-https://stream1.freetv.fun/489bf698123023beca43b79a2f962cc7ba501874ab0390fc8060d89bd26fc4aa.ctv
-#EXTINF:-1 tvg-name="四川卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/28/large/20220528220452110808_30.jpg" group-title="综合",[BD]四川卫视超高清
-https://stream1.freetv.fun/1573c8c123f8db1b2922b0cdeed2bacb80bc0eed5a66f4d6d1bf992e777b409a.ctv
-#EXTINF:-1 tvg-name="天津卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2026/02/26/large/20260226025419139967_11.jpg" group-title="综合",[BD]天津卫视超高清
-https://stream1.freetv.fun/6260f5f628521529429b0e9e43093404cddf3940862cf64db6de37a244b0dd20.ctv
-#EXTINF:-1 tvg-name="山东卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206010643232132_38.jpg" group-title="综合",[BD]山东卫视超高清
-https://stream1.freetv.fun/a12c17cb773ddf14320bfa7b1a368cd7e6ae492e7eb3a1ac97a90c29324de35d.ctv
-#EXTINF:-1 tvg-name="新疆卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531160954230977_59.jpg" group-title="综合",[BD]新疆卫视高清
-https://stream1.freetv.fun/a8048d3e606033ec1ad5420f6831871a15e40b6e402e2dee64a84d9180e0ffe8.ctv
-#EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055858539901_84.jpg" group-title="综合",[BD]东南卫视超高清
-https://stream1.freetv.fun/f699940af479b8d4470d2dbcd67a48e99b5b33faae956a3e2b657d9b56c8324f.ctv
-#EXTINF:-1 tvg-name="江苏卫视(B)" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/12/31/large/20241231173306457410_14.png" group-title="综合",[BD]江苏卫视超高清
-https://stream1.freetv.fun/ca5f6d6f8bb5bffa7ceac2ec10271b859e37bf08759e2a0cb3d5f5a3188cd63e.ctv
-#EXTINF:-1 tvg-name="浙江卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226202302784448_86.png" group-title="综合",[BD]浙江卫视超高清
-https://stream1.freetv.fun/94b49aa37933316ca6f94b3fc74f17fa12a80a9d5b9249bd592169ac236a6f66.ctv
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060733782674_48.jpg" group-title="综合",[BD]辽宁卫视高清
-https://stream1.freetv.fun/187a5e75f83b6de2ffd8d0b6e9517e83a775b425c3eb6d30f4edb32eb43d7e0c.ctv
-#EXTINF:-1 tvg-name="重庆新闻" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/28/large/20220528101327496903_71.jpg" group-title="新闻",[BD]重庆新闻超高清
-https://stream1.freetv.fun/32207f2aa243afa5418ab4d803b324e19feca2e24d34662e4567b40c153d1824.ctv
-#EXTINF:-1 tvg-name="重庆卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2024/03/11/large/20240311111314058451_54.png" group-title="综合",[BD]重庆卫视超高清
-https://stream1.freetv.fun/c2a65cf8328342868e7968488a2d9f5459f384ce97480c886b75ffed9cfe32ea.ctv
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/31/large/20220531154335673922_21.jpg" group-title="综合",[BD]黑龙江卫视超高清
-https://stream1.freetv.fun/a2c8795818cae8840bfdde3c397185240df54b49a4224b15e2c052212a071e0b.ctv
+#EXTINF:-1 tvg-name="内江综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722142242811328_18.png" group-title="综合",[HD]内江新闻
+rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800
