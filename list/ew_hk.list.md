@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [BD]爆谷 | oc-play-ali.vipkid.com.cn | <rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-bg> |
 
-Updated at **5/17/2026 10:55:15 AM**
+Updated at **5/18/2026 11:33:09 AM**
 
 ## 使用说明
 

@@ -8,7 +8,7 @@
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]内江新闻 | njzb.scnj.tv:1938 | <rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800> |
 
-Updated at **5/17/2026 10:55:15 AM**
+Updated at **5/18/2026 11:33:09 AM**
 
 ## 使用说明
 
