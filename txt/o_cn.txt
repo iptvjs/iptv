@@ -145,7 +145,7 @@ CETV-4,http://49.113.179.174:4022/udp/238.125.3.92:5140
 
 Music,#genre#
 CCTV-11_(720p),http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-15_(720p),http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-15_(1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 
 Lifestyle,#genre#
 CCTV-12_(720p),http://74.91.26.218:82/live/cctv12hd.m3u8
