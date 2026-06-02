@@ -52,7 +52,7 @@
 | 44 | [BD]凤凰卫视香港 | stream1.freetv.fun | <https://stream1.freetv.fun/befd2cea5524857b26687c6c5ede8b698f02c45d4ae98400ee0fdf0b7f358de1.ctv> |
 | 45 | [BD]黄金华剧 | stream1.freetv.fun | <https://stream1.freetv.fun/bedd12b5e35ca590f97dba15b55825b71c6a066cc95328f49b2d92c23927b910.m3u8> |
 
-Updated at **6/1/2026 11:54:49 AM**
+Updated at **6/2/2026 11:48:11 AM**
 
 ## 使用说明
 
