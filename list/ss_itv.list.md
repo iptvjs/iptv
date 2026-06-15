@@ -10,7 +10,7 @@
 | 2 | 山西卫视 | IPv4 直链 | <http://59.32.97.20:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 3 | 老故事 | IPv4 直链 | <http://59.32.97.20:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **6/14/2026 11:55:10 AM**
+Updated at **6/15/2026 12:07:22 PM**
 
 ## 使用说明
 
