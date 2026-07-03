@@ -52,9 +52,7 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 央视台,#genre#
-CCTV-4K_高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1782964800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-85228fb22f0d60364544744dcf545b5b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8_电视剧,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV-9_纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=7dc23c604191a0c6042eeac7b6069c9c
 CCTV-11_戏曲,http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 
@@ -62,10 +60,11 @@ CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel06720Pnew.m3u8?auth_key=1782690919-a4e701fcca14f2eb9f49523a6892c69e-0-189d3d008d4965bbc39170a448069b93
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-重庆卫视,http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202607012106/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202607022202/app_2/_definst_/ls_2.stream/chunklist.m3u8
 江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1782690276&token=63790ba6-2f66-425e-934c-c0b23c9024ce&d=939da61343f04522a73cd2c09a09352f
 云南卫视,http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6260de8a657b9690378b0de17073af85&wsTime=1782713258
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/e61djg0.m3u8
+深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/c37hx4F.m3u8?sign=3b158240837c2e09fbb3365badee9796&t=6a41c43b
 陕西卫视,http://stream.snrtv.com/sxbc-nl-itHLO2.m3u8
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
