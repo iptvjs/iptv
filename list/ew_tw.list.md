@@ -80,7 +80,7 @@
 | 72 | [BD]靖天日本 | stream1.freetv.fun | <https://stream1.freetv.fun/1b95517f5fc23ba90bf67232144509d252065890fb0eee21550f00c578535c34.m3u8> |
 | 73 | [BD]靖洋戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/7787a5764bd4e59f73aa840265480746757412df1d4f3fad720d83a950ea9f14.ctv> |
 
-Updated at **7/4/2026 10:44:13 AM**
+Updated at **7/5/2026 10:54:47 AM**
 
 ## 使用说明
 
