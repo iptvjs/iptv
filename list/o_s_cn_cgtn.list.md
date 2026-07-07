@@ -13,7 +13,7 @@
 | 5 | CGTN Français (1080p) [Not 24/7] | CGTN | <https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8> |
 | 6 | CGTN Русский (1080p) | CGTN | <https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8> |
 
-Updated at **7/6/2026 11:22:03 AM**
+Updated at **7/7/2026 10:54:59 AM**
 
 ## 使用说明
 
