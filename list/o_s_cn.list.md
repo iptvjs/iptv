@@ -378,7 +378,7 @@
 | 370 | CGTN Spanish (720p) | IPv4 直链 | <http://45.165.82.19/test/index.m3u8> |
 | 371 | CND Film Middle School Channel | live-play.zxstv.com.cn | <http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8> |
 
-Updated at **7/9/2026 10:49:13 AM**
+Updated at **7/10/2026 10:51:51 AM**
 
 ## 使用说明
 
