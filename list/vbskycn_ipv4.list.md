@@ -25,7 +25,7 @@
 | 17 | 龙井 | 吉林广播电视台 | <http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild> |
 | 18 | 2026-06-18 00:16:17 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4> |
 
-Updated at **7/13/2026 10:36:27 AM**
+Updated at **7/14/2026 10:21:27 AM**
 
 ## 使用说明
 
