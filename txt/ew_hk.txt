@@ -1,5 +1,5 @@
 儿童,#genre#
-[VGA]Animax_*tv,https://stream1.freetv.fun/45c2b51eb52e9acebc3cbf03b8c3a68204fbac89a96a12ce66dce56a95fd70a3.ctv
+[HD]cctv-8电视剧,https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.m3u8
 
 新闻,#genre#
 [BD]cctv1,https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.m3u8
@@ -7,9 +7,6 @@
 [BD]hoy资讯,https://stream1.freetv.fun/d131ddf4da2e19800696e9c1b73383b83493d2604fe64afcf79555d98c74529c.ctv
 [BD]now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4fe5974ae97fdf4733ae72.ctv
 [BD]rthk32,https://stream1.freetv.fun/4e2f5ecdf24236f647b765089947b507cb0191011759d44788ee936dd194add6.ctv
-[HD]tvbe,https://stream1.freetv.fun/b775f67a6992e86c12b144ba190e88ca4b63216fbbc78e6bf624e1b36b977d8c.ctv
-[HD]无线新闻,https://stream1.freetv.fun/25778e00a8bafbf7b139b48e7716460ebf898e76eb28a2445dc4ae6c1222e664.ctv
-[BD]凤凰美洲,https://stream1.freetv.fun/76ef8c10f042b9142b669c599d0d59dd5f69b719026a656b6b04a6912a92a553.ctv
 [BD]凤凰卫视资讯,https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
 
 知识,#genre#
@@ -25,21 +22,18 @@
 [BD]林正英影院_*$,https://stream1.freetv.fun/34b9e858a6ac4dbf8019192458fe6c81c77298a350702158b8182ac937f47235.m3u8
 [SD]凤凰电影_*$,https://stream1.freetv.fun/857fbc509d99a650aa2fcc8378757a498c921707045def964734f7960accbe7b.m3u8
 
-运动,#genre#
-[BD]nw_sport_2,https://stream1.freetv.fun/613b0d2fabdd329a592ff036299f5b386fab2e8c5c5c13efcc4adee579ab072e.m3u8
-[BD]cowboy_plus_sports,https://stream1.freetv.fun/0b65b2e6bc0d268067903f464b33e747d82e541980bf3c77cdbc1ee6e488f1fe.m3u8
-
 综艺,#genre#
 [BD]rthk31,https://stream1.freetv.fun/bcd3e759b0c9f8807280e9cb8fc50c6919ffad577b1d5d21f392f601d93301bc.ctv
 [BD]atv_plus,https://stream1.freetv.fun/f349080d4631a41e91634a88cf5f68af55a85a8239f6ecd5fd5ee69f611ba075.m3u8
 [BD]viutv,https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.ctv
 [BD]星空卫视_*$,https://stream1.freetv.fun/c699f8d5e9d547dd164dd3f4990d2974ef3fa73b3f4f82678fa854610dd0edff.m3u8
 
+运动,#genre#
+[BD]cowboy_plus_sports,https://stream1.freetv.fun/0b65b2e6bc0d268067903f464b33e747d82e541980bf3c77cdbc1ee6e488f1fe.m3u8
+
 综合,#genre#
 [HD]tvb_drama,https://stream1.freetv.fun/f8e5d6a9e432820b8f7a922e6c4d6ad3d963432a02c9b6b70e494f00d2ba4f20.ctv
 [HD]tvbj1,https://stream1.freetv.fun/0ec81d9c93874ceecf668ef57b76e5a59ee66db6bb26e523b9a7e90af0f4b46a.ctv
-[BD]tvb1,https://stream1.freetv.fun/935e9f6d1ba863acafd54f259827f84ee495c53e881408641b0652a4be9f0664.ctv
-[BD]翡翠台_*$,https://stream1.freetv.fun/dc4e80b4f74d315950fd92efa35595ee23b4fe79f86c8087383c7881ab3c3a74.m3u8
 [BD]翡翠台,https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
 [SD]凤凰卫视_*$,https://stream1.freetv.fun/e97015914fc64fecfc8a09bd2c154c8a1caeffe59ab873bac4bbb7724e0c4058.m3u8
 [SD]凤凰中文_*$,https://stream1.freetv.fun/ed060b82f0c01e424bfccb36eb80cdf440e8cb562b34e914b28f33264004d630.m3u8
