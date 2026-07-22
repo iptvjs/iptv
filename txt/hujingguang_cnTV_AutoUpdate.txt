@@ -52,23 +52,20 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 央视台,#genre#
-CCTV-4_中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784653200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b78f62191e4c9d4a77ec463fac7304fa&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4K_高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784653200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b67533af2a40e12fab84f06106a61689&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4_中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784739600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-17a31aeab9eac7e1c03042d2c030bff4&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4K_高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784739600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-a612cae95bb56ed125b009b3bca668fd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8_电视剧,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV-9_纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c9a492b331285cb07c7ab7384da74f04
+CCTV-9_纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ae00413a08337bba9bc23234016a8477
+CCTV-10_科教,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
 CCTV-11_戏曲,http://183.196.25.171:808/hls/11/index.m3u8
-CCTV-15_音乐,https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 
 卫视台,#genre#
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1784123883-f178167128c55cd66b7eca004ccca015-0-69f388bdaa594feb900510d687566182
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-辽宁卫视,https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8
-江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv6.m3u8?t=1784004704&token=67a59c29-de6e-4407-90c8-39f7e099b3db&d=0a7a8c487c454bc7bb02a60298283c5e
-云南卫视,https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=132cb2fc54c2c4fe7a0b58973cdd5fee&wsTime=1784235566
-深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/q37Age0.m3u8?sign=671fcd3c133f66cef04a83ae0b8c542b&t=6a59189c
+云南卫视,http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=ca9a9194ec9a95ed2539e69d07b645d5&wsTime=1784134111
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1784283312&k=9740237ad5542a40ff56157ccf9bc99d
 陕西卫视,http://stream.snrtv.com/sxbc-star-BLMOU4.m3u8
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
