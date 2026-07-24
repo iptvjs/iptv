@@ -55,29 +55,27 @@
 | 47 | JP1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8> |
 | 48 | KPop | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8> |
 | 49 | 民视新闻HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8> |
-| 50 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784815200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-330560e0d459dee5c9958b27da17a701&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
-| 51 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784815200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-95923e83ce03f35bd08b667fa0fee542&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
+| 50 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1784894400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3cb56eb35ea465437c8721efba5fd2ed&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
+| 51 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784894400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b69bbfbd302979d67edec57ec5044e0d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
 | 52 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
-| 53 | CCTV-9 纪录 | v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com | <https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8dd8e4112c2de51e0a6b3f8bfec9bf46> |
-| 54 | CCTV-10 科教 | jsv-live-play.sfccn.com | <https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8> |
-| 55 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
+| 53 | CCTV-9 纪录 | v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com | <https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=27cab5a491a135e375b0866113b974a3> |
+| 54 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
+| 55 | CCTV-16 4K | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8> |
 | 56 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
 | 57 | 浙江卫视 | 浙江广播电视集团 | <http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1784718132-ebc796d43096e23aad5d56ba638be8c6-0-bb2c2dbcd2b4e115aa53bc84322b8a7f> |
 | 58 | 凤凰资讯 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8> |
 | 59 | 凤凰中文 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8> |
-| 60 | 重庆卫视 | live2.plus.jinhua.com.cn | <http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8> |
+| 60 | 重庆卫视 | p2.ioioz.com | <http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202607240508/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
 | 61 | 江西卫视 | jsp-tv-live.jxtvcn.com.cn | <https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_fsgw.m3u8> |
-| 62 | 黑龙江卫视 | live2.plus.jinhua.com.cn | <http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8> |
-| 63 | 云南卫视 | jsv-live-play.sfccn.com | <https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8> |
-| 64 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=132cb2fc54c2c4fe7a0b58973cdd5fee&wsTime=1784235566> |
-| 65 | 深圳卫视 | sztv-hls.sztv.com.cn | <https://sztv-hls.sztv.com.cn/1SIQj6s/500/t8rdSgQ.m3u8?sign=d227cf35e8b7280c45f4b9f01206bd5f&t=6a60cbd2> |
-| 66 | 河北卫视 | tv.pull.hebtv.com | <https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1784283312&k=9740237ad5542a40ff56157ccf9bc99d> |
-| 67 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/h1thc41.m3u8> |
-| 68 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-BLMOU4.m3u8> |
-| 69 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
-| 70 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
+| 62 | 云南卫视 | sttv-hls.strtv.cn | <https://sttv-hls.strtv.cn/lKGXIQa/500/23slfG0.m3u8?sign=845648864a72d327f1e3bef1756e4b54&t=6a62501b> |
+| 63 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0f4c205f500502b49407ed239906285c&wsTime=1784840577> |
+| 64 | 深圳卫视 | sztv-hls.sztv.com.cn | <https://sztv-hls.sztv.com.cn/1SIQj6s/500/t8rdSgQ.m3u8?sign=d227cf35e8b7280c45f4b9f01206bd5f&t=6a60cbd2> |
+| 65 | 河北卫视 | tv.pull.hebtv.com | <https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1784283312&k=9740237ad5542a40ff56157ccf9bc99d> |
+| 66 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-JNW048.m3u8> |
+| 67 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
+| 68 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
 
-Updated at **7/23/2026 10:33:53 AM**
+Updated at **7/24/2026 10:31:04 AM**
 
 ## 使用说明
 
