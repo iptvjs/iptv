@@ -381,8 +381,10 @@
 | 373 | CGTN French (1080p) | IPv4 直链 | <http://145.239.5.177/214/index.m3u8> |
 | 374 | Lanzhou Comprehensive News Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8> |
 | 375 | Lanzhou Culture & Tourism Channel | liveplus.lzr.com.cn | <https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8> |
+| 376 | Qinghai TV | hls-qhmh.lanzhousobey.cn | <https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8> |
+| 377 | Jiangsu Public & News Channel | 荔枝网 | <https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8> |
 
-Updated at **7/29/2026 10:28:00 AM**
+Updated at **7/30/2026 10:10:03 AM**
 
 ## 使用说明
 
