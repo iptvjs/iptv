@@ -384,7 +384,7 @@
 | 376 | Qinghai TV | hls-qhmh.lanzhousobey.cn | <https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8> |
 | 377 | Jiangsu Public & News Channel | 荔枝网 | <https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8> |
 
-Updated at **7/31/2026 10:38:03 AM**
+Updated at **8/1/2026 10:36:39 AM**
 
 ## 使用说明
 
