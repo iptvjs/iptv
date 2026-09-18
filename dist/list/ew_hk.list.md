@@ -21,7 +21,7 @@
 | 13 | [BD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8> |
 | 14 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.m3u8> |
 
-Updated at **9/18/2026 3:34:11 AM**
+Updated at **9/19/2026 2:54:16 AM**
 
 ## 使用说明
 
