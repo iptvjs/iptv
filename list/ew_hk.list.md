@@ -12,7 +12,7 @@
 | 4 | [SD]翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8> |
 | 5 | [SD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8> |
 
-Updated at **9/23/2026 11:21:48 AM**
+Updated at **9/24/2026 11:11:12 AM**
 
 ## 使用说明
 
