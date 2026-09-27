@@ -344,7 +344,7 @@
 | 336 | Chuxiong News Channel [Not 24/7] | hwapi.yntv.net | <http://hwapi.yntv.net/ew265l/848y54.m3u8> |
 | 337 | Chaozhou Public Channel | IPv4 直链 | <http://113.64.146.48:1688/hls/4/index.m3u8> |
 
-Updated at **9/26/2026 11:33:46 AM**
+Updated at **9/27/2026 11:42:44 AM**
 
 ## 使用说明
 
