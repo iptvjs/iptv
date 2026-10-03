@@ -22,7 +22,7 @@
 | 14 | CCTV-Women's Fashion (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub> |
 | 15 | CCTV-World Geography (1080p) | IPv4 直链 | <http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub> |
 
-Updated at **10/2/2026 12:05:33 PM**
+Updated at **10/3/2026 11:49:34 AM**
 
 ## 使用说明
 
