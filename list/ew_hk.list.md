@@ -17,7 +17,7 @@
 | 9 | [SD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8> |
 | 10 | [HD]凤凰中文 | stream1.freetv.fun | <https://stream1.freetv.fun/e0c859ca201f3d03836f51e08e68b5d21c2f94462c3bc7686058368b63bb6deb.ctv> |
 
-Updated at **10/3/2026 11:49:34 AM**
+Updated at **10/4/2026 12:21:03 PM**
 
 ## 使用说明
 

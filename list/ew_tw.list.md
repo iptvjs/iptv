@@ -32,7 +32,7 @@
 | 24 | [BD]金光布袋戏 | stream1.freetv.fun | <https://stream1.freetv.fun/a64a8bc8f1e401e1c12604a5b79d19edca054bd552bfad27c8807788c7289b46.ctv> |
 | 25 | [HD]非凡新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/0d5a5ce924aa323b57e608e00cf62cbd6628179bf5d0b2e0ddd93a5796ccfbdf.ctv> |
 
-Updated at **10/3/2026 11:49:34 AM**
+Updated at **10/4/2026 12:21:03 PM**
 
 ## 使用说明
 
