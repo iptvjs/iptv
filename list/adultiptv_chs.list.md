@@ -31,7 +31,7 @@
 | 23 | AdultIPTV.net Gay | cdn.adultiptv.net | <http://cdn.adultiptv.net/gay.m3u8> |
 | 24 | AdultIPTV.net Asian | cdn.adultiptv.net | <http://cdn.adultiptv.net/asian.m3u8> |
 
-Updated at **10/4/2026 12:21:03 PM**
+Updated at **10/5/2026 12:05:26 PM**
 
 ## 使用说明
 
