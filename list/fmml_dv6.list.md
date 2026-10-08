@@ -107,7 +107,7 @@
 | 99 | 家有购物 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8> |
 | 100 | 快乐购 | 中国移动上海 | <http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8> |
 
-Updated at **10/7/2026 12:21:02 PM**
+Updated at **10/8/2026 12:32:38 PM**
 
 ## 使用说明
 
