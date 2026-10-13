@@ -9,14 +9,14 @@
 | 1 | [BD]sony bbc earth | stream1.freetv.fun | <https://stream1.freetv.fun/21ec7f18c3d2a6320ffec5e58af144665df179c4a0531bc3d2170c5b4417da52.m3u8> |
 | 2 | [BD]magna channel | stream1.freetv.fun | <https://stream1.freetv.fun/96237410ab7c4004710907cb110949ede84be4d14e7f6b0879c34b6067da3d30.m3u8> |
 | 3 | [BD]discovery world brazil | stream1.freetv.fun | <https://stream1.freetv.fun/cd3e325ce6ea2932ed055cfe8513003fb6c772b9fdd5333083506d6beb0473b7.m3u8> |
-| 4 | [BD]discovery | stream1.freetv.fun | <https://stream1.freetv.fun/7c5d8bb68473e29f0336a20d263a2194a0f25e57adcdf5a0dde59a8e13ecc159.m3u8> |
+| 4 | [HD]discovery historia | stream1.freetv.fun | <https://stream1.freetv.fun/77a69ec73beca19be382b07ff3abeee49a5b605b083ad2ee35abb31437ffb8ef.m3u8> |
 | 5 | [VGA]cctv4美洲 | stream1.freetv.fun | <https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv> |
 | 6 | [VGA]delta tv | stream1.freetv.fun | <https://stream1.freetv.fun/1a8af234f3f251464bf680633e348eb6d051897aa1bede24cd85425aa9cbe46f.m3u8> |
 | 7 | [BD]eleven sports 1 | stream1.freetv.fun | <https://stream1.freetv.fun/294c40dd087f23576b2cc889c27c27791b33bebc29d24c48b35286779dc58880.m3u8> |
 | 8 | [SD]bflix movies | stream1.freetv.fun | <https://stream1.freetv.fun/2fda0dbc8ad206b2ea146eca06e1ae4c228af479c5eb9e98fe39f28b3a634661.m3u8> |
 | 9 | [BD]food network | stream1.freetv.fun | <https://stream1.freetv.fun/5889e7999bbd5762c39dcf896c8fb7ec08b5892e0d5db3c75a85151d0154e925.m3u8> |
 | 10 | [BD]hbo asia | stream1.freetv.fun | <https://stream1.freetv.fun/ef4058bb06183138fcdabd0aed99e004085100f879da21a712edca84b525d31a.ctv> |
-| 11 | [BD]hgtv | stream1.freetv.fun | <https://stream1.freetv.fun/216474e80e35b2ba8436cc747cf54e7c43110bd6fd8d425d3f37b7c76f01365e.ctv> |
+| 11 | [BD]hgtv | stream1.freetv.fun | <https://stream1.freetv.fun/16921d3dca27c2ee8be3a30323ec24fe8f4c7b059d64a08f892dbe3f32c53d08.m3u8> |
 | 12 | [BD]hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/793a7877c65e6c293fd5f27ff22851a47af907efc537167108aa089643cfdfd0.m3u8> |
 | 13 | [BD]love nature | stream1.freetv.fun | <https://stream1.freetv.fun/b0000c4eb57bda1a3b5648b80522cabcc1bb196fb9ad2f34bc1e58b1608855a1.m3u8> |
 | 14 | [BD]pet club tv | stream1.freetv.fun | <https://stream1.freetv.fun/43e3d201d62dd5f1492697364a0f43db2fb76186dcb15b54d340d2fe97e8cc11.m3u8> |
@@ -40,7 +40,7 @@
 | 32 | [BD]华视 | stream1.freetv.fun | <https://stream1.freetv.fun/4ea88a37de2bb1a69fda2f631b257cb4f7fa912c7c999c151d2c4145db972489.ctv> |
 | 33 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **10/12/2026 12:22:12 PM**
+Updated at **10/13/2026 1:30:45 PM**
 
 ## 使用说明
 
