@@ -52,22 +52,21 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 央视台,#genre#
-CCTV-4_中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1792172700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2580dc61b3d9432cd1c6ed502bb0804e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4K_高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1792172700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-9e1965769fa90cb3bb36b4ee8b48d8d8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4_中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1792256400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b95e8e34291ef8bc88a2e3f11ecdf7a5&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4K_高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1792256400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-e484d52a45ffe549f6604e0e918145a3&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-8_电视剧,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV-9_纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e901be31cfa2ebf5c55b59d23993bf29
+CCTV-9_纪录,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9c5dbb13fa9155598b742fdbb9ad46e8
 CCTV-11_戏曲,http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 
 卫视台,#genre#
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1791594505-5f3d562b0203e17254f4e6ba3a85af67-0-579edc459f4649a7340db2449a801975
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰中文,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_fsgw.m3u8?t=1791593000&token=8b980173-24f6-43b7-a1a6-a318238fa94e&d=75b9f83bf46a4befaed2d224c6c4959a
+江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1792198247&token=a4f55604-2566-4367-81a0-922a55462089&d=59247c6514ae44089f5dbc7d18aa63fe
 云南卫视,http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fedd0e335d6cefa2f7cab4e8bc7640dc&wsTime=1791788510
-深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/i27Ape0.m3u8?sign=1b1b865c9eb4cd432f67136800718139&t=6ac9cfdd
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sqpR0.m3u8
+河北卫视,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1791785019&k=529e523e4a89d11eef42f73bbabe64bf
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/f2dpoy0.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
