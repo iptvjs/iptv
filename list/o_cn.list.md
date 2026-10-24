@@ -155,7 +155,7 @@
 | 147 | Zhejiang International Channel | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8> |
 | 148 | Zhejiang Satellite TV (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 
-Updated at **10/23/2026 11:24:42 AM**
+Updated at **10/24/2026 11:18:44 AM**
 
 ## 使用说明
 
