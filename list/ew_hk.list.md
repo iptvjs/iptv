@@ -6,7 +6,7 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]cctv-8电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv> |
+| 1 | [HD]cctv-8电视剧 | stream1.freetv.fun | <https://stream1.freetv.fun/a59ac83779cb5370427192e331ba9f3d9f8dae2194dbe08c2cc23df97e30ae2e.ctv> |
 | 2 | [BD]viju plus serial | stream1.freetv.fun | <https://stream1.freetv.fun/6ace9875c5c4c15f1bc1e74e6531a7ddb03018ac41fb08f9124e916b1e5fc04f.m3u8> |
 | 3 | [BD]cctv1 | stream1.freetv.fun | <https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8> |
 | 4 | [HD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.m3u8> |
@@ -25,7 +25,7 @@
 | 17 | [VGA]凤凰资讯480p | stream1.freetv.fun | <https://stream1.freetv.fun/c767db781863761bfe6bdfc5b40e7964104fbc84ba79cd81c02fecc414438998.ctv> |
 | 18 | [VGA]凤凰香港480p | stream1.freetv.fun | <https://stream1.freetv.fun/b9bee5a9f4ade90b0352409b33a29854bb10760a22e3d798cb4b4ad4b40f20b4.ctv> |
 
-Updated at **10/25/2026 11:14:04 AM**
+Updated at **10/26/2026 11:14:52 AM**
 
 ## 使用说明
 
