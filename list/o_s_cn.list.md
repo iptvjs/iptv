@@ -346,8 +346,9 @@
 | 338 | Dongguan Comprehensive News Channel | stream.sun0769.com | <https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8> |
 | 339 | Hunan Economy Channel | p8.vzan.com | <https://p8.vzan.com/slowlive/415983998730568937/live.m3u8> |
 | 340 | Xinjiang TV 5 | IPv4 直链 | <http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 341 | Jingmen Comprehensive News Channel | stream.jmtv.com.cn | <https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036> |
 
-Updated at **10/29/2026 12:24:20 PM**
+Updated at **10/30/2026 12:24:15 PM**
 
 ## 使用说明
 
