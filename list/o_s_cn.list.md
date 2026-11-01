@@ -353,7 +353,7 @@
 | 345 | Zhejiang Children's Channel | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d> |
 | 346 | Zhejiang Minsheng Leisure | 浙江广播电视集团 | <rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790> |
 
-Updated at **10/31/2026 12:04:14 PM**
+Updated at **11/1/2026 12:26:46 PM**
 
 ## 使用说明
 
