@@ -46,20 +46,20 @@
 | 38 | JP1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8> |
 | 39 | KPop | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8> |
 | 40 | 民视新闻HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8> |
-| 41 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1793970000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5cbbc499ae57e03460faccd99859fedf&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
-| 42 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793970000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b423c7f0db772b912f46762b32333878&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
+| 41 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794049200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-982dfdf58268e0a310168282fdf35b6e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
+| 42 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794049200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ab4ad2149ff49a1a047af8e84e6470ff&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
 | 43 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
-| 44 | CCTV-9 纪录 | v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com | <https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4033a9b6853bda6427ebdc53b95b78d7> |
+| 44 | CCTV-9 纪录 | v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com | <https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e585d7c4467abb61730bdb5002af57e8> |
 | 45 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
 | 46 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
-| 47 | 浙江卫视 | 浙江广播电视集团 | <http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1793329561-59e0f7a0efd9efc05daee82b65cd6d34-0-cd52a2c0ae2b5a05abd7e27e13de9d56> |
+| 47 | 浙江卫视 | 浙江广播电视集团 | <http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1793823716-824f6eef3e876d8718c59bba59576d8d-0-e398235e86e1003617bb00be0b7f84b5> |
 | 48 | 凤凰资讯 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8> |
 | 49 | 凤凰中文 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8> |
-| 50 | 重庆卫视 | p2.ioioz.com | <http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611060606/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
+| 50 | 重庆卫视 | p2.ioioz.com | <http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611070406/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
 | 51 | 江西卫视 | jsp-tv-live.jxtvcn.com.cn | <https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1793408491&token=7876fd76-1e9f-4635-aaf7-87a1f9a5da7d&d=2c4ea588a04b40cf8cb4fa2b343f002b> |
 | 52 | 云南卫视 | p2.ioioz.com | <http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8> |
-| 53 | 四川卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8> |
-| 54 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9dcc2f2fe27b74ba62c937c2b5d1f22c&wsTime=1793714221> |
+| 53 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9dcc2f2fe27b74ba62c937c2b5d1f22c&wsTime=1793714221> |
+| 54 | 深圳卫视 | sztv-hls.sztv.com.cn | <https://sztv-hls.sztv.com.cn/AxeFRth/500/k47Ale0.m3u8?sign=5d3a924e0329606d92d02a1c2c8714cc&t=6ae58124> |
 | 55 | 东南卫视 | live1-fuyun.fjtv.net | <https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=777071ac1793598534> |
 | 56 | 海峡卫视 | live1-fuyun.fjtv.net | <https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=777071ac1793598534> |
 | 57 | 河北卫视 | tv.pull.hebtv.com | <https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1793599611&k=4240e01cf8dd1c025928dff438565d5a> |
@@ -68,7 +68,7 @@
 | 60 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
 | 61 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
 
-Updated at **11/6/2026 1:08:17 PM**
+Updated at **11/7/2026 12:41:07 PM**
 
 ## 使用说明
 
