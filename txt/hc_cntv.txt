@@ -43,8 +43,11 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 央视台,#genre#
+CCTV-4_中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794232800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-de74d2e32a6435586b714e14bae0dda3&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4K_高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794232800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2ecc1ed9e30fd7be070b68f4af3861c6&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-6_电影频道,https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8
 CCTV-8_电视剧,http://183.196.25.171:808/hls/77/index.m3u8
+CCTV-9_纪录,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1e04d806e0db87e87ed05b313e1b3694
 CCTV-11_戏曲,http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 
@@ -60,6 +63,7 @@ CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=777071ac1793598534
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1793599611&k=4240e01cf8dd1c025928dff438565d5a
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqvR0.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-fmLPQR.m3u8
 宁夏卫视,https://livepgc.cmc.ningxiahuangheyun.com/live/nxgg1M.m3u8
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
