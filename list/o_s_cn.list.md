@@ -354,7 +354,7 @@
 | 346 | Yichang Sanxia Travel & Life Channel | liveplay.ycrmt.cn | <https://liveplay.ycrmt.cn/sxgd/lysh.m3u8> |
 | 347 | Yichang Sanxia General Channel | liveplay.ycrmt.cn | <https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8> |
 
-Updated at **11/13/2026 1:05:42 PM**
+Updated at **11/14/2026 12:57:09 PM**
 
 ## 使用说明
 

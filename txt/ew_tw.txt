@@ -20,7 +20,6 @@
 [HD]人间卫视,https://stream1.freetv.fun/1f63ffacdc4c93b5736f59829aac1fccdf3df1e37bf8ba95c258b6e7d946d8a7.m3u8
 
 电影,#genre#
-[BD]hbo_asia,https://stream1.freetv.fun/ef4058bb06183138fcdabd0aed99e004085100f879da21a712edca84b525d31a.m3u8
 [BD]young_hollywood,https://stream1.freetv.fun/b4071bf8e755cc3de63150e1668117c38f0e9a1b820f1e303e79df2dc6bf94b8.m3u8
 [HD]经典香港电影,https://stream1.freetv.fun/aa72403ee21188014b4d48c19f6d9b1ca52d877e3151d5e2273952d3f52012ba.ctv
 
@@ -28,14 +27,8 @@
 [BD]lifetime,https://stream1.freetv.fun/d7cba25b1671760295246d0866ae5a329ee7e5a55d472b2ee191b12c2b9c5f99.m3u8
 [HD]纬来日本,rtmp://f13h.mine.nu/sat/tv771
 
-新闻,#genre#
-[BD]tvbs新闻,https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
-[BD]中天新闻,https://stream1.freetv.fun/26909b95e0b48a92beff981e4af1a947e0f4eaf4515fb45d81de571b7a5aaeb0.m3u8
-[BD]东森新闻,https://stream1.freetv.fun/0b780d5b5f2fdb57d708e3ff8ed2ef52dd017f2fe48c7a5ed007859e6f936a18.m3u8
-[BD]民视新闻,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
-[HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-
 综合,#genre#
+[HD]folklore_tv,https://stream1.freetv.fun/98c53bd59bc155d0fac8237f383bddf9815371d239302047e61be96841044d7f.m3u8
 [BD]tudn,https://stream1.freetv.fun/227495ebae42f0b3ab4c6ea1262e59797ee56c72db17a12f6419afb5f8b20db3.m3u8
 [HD]中天亚洲,https://stream1.freetv.fun/fb5088a5c525c62662aede873dc53aee0741b0c7d3f600d399c927702b403501.ctv
 [HD]中视,rtmp://f13h.mine.nu/sat/tv091
@@ -45,3 +38,10 @@
 [HD]民视,rtmp://f13h.mine.nu/sat/tv051
 [HD]纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 [HD]华视,rtmp://f13h.mine.nu/sat/tv111
+
+新闻,#genre#
+[BD]tvbs新闻,https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
+[BD]中天新闻,https://stream1.freetv.fun/26909b95e0b48a92beff981e4af1a947e0f4eaf4515fb45d81de571b7a5aaeb0.m3u8
+[BD]东森新闻,https://stream1.freetv.fun/0b780d5b5f2fdb57d708e3ff8ed2ef52dd017f2fe48c7a5ed007859e6f936a18.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
+[HD]非凡新闻,rtmp://f13h.mine.nu/sat/tv581

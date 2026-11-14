@@ -46,13 +46,13 @@
 | 38 | JP1 | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8> |
 | 39 | KPop | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8> |
 | 40 | 民视新闻HD | Github Raw | <https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8> |
-| 41 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794575700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5170baceb7d84387314172d218fcb5ff&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
-| 42 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794575700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b9d749a07dc0ed0fc6e7f9e18ae2834e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
-| 43 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
-| 44 | CCTV-9 纪录 | v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com | <https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9dfec0a0c9c5a6cd0a87d0cf6dc495be> |
-| 45 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
-| 46 | CCTV-15 音乐 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8> |
-| 47 | CCTV-16 4K | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8> |
+| 41 | CCTV-4 中文国际 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794665700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-116642a1ac99d5073c624730f516221d&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
+| 42 | CCTV-4K 高清 | CCTV | <https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794665700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-60ceabe966b287278ca06ee74936c7d0&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c> |
+| 43 | CCTV-6 电影频道 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8> |
+| 44 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
+| 45 | CCTV-9 纪录 | v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com | <https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8d1809edb0942934c71a2858c3757f9a> |
+| 46 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
+| 47 | CCTV-15 音乐 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8> |
 | 48 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
 | 49 | CGNT 记录频道 | CGTN | <https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8> |
 | 50 | CGNT 新闻频道 | CGTN | <https://english-livebkali.cgtn.com/live/encgtn_0.m3u8> |
@@ -60,7 +60,7 @@
 | 52 | 凤凰资讯 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8> |
 | 53 | 凤凰中文 | api.mg.itv888.cn:8080 | <http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8> |
 | 54 | 安徽卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/anhui_2/index.m3u8> |
-| 55 | 重庆卫视 | p2.ioioz.com | <http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611130621/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
+| 55 | 重庆卫视 | p2.ioioz.com | <http://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611140721/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
 | 56 | 天津卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8> |
 | 57 | 辽宁卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/liaoning_2/index.m3u8> |
 | 58 | 江西卫视 | jsp-tv-live.jxtvcn.com.cn | <https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1794013596&token=2ac29651-e452-41aa-8610-576600b95a78&d=bdbf52e6ef194344b818495cfe62811d> |
@@ -68,18 +68,17 @@
 | 60 | 四川卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8> |
 | 61 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e5d1ea81ecd8cfb7cb754fb985142493&wsTime=1794157947> |
 | 62 | 广东卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangdong_2/index.m3u8> |
-| 63 | 深圳卫视 | sztv-hls.sztv.com.cn | <https://sztv-hls.sztv.com.cn/sztvgjpd/500/v37pzsvm.m3u8?sign=04db80f6da90ff51c0ca60380bb5ae6c&t=6aedbb9d> |
+| 63 | 深圳卫视 | sztv-hls.sztv.com.cn | <https://sztv-hls.sztv.com.cn/AxeFRth/500/q7A4e0R.m3u8?sign=fd2b11690d32e81b8039d68714b75a99&t=6af26296> |
 | 64 | 东南卫视 | live1-fuyun.fjtv.net | <https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=ad8a1e6f1794269060> |
-| 65 | 厦门卫视 | live1b.kxm.xmtv.cn | <https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8> |
-| 66 | 海峡卫视 | live1-fuyun.fjtv.net | <https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=ad8a1e6f1794269060> |
+| 65 | 海峡卫视 | live1-fuyun.fjtv.net | <https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=ad8a1e6f1794269060> |
+| 66 | 河北卫视 | tv.pull.hebtv.com | <https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1794266213&k=55f06251556908626750f9dc96c4d6a9> |
 | 67 | 广西卫视 | piccpndks.v.kcdnvip.com | <https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8> |
 | 68 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/c1tlfe0.m3u8> |
 | 69 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-fmLPQR.m3u8> |
-| 70 | 宁夏卫视 | livepgc.cmc.ningxiahuangheyun.com | <https://livepgc.cmc.ningxiahuangheyun.com/live/nxgg1M.m3u8> |
-| 71 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
-| 72 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
+| 70 | 海南卫视 | livelyws.chinamcache.com | <https://livelyws.chinamcache.com/lyws/zb03.m3u8> |
+| 71 | 三沙卫视 | srs.ssws.tv | <https://srs.ssws.tv/video/sstv-10/index.m3u8> |
 
-Updated at **11/13/2026 1:05:42 PM**
+Updated at **11/14/2026 12:57:09 PM**
 
 ## 使用说明
 
