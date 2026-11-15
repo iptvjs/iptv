@@ -7,7 +7,7 @@
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
 | 1 | [HD]channel 11 | stream1.freetv.fun | <https://stream1.freetv.fun/c429f9a26d194c07f60f2cc2ce74303b08d301367ba100b87e006a06914a088e.m3u8> |
-| 2 | [BD]discovery world | stream1.freetv.fun | <https://stream1.freetv.fun/ca4aac164327de2806c1d1c1436c082ba9c83f99b350e31a4f0b2ee99e2cf442.m3u8> |
+| 2 | [BD]discovery world | stream1.freetv.fun | <https://stream1.freetv.fun/4471ee31ca03f85b567d2355a3e4f59e5a8d2cff4cc32d99c8ba6a3c1efb4eef.m3u8> |
 | 3 | [BD]discovery h h | stream1.freetv.fun | <https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.m3u8> |
 | 4 | [HD]cctv4美洲 | stream1.freetv.fun | <https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv> |
 | 5 | [BD]delta tv | stream1.freetv.fun | <https://stream1.freetv.fun/af94afe188d865e3b9abd37e8dcf9c142e358e3db1172f2a1f11a6a23b90f3c4.m3u8> |
@@ -39,7 +39,7 @@
 | 31 | [HD]华视 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv111> |
 | 32 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 
-Updated at **11/14/2026 12:57:09 PM**
+Updated at **11/15/2026 12:50:31 PM**
 
 ## 使用说明
 
