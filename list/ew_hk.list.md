@@ -6,22 +6,20 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | [BD]cctv-12社会与法 | stream1.freetv.fun | <https://stream1.freetv.fun/8fec588fa09e356552f56f5e64a875f44c72f6ef785b0d2b4bbd6527f64e804e.ctv> |
-| 2 | [BD]news12 plus long island | stream1.freetv.fun | <https://stream1.freetv.fun/65863b150a9cc44389ad0f3d10dc2da9b74a2957c88f1f7668bb631a2c29ce24.m3u8> |
-| 3 | [BD]cctv-1hd | stream1.freetv.fun | <https://stream1.freetv.fun/d61aa6b7302b43c9b1a30ebe8f085d7e892f6982c299c9f0d4e6eceec35396e2.m3u8> |
-| 4 | [VGA]the movie club | stream1.freetv.fun | <https://stream1.freetv.fun/2ce573e25208bd1625350e6a9adb61ecec2e0aaad023fa2fe55173128037c7e6.m3u8> |
-| 5 | [BD]atv plus | stream1.freetv.fun | <https://stream1.freetv.fun/f349080d4631a41e91634a88cf5f68af55a85a8239f6ecd5fd5ee69f611ba075.m3u8> |
-| 6 | [HD]tvbs亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/ce8e01cc845634983919a261db9d656ca889917f942f25ef8739ac2a33a07cdc.ctv> |
-| 7 | [BD]tvb星河 | stream1.freetv.fun | <https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.m3u8> |
-| 8 | [BD]prime | stream1.freetv.fun | <https://stream1.freetv.fun/e6a2e56b74d1d5290d8219e1973f4b7b0bf1e85e98130a210eade1ede67360ef.m3u8> |
-| 9 | [BD]明珠台 | stream1.freetv.fun | <https://stream1.freetv.fun/d1da08cd35d96f944f0ab0c0cc5ed0ee74e753f8fd9cbcb4c56e15d46ce3993a.ctv> |
-| 10 | [HD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv> |
-| 11 | [BD]翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8> |
-| 12 | [BD]凤凰中文 | stream1.freetv.fun | <https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.ctv> |
-| 13 | [HD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv> |
-| 14 | [HD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv> |
+| 1 | [BD]news12 plus long island | stream1.freetv.fun | <https://stream1.freetv.fun/65863b150a9cc44389ad0f3d10dc2da9b74a2957c88f1f7668bb631a2c29ce24.m3u8> |
+| 2 | [HD]cctv-1 | stream1.freetv.fun | <https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8> |
+| 3 | [VGA]the movie club | stream1.freetv.fun | <https://stream1.freetv.fun/2ce573e25208bd1625350e6a9adb61ecec2e0aaad023fa2fe55173128037c7e6.m3u8> |
+| 4 | [HD]etv plus | stream1.freetv.fun | <https://stream1.freetv.fun/8173d90ec9bd3b1d59a1a4a7a0d378d2322697a3d8412caffb4c6da6913e555b.m3u8> |
+| 5 | [HD]tvbs亚洲 | stream1.freetv.fun | <https://stream1.freetv.fun/ce8e01cc845634983919a261db9d656ca889917f942f25ef8739ac2a33a07cdc.ctv> |
+| 6 | [BD]tvb星河 | stream1.freetv.fun | <https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.m3u8> |
+| 7 | [BD]prime | stream1.freetv.fun | <https://stream1.freetv.fun/e6a2e56b74d1d5290d8219e1973f4b7b0bf1e85e98130a210eade1ede67360ef.m3u8> |
+| 8 | [BD]明珠台 | stream1.freetv.fun | <https://stream1.freetv.fun/d1da08cd35d96f944f0ab0c0cc5ed0ee74e753f8fd9cbcb4c56e15d46ce3993a.ctv> |
+| 9 | [HD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.ctv> |
+| 10 | [BD]翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8> |
+| 11 | [BD]凤凰中文 | stream1.freetv.fun | <https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.ctv> |
+| 12 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv> |
 
-Updated at **11/26/2026 2:52:58 PM**
+Updated at **11/27/2026 2:45:25 PM**
 
 ## 使用说明
 
